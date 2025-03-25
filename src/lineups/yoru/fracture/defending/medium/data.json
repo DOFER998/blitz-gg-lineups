@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Side Defender Spawn Gatecrash Lineup From B Generator",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-def-asitedefenderspawn-bgenerator-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Gatecrash lineup from B Generator for A Side Defender Spawn."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Off Angle Blindside From B Generator To Retake B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-def-abovebgenerator-bgenerator-blindside.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Blindside from B Generator for retaking B Site that is difficult to counter."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Early Round B Tree Blindside From B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-def-btree-bmain-blindside.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective early round Blindside from B Main for B Tree."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Canteen Gatecrash Lineup From A Side Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-def-bcanteen-asite-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Gatecrash lineup from A Side Defender Spawn for B Canteen."
+        }
+    ]
+}

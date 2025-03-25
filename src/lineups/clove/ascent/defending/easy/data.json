@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Early Round B Main Meddle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-def-bmain-market-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest for B Main early into the round with this powerful lineup."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Start A Main Ruse Smoke Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-def-amain-amain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to contest for control at A Main."
+        }
+    ]
+}

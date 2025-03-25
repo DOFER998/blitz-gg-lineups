@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "neon",
+            "title": " Early Round A Pipes Jumps from Four Ten and Screens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-icebox-def-apipes-asite-highgear.mp4",
+            "difficulty": "pro",
+            "description": "Here are two great ways to quickly get jump onto A Pipes at the beginning of the round, that allow you to either aggressively peek players pushing out from Attacker Spawn into A, or gain a timing advantage on players pushing out from Attacker Spawn into A."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Front A Site Spike Plant Delay / Retake Fast Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-icebox-def-asite-ascreens-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great way to use your Fast Lane to delay, or do damage to the enemy spike planter on B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Early Round A Belt High Gear Jump from Four Ten",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-icebox-def-abelt-asite-highgear.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great way to jump onto A Belt from Four Ten at the very beginning of the round using your High Gear ability."
+        }
+    ]
+}

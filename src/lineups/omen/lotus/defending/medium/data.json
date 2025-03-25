@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Inner C Site Delay Dark Cover from C Hall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-cbend-chall-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dark Cover to make it more difficult for enemy players to take control of inner C Site, and force them to use more risky, or more costly tactics to take control of Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Main Dark Cover to Contest Space ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-bmain-bsite-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use this early round Dark Cover to make it more difficult for the Attackers to take space in B main, this can be done at any point in the round - but can consistently provide more info and control when used at the beginning of the round. Combo it with a paranoia if you think that will increase your team's ability to rotate and respond to the enemy team's efforts in B Main if needed. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Upper Retake / Delay for B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-bupper-bmain-paranoia.mp4",
+            "difficulty": "medium",
+            "description": "This is used ideally right as the enemy team is pushing into B Site, so that you can make it much more difficult for the enemy team to follow through with their execute, while also setting you and your team up for easy picks."
+        }
+    ]
+}

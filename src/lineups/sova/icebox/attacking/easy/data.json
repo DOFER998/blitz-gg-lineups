@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Start Round Default Dart for Top Belt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-belt-belt-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "This lineup is not specific, you simply shoot the arrow in the general area to gain early round information on any Defenders looking to take an aggressive engagement. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Green to B Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)sova-icebox-atk-bdefault-bgreen-shockdart.mp4",
+            "difficulty": "easy",
+            "description": "This is a good set of shock darts for post plant on B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early Round Mid Blue To B Orange Recon Bolt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-borange-midblue-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for quickly scanning players in B Orange at the beginning of the round. \n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Nest to A Site Shock Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)sova-icebox-atk-adefault-anest-shockdart.mp4",
+            "difficulty": "easy",
+            "description": "This is a good shock dart combo to kill enemies on the boxes on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Belt to A Site Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)sova-icebox-atk-backasite-anest-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a good recon bolt to spot a lot of angles on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Blue to Mid Boiler Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)sova-icebox-atk-midboiler-midblue-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a good recon bolt to see enemies in Mid Boiler."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early A Site And A Nest Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sovaiceboxearlyasitereconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This recon bolt is a great way to get some early information as to where the defending side players are set up on A Site."
+        }
+    ]
+}

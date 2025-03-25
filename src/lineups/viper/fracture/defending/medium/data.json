@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Aggressive Tree Poison Cloud From B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-tree-bsite-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's an aggressive set up that threatens Arcade and Tree, as your smoke is effective and oppressive at denying information and control. You may go underground and harass Arcade players, or simply wait for the Tree players to get anxious to push through the smoke and punish them. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard Arcade Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-arcade-bsite-wall_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong standard set up for the B Site, your wall and mollies will make Attackers struggle when taking Arcade. The orb is used to isolate B Main attackers from Arcade attackers."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard Defender A Main Toxic Screen ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-amain-amain-wall_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong standard set up for the A Site, your wall and mollies will make Attackers struggle when taking A Main control. The orb is used to isolate Dish players from A Main."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "One Way Orb For A Main From Top A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-amain-amain-orb_1.mp4",
+            "difficulty": "medium",
+            "description": "Follow this video's lineup during preparation phase for a strong one way orb for A Main. This orb is only effective for Defenders playing stairs / top site. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Tree Toxic Screen From B Canteen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-btree-bcanteen-toxicscreen.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Toxic Screen for taking aggressive control of B Tree, or making it more difficult for attackers to take space in B Tree while some of your other teammates get aggressive or gather information in other areas of the map."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Early Round B Arcade Poision Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-barcade-btower-poisoncloud.mp4",
+            "difficulty": "medium",
+            "description": "This is a great early round Poison cloud for B Arcade. It might be better to have another player play in B Tower after you throw the Poison Cloud down however, since Viper might be better utilized in other areas on site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Site Retake Viper's Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-def-asite-asite-viperspit.mp4",
+            "difficulty": "medium",
+            "description": "This is a great retake Viper's Pit for A Site, that primarily makes it more difficult for attackers in A Main to stop you from defusing the spike on site, while also potentially creating an opportunity for you to get on site and clear out players on site without a main being able to stop you from pushing onto site as well."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "raze",
+            "title": "A Main Paint Shells + Fade Seize Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-def-amaintethercombo-asite-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "Use this early round A Main Paint Shells + Seize combo to get picks early in the round by catching enemy players who attempt to push through A Main quickly off guard, while also creating a window of opportunity that your team can use to gain an advantage when contesting A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Delay C Site Push with These Paint Shells Lineups when Rotating",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-def-csite-chall-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "Use these Paint Shells lineups to delay the C Site Push when you are rotating through C Waterfall or C Hall from somewhere else on the map."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Early Round A Main Paint Shells to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-def-amain-asite-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "Throw Paint Shells in front of the Attacker A Lobby spawn barrier to contest space in A Main."
+        }
+    ]
+}

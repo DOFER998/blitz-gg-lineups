@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Aggressive Turret For Dish Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-drop-asite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to contest for Dish/Drop, while stalling A Main. If uncontested and you have ult, you could retake the A Site from Drop. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Off Site Sands Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-asite-sands-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to isolate Attackers when executing the A Site. This Turret allows you to fight Sands with an extra crossfire, the Mollies stall for your team's rotations, and the Alarmbot gains information of a potential lurker. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Standard Turret Setup To Spot Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-arcade-bsite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a good, standard setup to use to cover both lanes that approach the B Site. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility Setup For A Main / A Drop",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-amain-amain-turret.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Full Utility Setup to do damage to players pushing through A Main into A Site, that delays players from approaching the A Main / A Site chokepoint - while also keeping somewhat of a hold on A Drop / A Dish."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Generator Turret For B Main / B Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-bgenerator-bsite-turret.mp4",
+            "difficulty": "medium",
+            "description": "This B Generator Turret will react to players pushing up B Main, as well as players pushing through B Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Simple A Site Stairs Turret For A Main / A Drop / A Ropes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-asite-asite-turret.mp4",
+            "difficulty": "medium",
+            "description": "This Turret will react to players pushing out of A Main onto A Site, players jumping down from A Drop, and players who have pushed far enough through A Ropes into A Site."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Quick C Link to C Main Recon Bolt to Support C Hold / Retake",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-def-cmain-clink-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "Use this Recon Bolt when rotating to C to catch enemy players pushing through C Main off guard and support your team."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round A Main Info Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-def-amain-amain-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Recon Bolt to gather information in A Main at the very start of the round."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Default Attacker Wall for B Site From Shop",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-atk-bsite-market-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Throw this wall as soon as preparation phase ends for a strong default wall. This wall prevents Defenders from successfully spotting your lurk to link, and can be used to execute B Site late into the round."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Default Post Plant Snakebite from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/pearl-viper-atk-asite-backamain-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great post plant Snakebite lineup from A Main."
+        }
+    ]
+}

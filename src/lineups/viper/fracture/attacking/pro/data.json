@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Poison Cloud Lurk For Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-arcade-spawn-orb_2.mp4",
+            "difficulty": "pro",
+            "description": "Use this extremely strong attack setup to allow yourself for three potential lurks, and a late execute wall for the B Site. Those three routes are shown within the video : Tower, B Site, and Spawn."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Upper A Site Viper's Pit To Create Lower A Site One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-upperasite-upperasite-viperspit.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Viper's Pit for post plant situations as an Attacker on A Site. The Viper's Pit creates a one way around lower A Site that can potentially make it much more difficult for players to take control of A Site - especially if the enemy team has already had players picked off that would be helpful to clear out under lower A Site to counter the one way. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site / B Tower Toxic Screen From Front B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-btower-frontbtree-toxicscreen.mp4",
+            "difficulty": "pro",
+            "description": "Here's a Toxic Screen that divides B site and blocks vision of players peeking out of B Tower into Arcade. However, this is somewhat difficult to pull off, so if you are using this in a game for the first time - aim a very small amount to the left of the edge of the b tower platform that overlooks Arcade. Aiming to the left a small amount will give players more room to peek out of Tower, but it is better than not lining up the wall correctly and not blocking players vision in Tower at all. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site / B Tower Toxic Screen From Back B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-btower-backbtree-toxicscreen.mp4",
+            "difficulty": "pro",
+            "description": "Here's a Toxic Screen that divides B site and blocks vision of players peeking out of B Tower into Arcade. However, this is somewhat difficult to pull off, so if you are using this in a game for the first time - aim a very small amount to the left of the edge of the b tower platform that overlooks Arcade. Aiming to the left a small amount will give players more room to peek out of Tower, but it is better than not lining up the wall correctly and not blocking players vision in Tower at all. "
+        }
+    ]
+}

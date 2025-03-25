@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Kitchen To B Tube Poison Cloud One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-btube-bkitchen-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This simple to execute Poison Cloud is useful for smoking off B Tube and also acts as a great one-way for anyone passing under B Tube from Mid Blue."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Site To A Pipes One Way Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-apipes-asite-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This one-way Poison Cloud lineup is simple and extremely useful for holding off players pushing in from A Nest."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Screen To A Screen Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-ascreen-ascreen-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This Toxic Screen lineup is useful for blocking the enemy player's vision on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Screen To A Nest Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-asite-ascreen-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "This Snakebite lineup is useful for stopping players on the attacking side from pushing in too aggressively and can also prevent them from taking the A Site ult orb.\n"
+        }
+    ]
+}

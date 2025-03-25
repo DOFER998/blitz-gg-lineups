@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Site to A Pocket Nova Pulse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(20)astra-bind-def-apocket-asite-novapulse.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nova pulse to concuss enemies playing in A Pocket allowing you to swing and get a frag."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Hall to B Hookah Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(14)astra-bind-def-bhookah-bhall-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula for B Hookah to dissipate and cross to site without being seen."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site to B Hookah Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)astra-bind-def-bhookah-bsite-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well and nova pulse combo to completely disorient your target and get a kill."
+        }
+    ]
+}

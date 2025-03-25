@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Main to Top Site Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-sunset-atk-bsite-bsite-haunt_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Gain easy information towards back site with this Haunt lineup, as well as clearing close angles with your Prowler."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "A Main to Top A Site Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-sunset-atk-asite-amain-haunt_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Gain info on defenders on A Site with this top of site Haunt lineup."
+        }
+    ]
+}

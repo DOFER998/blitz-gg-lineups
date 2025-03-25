@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "C Site Fire Wall Execute + Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-lotus-atk-csite-cmain-blaze.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective Blaze + Curveball combo to execute onto C Site with your team."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Main Hot Hands + Curveball Execute Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-lotus-atk-bmain-bpillars-hothands.mp4",
+            "difficulty": "medium",
+            "description": "Push into B Main with this simple Hot Hands lineup, and then after clearing out B Main, push into Site with one or both of these flash variations."
+        }
+    ]
+}

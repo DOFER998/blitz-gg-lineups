@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Safe Defender Side Spawn Paintshells To B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-def-bmain-defendersidespawn-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This lineup is useful for when you want to slow the push from the attackers out of B Main onto B Site, from behind cover."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Site Paintshells To B Main Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-def-bmain-bsite-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "These grenade lineups are useful for stopping pushes out of B Main or doing damage to anyone around the fish box in B Main."
+        }
+    ]
+}

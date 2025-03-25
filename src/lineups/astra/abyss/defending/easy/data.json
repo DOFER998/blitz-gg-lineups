@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Main Gravity Well + Window Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-abyss-def-bmain-bmain-pull_1(medium).mp4",
+            "difficulty": "easy",
+            "description": "Use this standard setup to contest for B Main orb and force Attackers to take that angle by smoking the window. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Site Nebula + Gravity Well Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-abyss-def-amain-amain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this strong and simple combination of Astra stars to contest and hold A Site. "
+        }
+    ]
+}

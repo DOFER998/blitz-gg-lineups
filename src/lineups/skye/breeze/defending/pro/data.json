@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": " Defender Side A Hall Doors To A Site Pop Flash Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-asite-ametaldoors-guidinglight.mp4",
+            "difficulty": "pro",
+            "description": "There are several ways you can Pop Flash A Site through the opening in the ceiling close to the A Metal Doors in Defender Side A Hall. These two setups in particular are great for flashing players pushing into A Site, as long as you don't flash your own teammates. They are not beginner level flashes though, so they may require some practice in customs to perfect."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Defender Spawn To B Site Pop Flash For B Main Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-bsite-defendersidespawn-guidinglight.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Pop Flash to flash the attackers as they push out of B Main into B Site. It is not a beginner level flash though, so it may require some practice in customs to perfect."
+        }
+    ]
+}

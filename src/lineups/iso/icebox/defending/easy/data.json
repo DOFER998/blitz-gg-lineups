@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Simple B Long Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-icebox-def-blong-blong-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup gives you quick control of B long to head off a push."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "iso",
+            "title": "A Site Undercut Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-icebox-def-asite-asite-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Undercut lineup to turn the tables on the attackers as they take site."
+        }
+    ]
+}

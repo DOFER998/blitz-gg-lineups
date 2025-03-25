@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "B Long to Link Barrier Mesh ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-atk-link-blong-barrier_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's an effective way to prevent Defenders from successfully rotating in and out of B Site and Link. It is recommended to use this line up when playing post plant."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Main to Art / Site Barrier Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-atk-art-amain-barrier_1.mp4",
+            "difficulty": "medium",
+            "description": "When executing the A Site, use this Barrier Mesh line up to prevent Defenders from successfully rotating onto the site from Art."
+        }
+    ]
+}

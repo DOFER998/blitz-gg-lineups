@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Main + A Tree Delay Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-amain-atree-nebula_1.mp4",
+            "difficulty": "medium",
+            "description": "Use Nebulas to make it more difficult for enemy players to push through these key choke points into A Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Main Control Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-bmain-bsite-nebula.mp4",
+            "difficulty": "medium",
+            "description": "Use this typically at the beginning of the round to make it more difficult for enemy players to take space in B Main. "
+        }
+    ]
+}

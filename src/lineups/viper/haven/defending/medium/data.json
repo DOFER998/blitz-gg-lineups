@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Aggressive C Link Orb to Mid Window ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-window-clink-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Delay your throw a little later than your jump to successfully accomplish this aggressive orb lineup. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round Garage Door One Way Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-garagedoor-garagewindow-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "As soon as preparation phase is completed, throw your orb like so for an easy garage hold."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Long One Way Poison Orb for A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-along-ammo-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this strong one way lineup to isolate A Long Attackers and A Short Attackers from executing easily. "
+        }
+    ]
+}

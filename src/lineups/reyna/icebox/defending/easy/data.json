@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Window to B Snowpile Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-bwindow-bsnowpile-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind B Snowpile from B Kitchen window."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Snowpile to B Orange Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-bsnowpile-borange-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer from B Snowpile to blind enemies in B Orange."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Kitchen to Mid Blue Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-bkitchen-midboiler-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to assist your teammates in middle."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Kitchen to B Tube Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-bkitchen-btube-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to punish players peeking B Kitchen from B Tube."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Mid Boiler to Mid Blue Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-midboiler-midblue-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peak out from mid boiler and get information on your opponents or get a quick pick if they are peaking."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Orange to Mid Blue Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-borange-midblue-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peak out middle and get information on your enemies or a quick pick if they are peaking."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Green to B Garage Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-def-byellow-atkspawn-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peak right as soon as the boundaries go down and get a quick pick or valuable information on your opponents."
+        }
+    ]
+}

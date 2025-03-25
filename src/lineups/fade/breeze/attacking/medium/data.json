@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Main To B Walls Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-atk-bsite-bmain-haunt_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Let your Haunt survey B Site for you with this lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "A Pyramid Post Plant Site Hold Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-atk-apyramids-apyramids-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple but effective Haunt that give you valuable information in a post plant scenario."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Site Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-atk-bsite-bmain-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Execute Haunt for B Site, that clears out Back B Site, many other commonly held angles on the front side of B Site, and much of inner B Site."
+        }
+    ]
+}

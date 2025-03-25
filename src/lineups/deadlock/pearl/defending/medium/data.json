@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive Early A Main Control Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-def-amain-amain-barrier_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective Barrier Mesh line up to disrupt Attackers looking to take A Main control at the start of the round. You can also place the barrier down to grab, and farm the free orb. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive Link to Mid Window Annihilation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-def-window-link-annihilation_1.mp4",
+            "difficulty": "medium",
+            "description": "Contest Mid with your teammates with this Annihilation line up off their contact / sound towards Window. "
+        }
+    ]
+}

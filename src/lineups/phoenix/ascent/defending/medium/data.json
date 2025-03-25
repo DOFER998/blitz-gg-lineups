@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "Mid Market To Back Bomb Site B",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-def-backbombsiteb-midmarket-hothands.mp4",
+            "difficulty": "medium",
+            "description": "This molly lineup is useful for when you want to stop someone from planting behind default on Bomb Site B, or clear that area in general. To do this follow the lineup on-screen and throw the molly, hold your forward movement key, and jump all at the same time."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "Mid Market Blaze To B Site Cubby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-def-bsite-midmarket-blaze.mp4",
+            "difficulty": "medium",
+            "description": "This blaze lineup is useful for when you want to cross into the close left B Site cubby outside of Mid Market. To do this blaze lineup correctly, try to mimic the speed at which the crosshair moves in this clip when casting the blaze, to generally the same spot seen on screen."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "A Site to A Main Orb Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-def-amainorb-asite-hothands.mp4",
+            "difficulty": "medium",
+            "description": "This is useful if you hear someone taking the orb in A Main. Position in the corner, aim at the smudge on the wall, jump, and throw. This is very forgiving but this lineup works well."
+        }
+    ]
+}

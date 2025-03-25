@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round Info Dart for Tree From B Site Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-tree-bsite-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart for information at Tree and a bit of Attacker's Spawn, you can use this to enable any of your teammates looking to peek from B Main."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Round Info Dart for Attacker Spawn From Sands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-spawn-sands-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong, info dart lineup you can use in the middle of the round to gain information on Attacker's rotations. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Info Dart for Outside A Main From Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-spawn-rafters-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart at the start of the round to gain information on any Attackers looking to take A Main control."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Arcade Info Dart From Barrier ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-arcade-arcade-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this line up at the start of the round for quick information at Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Spam Dart Through Door for A Main From Sands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-amain-sands-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Follow this video to perform a play towards A Main, or to spam Attackers through the door without opening it."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Link To B Tower Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-def-btower-blink-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This quick and easy Recon Bolt lands in B Tower, and scans some of the inside of B Tower, as well as much of the Spike plant zone on B Site."
+        }
+    ]
+}

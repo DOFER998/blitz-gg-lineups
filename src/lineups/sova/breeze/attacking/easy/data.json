@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Simple Early A Main Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-amain-amain-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this lineup to quickly gain info on A Site with."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Recon Bolt For Left B Site / Front B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-closeleftbsite-midcannon-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a useful arrow to have as an option to scan the left side of B Site, and the front side of B Site, that can be used situationally alongside other lineups throughout the Attacking half, depending on how you think the defending team could be playing B Site throughout the half."
+        }
+    ]
+}

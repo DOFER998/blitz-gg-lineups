@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "Full B Reckoning and Cascade Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-atk-bsite-bsite-reckoning_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "When Reckoning is up, you can use this combination of utility to effectively force Defenders into an unfavorable position. When setting up a split towards the B Site, follow the video demonstration. If not, make sure to High Tide Market and Spawn off instead of using Cascade. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Full Cascade Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-atk-bsite-bsite-hightide_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use High Tide to restrict visibility from outside of site all in one go as demonstrated in the video, for an efficient way of executing the B Site.  "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Site Cascade Link + Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-atk-asite-amain-cascade_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use Cascade to push back defenders, or leave them slowed for a push onto A Site."
+        }
+    ]
+}

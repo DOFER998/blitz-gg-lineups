@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "B Site Meddle Boxes + Ruse Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-atk-bsite-bsite-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the B Site, use these standard smokes to shut off angles. Follow up with your Meddle if there is a Defender playing on site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "A Site Top Meddle + Ruse Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-atk-asite-asite-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the A Site, use these standard smokes and a Meddle to pressure Defenders playing on site. You might be able to spam and pick a Defender off. "
+        }
+    ]
+}

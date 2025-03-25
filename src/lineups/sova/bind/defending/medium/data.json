@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Showers Recon Bolt to Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-showers-triple-dart_2.mp4",
+            "difficulty": "medium",
+            "description": "To contest showers at the start of the round, use this recon dart lineup to match the timing in which you peek."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Side Defender Spawn To Front A Site Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-asite-defenderspawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Recon Bolt to assist your teammates hold on A Site as the enemy team pushes into Site, if you are unable to rotate in time to assist your team from a closer position inside of Defender Spawn."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Side Defender Spawn To A Short Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-ashort-defenderspawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful Recon Bolt from B Side Defender Spawn, that scans enemy players as they push up A Short. In some situations, if you rotate to A Side Defender Spawn you can combo this Recon Bolt with your Ultimate Ability."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Defender Spawn To B Site Retake Recon Bolt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-bsite-defendersidespawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is great for retaking B Site, keep in mind though that you can only do this when you are sure that you are not vulnerable to inner B Site or B Elbow. \n"
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Recon Bolt From A Heaven To Outside Of A Bath",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-alobby-atower-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful Recon Bolt for A Lobby / outside of A Bath is disruptive to players in that area, and easy to set up. Players do have a decent amount of time to react to it, but even if they do react to it and shoot it, they may have to make noise to shoot or run to cover to try to duck the arrow."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Defender Spawn to B Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)sova-bind-def-bsite-ctspawn-shockdart.mp4",
+            "difficulty": "medium",
+            "description": "This is a good shock dart to kill anyone planting the bomb on B Site and allow your team to retake the site with man advantage."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Pipes to A Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)sova-bind-def-adefault-ctspawn-shockdart.mp4",
+            "difficulty": "medium",
+            "description": "This is a good shock dart to kill an enemy planting the bomb and giving your team the man advantage going into a retake."
+        }
+    ]
+}

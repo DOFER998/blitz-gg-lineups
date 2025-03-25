@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Aggressive C Main FLASH/DRIVE from C Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-def-cmain-clobby-flashdrive.mp4",
+            "difficulty": "easy",
+            "description": "Use this aggressive FLASH/DRIVE either to make it more difficult for enemy players to take space in C Main at the beginning of the round, or to push into C Main at any stage of the round. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round A Main FLASH/DRIVE to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-def-amain-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "Use this early round A Main Flash Lineup to contest space in A Main with your teammates. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round A Lobby ZERO/POINT from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-def-alobby-bmain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Use this ZERO/POINT lineup from B Main to scan for enemy players in A Lobby at the start of the round."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round A Lobby ZERO/POINT from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-def-alobby-amain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round ZERO/POINT for A Lobby from the Defender A Main Spawn Barrier."
+        }
+    ]
+}

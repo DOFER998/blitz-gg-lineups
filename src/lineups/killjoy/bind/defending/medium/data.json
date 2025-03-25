@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Main / A Site Full Utility Hold Variation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-def-asite-amain-nanoswarm_2var.mp4",
+            "difficulty": "medium",
+            "description": "Use this full utility setup to make it difficult for enemy players to push through A Main into A Site at key points in the round. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility B Site Hold with Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-def-bsite-bsite-nanoswarm_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to hold B Site."
+        }
+    ]
+}

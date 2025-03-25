@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round Outside B Main Tether for Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-def-bmain-pillar-tether_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong Seize lineup you can combo with, for start round control of B Main."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Front A Site Retake Haunt From Sreens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-def-asite-screens-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective Haunt lineup to retake the A Site, it clears Hell and front site."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round A Main Info Haunt From Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-def-amain-rafters-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Haunt lineup to use to grab fast A Main information, Attackers will have a hard time shooting it."
+        }
+    ]
+}

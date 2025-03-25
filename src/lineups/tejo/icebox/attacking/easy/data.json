@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Site Rafters Salvo + Drone Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-atk-asite-asite-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Execute the A Site with this combination of utility, Defenders will have an extremely tough time holding backsite with your Salvo to force them out."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Site + Rafters Armageddon Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-atk-asite-asite-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Defenders to give up site or take an unfavorable, aggressive fight towards A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Kitchen + B Site Armageddon Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-atk-bsite-bsite-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Defenders to give up site or take an unfavorable, aggressive fight towards B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Site Salvo Exec + Yellow Drone Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-atk-bsite-bsite-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set your team up successfully when executing the B Site with this simple, but effective combination of utility."
+        }
+    ]
+}

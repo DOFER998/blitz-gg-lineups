@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Simple Early Round Mid Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-atk-mid-mid-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Blind defenders at Nest, Doors, and B Tunnel with this Flashpoint lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Bottom Mid to A Hall Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(16)breach-breeze-atk-ahall-midbottom-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint for A Hall from Bottom Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Shop to A Site Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(12)breach-breeze-atk-asite-ashop-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Aftershock for the box to the left of A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Rope to A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)breach-breeze-atk-asite-arope-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint for A Site from A Ropes."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Bottom Mid to Top Mid Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)breach-breeze-atk-midtop-midbottom-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flashpoint to blind enemies in top mid from bottom mid."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Hall Fault Line",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)breach-breeze-atk-ahall-ahall-faultline.mp4",
+            "difficulty": "easy",
+            "description": "This is a good fault line to concuss anyone playing "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Site to Back A Site Boxes Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)breach-breeze-atk-backasiteboxes-asite-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to kill any enemies or force them out of hiding on A Site for an easy frag."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)breach-breeze-atk-asite-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flashpoint for attacking and pushing onto A Site."
+        }
+    ]
+}

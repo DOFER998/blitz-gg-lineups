@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Main Nebulas One Way And Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-def-bmain-bmain-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this pair of stars to make executing the B Site extremely difficult for Attackers. You can refresh the one way, or simply recycle your smokes towards B Main like so."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site Pillar Stars Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-defense-bmain-bsite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Pull attackers through a Nebula to disrupt attackers executing onto B Site."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Orb A Main Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-defense-amain-amain-pull_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Disrupt an A Main push with this gravity well, pulling attackers into a disadvantageous position."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Stairs One Way Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-defense-amain-amain-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This one way smoke gives you an easy way to watch for attackers pushing in to A site."
+        }
+    ]
+}

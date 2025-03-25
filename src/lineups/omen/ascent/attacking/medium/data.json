@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Aggressive Bottom Mid Dark Covers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-atk-mid-midtiles-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use these aggressive bottom Mid Dark Covers to contest Mid with your team, and / or set your team up to push through market into B Site after taking control of Mid. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Bottom Mid Dark Cover to Contest Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-atk-bottommid-catwalk-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use this Bottom Mid Dark Cover to contest space in Mid. One way of utilizing this smoke is to try and set up a split A execute, by taking Catwalk control and then pinching Site after taking control of Catwalk with teammates positioned in A Main."
+        }
+    ]
+}

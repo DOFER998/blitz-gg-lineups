@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Simple A Site Execute Blaze + Curveball",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-fracture-atk-asite-amain-blaze.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to use your Blaze and Curveball when executing onto A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Tower Post Plant Setup Utility Usage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-fracture-atk-bsitepocket-btower-hothands.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple way to make good use of your Hot Hands, and your Curve Ball when delaying enemy players from defusing the Spike from B Tower."
+        }
+    ]
+}

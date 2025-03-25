@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Top Mid Mosh Pit Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-abyss-atk-topmid-mid-moshpit_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but powerful way to flush out Defenders at Top Mid. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Left A Site Dizzy Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-abyss-atk-asite-asite-dizzy_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Dizzy lineup to clear all of the left side of site and front site. "
+        }
+    ]
+}

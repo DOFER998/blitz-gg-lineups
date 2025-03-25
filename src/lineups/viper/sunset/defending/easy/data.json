@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Simple Doublebox One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-def-doublebox-asite-orb_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Poison Cloud lineup for a one way smoke from A Link."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Main to Bottom Mid Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-def-bmain-mid-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Disrupt attackers' visibility with this Toxic Screen lineup, controlling both B Main and Mid."
+        }
+    ]
+}

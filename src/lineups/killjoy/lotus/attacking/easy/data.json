@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Full Utility C Site Execute + Post Plant Site Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-lotus-atk-csite-cmain-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a straightforward, and very effective full utility C Site Execute + post plant Site hold. Only place the Turret after your team has taken a considerable amount of control of C Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Aggressive Early Round C Main Turret + Full Utility Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-lotus-atk-cmain-clobby-turret.mp4",
+            "difficulty": "easy",
+            "description": "Use this turret early in the round to attempt to take space in C Main, if your team successfully takes control of C, then use the rest of this setup in the post plant. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Execute Turret + Alarm Bot ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-lotus-atk-amain-asite-turret.mp4",
+            "difficulty": "easy",
+            "description": "Use this Turret + Alarm Bot setup when pushing onto A with your team."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Main Lurk Turret Setup when Team is Pushing A",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-lotus-atk-bmain-attackerspawn-turret.mp4",
+            "difficulty": "easy",
+            "description": "Use this Turret when your team is pushing toward A, if you want to lurk into B Main."
+        }
+    ]
+}

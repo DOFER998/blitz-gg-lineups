@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "C Long Snakebite Post Plant Lineup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-cdefault-spawn-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this safe, yet effective molly lineup in the post plant to secure rounds. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "C Long Default Poison Orb to C Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-cdefault-spawn-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Position yourself like so, and perform a simple jump throw for a strong default orb. This orb is great to use to prevent Defenders from jump-spotting for information, or more added pressure to your site execute."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Spawn to B Site Post Plant Snakebite ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-bdefault-spawn-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great, safe molly lineup you can use from spawn in the post plant situation. You can make micro-adjustments to the lineup to land on the right plant spot, this one covers the left corner."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Long Snakebite Post Plant to A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-adefault-along-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a fast and simple molly lineup you can use during the post plant, you will not be exposed to any Defenders retaking long. "
+        }
+    ]
+}

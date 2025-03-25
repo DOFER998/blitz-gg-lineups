@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Early B Main Razorvine Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-def-bmain-bmain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take control of early B Main space with this simple, but effective lineup."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Default A Main Razorvine Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-def-amain-amain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest for A Main control with this easy, and effective lineup."
+        }
+    ]
+}

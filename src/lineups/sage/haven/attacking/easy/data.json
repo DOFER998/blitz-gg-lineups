@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "A Site Post Plant Wall Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-atk-ashort-ashort-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong off-angle to use during the post plant, allowing you to contest Defenders retaking without having to worry about being smoked off. You can also leave space open, as shown in the video, if you need to."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Default A Long Slow to Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-atk-along-along-slow_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fight for A Long control and successfully pressure Defenders there with this slow lineup."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Simple B Site Spike Plant Walls",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-atk-haven-bsite-mid-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here are two simple Barrier Orb variations for B Site, that are primarily used to plant the spike on B. \n"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "C Execute Slow Orb For Back Site / Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-atk-csite-csite-spawn_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing onto C Site, using this slow orb to support your duelists before they scale into site can be incredibly effective at disrupting the enemy team towards Spawn and Back Site."
+        }
+    ]
+}

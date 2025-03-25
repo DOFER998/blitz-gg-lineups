@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "How to Split A Site Through Ramp With Boom Bot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-atk-aheaven-aramp-rooma_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, for an easier split on the A Site. You'll be able to isolate fights and push advantages into your favor."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Ramps Boombot Lineup For Mid Vent",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-atk-lowermidvent-upperaramp-boombot.mp4",
+            "difficulty": "medium",
+            "description": "This Boombot lineup is useful for clearing out the inside of Lower Vents. Be careful though, since the boom bot can be temporarily avoided by a player inside of Vents - so make sure to watch ropes as you push into A Tower at least until the boom bot is gone."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Market To Mid Vent Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-atk-midvent-market-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This paintshells lineup is useful for doing damage to players in Mid Vent, as well making it more difficult for them to peek you from Mid Vent. To do this, align the wall on the left side of the screen, with the left edge of the box on the right side of mid top, then move forward, jump, and throw the grenade without moving your Crosshair to bounce it into mid vent."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Sewers To Mid Mail Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-atk-midmail-sewers-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This paintshells lineup is useful for pushing out players in mid mail. To do this, center your character up with the line on the wall on the right side of the Sewer entrance, then line your Crosshair up with the base of the line seen on-screen on the box on the right side of mid bottom, jump, and throw the paintshells at the top of the jump."
+        }
+    ]
+}

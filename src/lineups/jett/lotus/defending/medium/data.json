@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Aggressive Early Round B Main Tailwind + Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-def-bmain-bsite-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Use this aggressive early round B Main Tailwind + Flash setup to look for picks in B Main at the start of the round. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Updraft Off Angle for Attacker A Main Cross",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-def-amain-amain-updraft.mp4",
+            "difficulty": "medium",
+            "description": "Use this Updraft off angle to catch enemy players off guard as they cross through A Main. Be sure to prime your Tailwind at an optimal time that is worth the risk of activating the Tailwind without getting value out of it, with the goal of getting 1 pick and then getting out. "
+        }
+    ]
+}

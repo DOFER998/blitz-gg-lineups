@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Showers Delivery + Salvo Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-def-showers-showers-delivery_1(pro).mp4",
+            "difficulty": "pro",
+            "description": "Use this combination of utility to contest Attackers taking Showers control, effectively trapping them into a fight."
+        }
+    ]
+}

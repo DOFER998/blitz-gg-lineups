@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Showers Meddle + Ruse Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-def-showers-showers-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but strong way to contest for Showers control."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Default Short Hold Ruse One Way ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-def-short-short-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this standard, and strong one way towards Short to hold."
+        }
+    ]
+}

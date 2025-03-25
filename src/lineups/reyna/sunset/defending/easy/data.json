@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Aggressive Market Leer Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-sunset-def-mid-market-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Leer lineup to support an aggressive peek into Mid from Market."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Aggressive A Leer Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-sunset-def-amain-asite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Leer lineup to support an aggressive peek down A Main."
+        }
+    ]
+}

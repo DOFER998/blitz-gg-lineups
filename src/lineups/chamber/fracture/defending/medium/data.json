@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive Early Round B Main Rendezvous + Trademark Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-bmainentrance-bsite-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Use this early round B Main Rendezvous + Trademark setup to peek into B Main, challenge an enemy player, and then teleport out with utility set up to stall enemy players as they attempt to push into B Site through B Main."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Early Round B Arcade + Tunnel Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-bsite-tunnel-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "This Rendezvous for Arcade allows you to play in many different ways in and around B Site, Arcade, and Tunnel."
+        }
+    ]
+}

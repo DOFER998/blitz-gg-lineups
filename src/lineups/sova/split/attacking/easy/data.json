@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Sewers To Mid Vent Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-midvent-sewers-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This simple recon bolt lineup is useful for revealing players in all of Mid Vent, and unless players go into lower vents it cannot be dodged. The lineup is especially useful for forcing players who hold a tight angle on Ramen with an operator to back up into safety to shoot the bolt, because if they don't they are open to being shot from Ramen as they look down to shoot the bolt."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Lobby To B Site Default Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-bsite-blobby-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players on Default B Site. Make sure to hug the wall behind you when following the lineup."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Lobby To A Ramps Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-aramps-alobby-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players in most spots in A Ramps, but will not reveal players crouching behind the box on the left side of Ramps going in toward Heaven. To do this, hug the corner seen on-screen, then aim your crosshair at the top right of the billboard in A Main, and shoot a single bounce, full charge bolt. "
+        }
+    ]
+}

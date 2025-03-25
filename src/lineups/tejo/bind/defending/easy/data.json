@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Mid Info TP Drone to Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-def-hookah-uhall-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gather information towards Short and Mid, as well as providing support towards Hookah with this Drone pathing."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "B Long Armageddon Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-def-blong-blong-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Attackers into an unfavorable position with this Armageddon lineup, allowing you to time a fight easily. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Short Salvo For Utility",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-def-short-short-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Counter Initiator utility with this simple Salvo lineup towards Short. Use this to trade and deny information."
+        }
+    ]
+}

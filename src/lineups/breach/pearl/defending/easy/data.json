@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Art to Mid Top Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5breach-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Flashpoint to push through A Art and peek toward Mid Top."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Ramp to B Club Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2breach-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Flashpoint to peek the corner of B Ramp into B Club."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1breach-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Flashpoint to retake B Site."
+        }
+    ]
+}

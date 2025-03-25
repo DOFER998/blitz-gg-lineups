@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Fast Aggressive B Main Stun + Flash Fight",
+            "video": "",
+            "difficulty": "easy",
+            "description": "Contest B Main control with your team, using this fast and aggressive setup. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Tiles Stun + Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-sunset-def-tiles-link-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "A Fault Line and Flashpoint early-round contest to gain control of Mid."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Simple Vents Orbital Strike",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-abyss-atk-vents-vents-orbstrike_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Flush out Defenders playing in Vents with this simple Orbital Strike lineup. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Heaven + Spawn Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-abyss-atk-bsite-bsite-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this standard set of smokes to execute the B Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Heaven + Spawn Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-abyss-atk-asite-asite-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple set of smokes you can use to execute the A Site."
+        }
+    ]
+}

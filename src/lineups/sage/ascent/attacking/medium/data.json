@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Defender Spawn Slow from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-atk-ct-bmain-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This slow is useful to slow down rotators, especially if you used your wall already or plan to use it elsewhere."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "A Lobby to A Rafter Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-atk-alobby-arafter-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "Position yourself in the corner, aim at the icicle shown, and drag the cursor right until it's above the left edge of the bump in the wall."
+        }
+    ]
+}

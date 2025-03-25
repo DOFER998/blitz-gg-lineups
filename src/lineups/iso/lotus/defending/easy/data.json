@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "iso",
+            "title": "C Mound Undercut Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-lotus-def-cmound-csite-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Push back early against a C push with this Undercut lineup."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Start Round A Site Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-lotus-def-amain-asite-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Quickly take your team to A Site with this Undercut lineup."
+        }
+    ]
+}

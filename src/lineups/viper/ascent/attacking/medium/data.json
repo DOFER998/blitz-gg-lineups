@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Hut to B Site Post Plant Snakebite ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-atk-plant-hut-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple post plant molly lineup that is safe, as it lets you play outside of B Main. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Start Round Tiles to Mid Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-atk-mid-tiles-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this start round lineup to ensure easier control of mid. This orb is great for defaulting, as you get to choose when it goes up or down. You can use it to take mid control, or cross from tiles to cat. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Standard Orb + Wall For A Site Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-atk-door-amain-wall_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a standard smoke setup for the A Site, as your wall covers door and orb for heaven. Due note though, Defenders may hide hell."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Standard Orb + Wall Combo For B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-atk-ctspawn-hut-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a standard smoke setup for the B Site, as your wall covers market and orb for spawn. Be careful though, Defenders can potentially hide and tuck in the corner of B Main. On the mini-map, in the video, the danger ping highlights the aforementioned spot. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Early Round Tiles to Cat Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-atk-cat-tiles-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this start round lineup to ensure easier control of mid. This smoke is great for defaulting, as you choose when to put it up/down. "
+        }
+    ]
+}

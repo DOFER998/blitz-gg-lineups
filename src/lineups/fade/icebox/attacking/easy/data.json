@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Back Right A Site Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-backrightasite-underanest-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective execute Haunt for the back right side of A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Right A Site Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-agenerator-underanest-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective execute Haunt for the right side of A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round A Belt Haunt to Stop Aggression",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-abelt-attackerspawn-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great early round Haunt for the front of A Belt, that forces enemy players to position a player on pipes if they want to make an aggressive early round play."
+        }
+    ]
+}

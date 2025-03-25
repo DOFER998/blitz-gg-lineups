@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Aggressive A Main Dark Cover to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-amain-asite-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "Use this Dark Cover to contest space in A Main with your team, and if the situation calls for it use your paranoia to make it even more difficult for enemy players to attempt to contest your team's efforts in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Main into Site Chokepoint Delay Dark Cover + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-bsite-bmain-darkcover_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this Dark Cover + Paranoia chokepoint delay setup to delay / break up enemy players pushing through B Main into B Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "omen",
+            "title": "C Site Chokepoint Delay Dark Cover + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-def-cmain-csite-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "Use this C Site chokepoint Dark Cover + Paranoia combo to delay / break up the Attackers into C Site."
+        }
+    ]
+}

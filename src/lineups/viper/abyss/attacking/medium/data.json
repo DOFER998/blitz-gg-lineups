@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site Heaven Poison Cloud + Toxic Screen Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-abyss-atk-bsite-bsite-orb_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use these two utility pieces to ensure strong smokes for your team at the B Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Toxic Screen + Orb For Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-abyss-atk-asite-asite-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use these two utility pieces to ensure strong smokes for your team at the A Site."
+        }
+    ]
+}

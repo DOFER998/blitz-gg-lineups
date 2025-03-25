@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "neon",
+            "title": "B Site Retake Fast Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-def-bsite-backbsite-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Fast Lane to retake control of the spike plant area on B Site. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "neon",
+            "title": "A Main Delay Setup From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-def-asite-atree-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great full utility delay setup for A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "neon",
+            "title": "B Main Delay Setup From Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-def-bsite-market-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great full utility delay setup for B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "neon",
+            "title": "A Rafters Slide on Top of Dice to Peek Under Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-def-arafter-asite-highgear.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to catch players under Heaven off guard, if you can find the right timing to do so."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Gatecrash + Fakeout B Site Scale ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-abyss-atk-bsite-bsite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's one way to path and scale the B Site effectively. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Backsite Gatecrash + Blindside Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-abyss-atk-asite-asite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Execute the A Site with this strong combination of utility to gain an advantage."
+        }
+    ]
+}

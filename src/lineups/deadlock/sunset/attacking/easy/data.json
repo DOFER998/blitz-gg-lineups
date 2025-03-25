@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Standard Attacker Sensors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-sunset-atk-spawn-spawn-sensors_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover your team's flank with these Sonic Sensor placements to catch rotating defenders."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Early A Window GravNet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-sunset-atk-awindow-amain-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this GravNet lineup to ensnare aggressive A Site defenders."
+        }
+    ]
+}

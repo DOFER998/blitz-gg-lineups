@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Elbow + Spawn B Ruse And Meddle Backsite ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-atk-bsite-bsite-ruse_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's an easy, yet powerful setup you can use when executing the B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Alternate Aggressive A Site Ruse Smokes + Triple Meddle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-atk-asite-asite-ruse_2(hard).mp4",
+            "difficulty": "medium",
+            "description": "Use this alternative setup when looking to aggressively contest for the A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Mid A Site Ruse Smokes + Meddle U-Hall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-atk-asite-asite-ruse_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a combination of utility you can use when executing the A Site."
+        }
+    ]
+}

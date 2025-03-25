@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Lockdown",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5killjoy-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Lockdown to get onto B Site and push the defenders off allowing you to take the site way easier."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Outside A Short To Front Truck Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-atk-frontruck-outsideashort-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm is perfect for playing a truck post plant passively, throw it right away and wait to hear the defusal sound before activating for an easy round win."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Outside Showers To A Default Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-atk-adefault-outsideshowers-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm is perfect for passively defending a A Site post plant, throw it early and wait for the defusal sound prior to activating for an easy round win."
+        }
+    ]
+}

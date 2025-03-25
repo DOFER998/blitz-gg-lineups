@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Cat Info/Reclear Wingman From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-cat-tree-wingman_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple line up you can use to gain information on Attackers close cat. You can also combo Dizzy with Wingman at the same crosshair position, if you choose to peek out from Tree."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Main Reclear Mosh Pit + Dizzy Combo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-amain-asite-moshpit_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy and powerful way to retake A Main, Mosh pit will clear the cubby to the right. Due note, Attackers on top of the wall will be able to peek you, Dizzy will not be able to blind them if they're hugging the wall up top."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Safe Early Round B Main Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-bmain-blane-dizzy_3.mp4",
+            "difficulty": "easy",
+            "description": "Use this Dizzy at the very start of the round look for info in B Main, as well as attempt to flash enemy players in Main to support your Teammates pushing up."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "B Site Retake / B Split Dizzy To Take B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-both-bsite-bmarket-dizzy_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this Dizzy to take control of B Site."
+        }
+    ]
+}

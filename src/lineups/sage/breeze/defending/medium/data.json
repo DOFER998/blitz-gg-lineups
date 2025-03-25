@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Aggressive Mid Wall Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-middoors-middoors-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Cut off A Site from Mid while going for an aggressive peek with this Barrier Orb lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "B Main Slow Orb From B Tunnel",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-frontbmain-btunnel-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This is an easy to set up Slow Orb for B Main from B Tunnel that you can do without directly peeking B Main."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Cave Entrance Slow Orb From A Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-acave-abridge-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Slow Orb for the A Cave Entrance into A Site. Be careful of when you use it however since you are exposed to several angles on A Site when you are in the middle of setting up the lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Aggressive Sage Wall Boost For Mid Wood Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-midwooddoors-midwooddoors-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "This is an aggressive Ice Wall boost to peek into Mid Bottom / Mid Pillar from Mid Wood Doors. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Metal Doors Ice Wall Head Peek Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-ametaldoors-defendersidespawn-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "This is a great head peek angle into A Hall from behind the open A Metal Door."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Back B Site Ice Wall Off Angle Boost ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-bback-bback-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Sage Wall off angle for B Main and B Tunnel. Be careful though since part of the Ice Wall will be sticking out in view of players in B Tunnel and B Main before they see you - so, you  may have to destroy the part of the wall that is sticking out either by yourself or with the help of a teammate."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Garage to B Site Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)breach-split-bdefault-bgarage-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to kill or push your opponent out of B Site allowing you to push and take control."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Main to Mid Vents Fault Line",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)breach-split-atk-midvents-amain-faultline.mp4",
+            "difficulty": "easy",
+            "description": "This is a good fault line to assist your teammates in mid and allow them to get into mid vents."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Garage to B Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)breach-split-atk-bsite-bgarage-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flashpoint for B Site that blind anyone playing close left or B Heaven."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Main to A Rafter Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-split-atk-amain-arafter-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This aftershock allows you to get a kill on anyone playing in both A Rafter and under it."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Main to A Site Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-split-atk-amain-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This flash allows you to blind the entire A site and A Rafter allowing your team to push in and take control of site."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Garage to B Yellow Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)yoru-icebox-atk-byellow-bgreen-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind anyone holding B Garage from B Yellow allowing you to swing and get the initial pick."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Mid Blue to Mid Boiler Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)yoru-icebox-atk-midboiler-midblue-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to flash anyone playing Mid Boiler and allow your team to push B Oranges or to peak and get a frag on enemies playing Mid Boiler."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Site to A Screens Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)yoru-icebox-atk-ascreens-asite-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to flash anyone playing A Screens or A Rafter."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Nest to A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)yoru-icebox-atk-asite-anest-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind enemies behind A Site allowing your team to push and execute."
+        }
+    ]
+}

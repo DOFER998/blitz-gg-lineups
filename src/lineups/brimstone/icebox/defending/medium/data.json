@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Green One Way Skysmoke + Incendiary Delay Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-def-bsite-bsite-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Here is a simple and effective setup to delay / disrupt the Attackers push into B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Rafters to A Site Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-asite-arafters-def-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "This Incendiary lineup is useful for stopping players on the attacking side from pushing too aggressively onto A Site and will also prevent players from taking the A Site ult orb."
+        }
+    ]
+}

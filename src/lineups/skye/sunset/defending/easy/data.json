@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Main Flash Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-sunset-def-bmain-bmain-flash_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Catch attackers off guard with this quick flash on B Main behind the box. It is recommended to use the flash after hearing footsteps, utility, or having a teammate bait and get info."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "skye",
+            "title": "A Link to A Main Info Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-sunset-def-amain-alink-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get early round info on A Site attackers with this info flash lineup."
+        }
+    ]
+}

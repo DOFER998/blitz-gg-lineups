@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "C Site Retake Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-def-csite-chall-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy lineup to retake C Site with your team."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early Round A Main Control Setup With Team",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-def-amain-asite-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Use this Setup to gain control of A Main early in the round, and make it difficult for the enemy team to push into Main at the start of the round."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early Round Dizzy To Contest / Gather Info on A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-def-amain-asite-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy at the very start of the round to contest / gather space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Break up C Main Push Safely from Waterfall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-def-cmain-cwaterfall-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple and safe Dizzy to catch enemy players as they are pushing through C Main into C Site. Ideally you want players to be fairly close when you use this, so that their push is delayed as much as possible, or your teammates are able to get as much value out of the Dizzy as possible."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Early Round Garage ZERO/POINT Default ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-atk-garage-hay-knife_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong, standard default knife lineup you can use to gather information at Garage. Only Defenders from the lower level of Garage may shoot this knife, letting you commit resources safely."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lobby to A Short ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2kayo-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to flush out A Short and get info on enemy positions playing around A Short."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Mid Window to B Site ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1kayo-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to suppress enemies on B Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Simple A Site ZERO/POINT for A Tower + Defender Spawn Entrance",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-atk-haven-asite-ashort-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet very effective ZERO/POINT that clears out A Tower, and the hallway that connects Defender Spawn to A Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Simple C Site Execute ZERO/POINT ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-atk-haven-csite-clong-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet very effective ZERO/POINT that clears out most of back C Site, as well as the corner that Chamber players often play on C Plat. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Simple Bottom A Short FLASH/DRIVE ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-atk-haven-ashort-ashort-flashdrive.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet very effective Flash to peek the left side of the top of the A Short Ramp. Make sure to peek out right as your flash is popping, so that enemy players don't avoid the flash and then peek you before you can gain an advantage on them."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Left A Site Default Post Plant FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-atk-leftasitedefault-along-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a great post plant FRAG/MENT for the left side of A Site Default. Keep in mind, however, that the FRAG/MENT will do more damage to players closer to the center of the FRAG/MENT's radius, and it will not do enough damage to kill a player with full health + full armor if they are defusing the spike on the outer edge of the FRAG/MENT's area of effect."
+        }
+    ]
+}

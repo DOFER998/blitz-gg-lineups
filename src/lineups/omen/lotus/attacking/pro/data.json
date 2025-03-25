@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "C Site Execute Shrouded Step + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-atk-csite-cmain-shroudedstep.mp4",
+            "difficulty": "pro",
+            "description": "Use this Shrouded Step + Paranoia combo to aggressively take space on C Site while the rest of your team pushes in through the C Site Arches Chokepoint. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Aggressive Early Round A Main Teleport + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-lotus-atk-amain-alobby-shroudedstep.mp4",
+            "difficulty": "pro",
+            "description": "use this aggressive early round A Main Teleport + Paranoia to increase your ability to support your team's efforts to contest space in A Main."
+        }
+    ]
+}

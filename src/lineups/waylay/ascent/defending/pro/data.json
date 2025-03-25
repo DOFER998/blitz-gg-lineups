@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Aggressive Light Speed + Refract Tiles",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-ascent-def-tiles-tiles-dash_1(hard).mp4",
+            "difficulty": "pro",
+            "description": "Coordinate an aggressive play with a teammate towards Tiles to catch Attackers off-guard early into the round. Make sure to set up your Refract prior to dashing."
+        }
+    ]
+}

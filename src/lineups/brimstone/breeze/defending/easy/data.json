@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Mid Sky Smoke One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-breeze-def-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup allows you to create a one way smoke to control Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Elbow Smoke One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-breeze-def-elbow-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup allows you to hold Elbow with a one way smoke."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Mid Nest to Elbow Sky Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5brimstone-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good Sky Smoke to hold against an Elbow lurk."
+        }
+    ]
+}

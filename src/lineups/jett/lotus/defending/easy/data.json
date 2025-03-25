@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "jett",
+            "title": "A Top Blade Storm Updraft Off Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-def-adrop-atop-bladestorm.mp4",
+            "difficulty": "easy",
+            "description": "Use this Updraft Blade Storm off angle to peek enemy players inside of A Site and A Tree. This should be done when your other retake / site hold options are less likely to succeed than this, or you have some sort of advantage that supports this play, because you create risk by giving away your position by sound when you Updraft before peeking into Site and Tree."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "jett",
+            "title": "C Site One Way Retake / Delay Cloudburst",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-def-csite-cmain-cloudburst.mp4",
+            "difficulty": "easy",
+            "description": "Use these C Site one way retake / delay cloudbursts to make it more difficult for enemy players to push into C Site or Peek into C Site without either being punished or denied vision. "
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Tree + Generator ZERO/POINT From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-tree-amain-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective ZERO/POINT line up to successfully disrupt Defenders playing Tree and Generator. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Tiles to Market ZERO/POINT Line Up",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-market-tiles-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Market ZERO/POINT line up to scale, and take Mid control. Defenders playing within Market will not be able to use utility to contest back, or support teammates on the B Site. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Site Dice ZERO/POINT Execute From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-asite-amain-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your team with this powerful site ZERO/POINT line up, as it'll disable any Defenders playing the A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Wine to A Site FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(19)kayo-ascent-atk-adefault-awine-fragment.mp4",
+            "difficulty": "medium",
+            "description": "This is a good FRAG/MENT for A Site from A Wine to delay a defuse."
+        }
+    ]
+}

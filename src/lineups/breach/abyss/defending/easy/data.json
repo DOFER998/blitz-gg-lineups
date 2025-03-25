@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Catwalk Stun + Flash Mid Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-abyss-def-mid-topmid-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fight for control of Mid with this easy combination of utility. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Main Lane Flash And Stun",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-abyss-def-bmain-bsite-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this early round combination of utility to contest for B Main control."
+        }
+    ]
+}

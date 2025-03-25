@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Standard Turret Default Atk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-atk-mid-mid-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover your team's flank with this turret lineup with a wide range of vision from attacker's spawn."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Lobby Flank Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-atk-alobby-alobby-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple, but useful Turret to watch the A Lobby Flank."
+        }
+    ]
+}

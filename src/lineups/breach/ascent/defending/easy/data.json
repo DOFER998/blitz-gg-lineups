@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Market to Mid Arch Flashpoint ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-def-mid-market-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective flash to contest Mid from Market. This blind will not flash your teammates if they were to peek from Cat. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Aggressive A Main Flash From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-def-amain-tree-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this flash to successfully set up your teammates peeking down A Main, or to disrupt the Attackers' push. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Tree to A Main Reclear Fault Line + Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-def-amain-tree-faultline_1.mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility like so, to set up your teammates in reclearing A Main. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Defense Mid Arch Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-defense-mid-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "If you hear the attackers pushing mid or running up cat, a simple flash through this wall will blind them all."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Close Right A Popflash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-defense-closea-flashpoint-mp4.mp4",
+            "difficulty": "easy",
+            "description": "If you're in a pinch and playing close A with a shotgun or smg, this flash will catch attackers off guard and maybe score you some kills."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Garden Defense Flash from Window",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-defense-ashort-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "Good for safetly securing a frag if you're holding A short. Flash pops low and in a pretty unexpected area."
+        }
+    ]
+}

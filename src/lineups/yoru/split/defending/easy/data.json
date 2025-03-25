@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Defender Spawn to B Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-def-bsite-ctspawn-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for retaking B Site from CT Spawn and will flash the majority of the site."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Screens To A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-def-asite-ascreens-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing incoming players in A Main, giving you an opportunity to get some easy kills."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Heaven To A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-def-aheaven-aheaven-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing incoming players in A Site when A Heaven is smoked off."
+        }
+    ]
+}

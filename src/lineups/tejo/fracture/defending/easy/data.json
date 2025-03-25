@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Early A Main Special Delivery Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-def-amain-amain-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Special Delivery lineup to stun Attackers trying to quickly scale up main, allowing you to contest aggressively."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Early B Main Special Delivery Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-def-bmain-bmain-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Special Delivery lineup to stun Attackers trying to quickly scale up main, allowing you to contest aggressively."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "B Arcade Salvo Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-def-arcade-arcade-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Pressure Attackers trying to take Arcade control by cutting off their exit to retreat, allowing you to commit more resources forward."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "A Dish Armageddon Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-def-dish-dish-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Clear out any Attackers playing towards Dish with this simple Armageddon lineup."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Simple way to Safely Delay B Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-def-bsite-btower-moshpit.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to stop the B Push from B Tower or Defender Spawn if you're playing on Site."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Retake Setup for A Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-def-aramp-atower-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Clearing out A Ramp can often tip the balance of control over to your team in a retake scenario on A Site."
+        }
+    ]
+}

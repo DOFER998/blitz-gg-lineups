@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Mid Blue to Mid Boiler Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-icebox-atk-midboiler-midblue-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This Slow Orb lineup lands on top of Mid Boiler giving you an advantage when peeking from Mid Blue."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Green To Behind B Site Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-icebox-atk-backbsite-bgreen-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This Slow Orb lineup will land behind B Site, slowing down enemy players that are trying to peek. This is great for post plant situations to stall for time and to stop enemy aggression when planting the Spike as well.\n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Green To B Site Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-icebox-atk-bsite-bgreen-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This slow orb lineup is useful for slowing down enemy players that are rotating through B Hall."
+        }
+    ]
+}

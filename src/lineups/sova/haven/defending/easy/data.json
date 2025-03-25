@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Site Retake Dart From A Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-asite-alink-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective retake dart that clears many key post plant positions. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Tower To A Long Reconbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-along-aheaven-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players walking up towards A Site from A Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "C Link To Mid Stairs Reconbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-midcourtyard-clink-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players walking up from Mid Courtyard into B Site, as well as players lurking outside Mid Doors."
+        }
+    ]
+}

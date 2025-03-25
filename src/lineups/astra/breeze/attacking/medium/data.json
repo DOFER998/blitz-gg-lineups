@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Site Full Exec Stars Tunnel",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-bsite-bmain-nebula_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Control B Site with these stars to allow you to push in while stunning any attackers waiting in common spots."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Full A Site Stars Stun Stairs",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-asite-amain-nebula_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Control A Site with these stars to allow your team to aggressively take Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": " B Site Execute To Push Left Side Of Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-bsite-frontbmain-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This B Site Execute is great for aggressively challenging and / or taking control of back B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": " Mid Nest Op Gap Smoke Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-midnest-midtop-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This smoke in Mid Nest is useful for more freely pushing into Mid. But, under ideal circumstances this can also be a great setup to bait players into a spot that you and your teammates can spray through smoke. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Site Execute To Push Right Side Of Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-atkbackasite-atkfrontasite-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This A Site Execute is great for aggressively challenging and / or taking control of back A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Metal Doors Gravity Well Nova Pulse Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-ametaldoors-ahall-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for forcing players out from behind A Metal Doors, and if they are hit by both the Nova pulse and the Gravity Well they will be forced out into an extremely vulnerable position."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Hall / A Rope To Left A Lever Gravity Well Nova Pulse Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-alever-arope-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for forcing players out from behind the corner on the left side of A Lever."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Nebula For Above / Below A Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-abridge-asite-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for blocking vision on A Bridge and below A Bridge. Make sure to place the smoke in the dead center of the front-most part of the bridge so that players cannot peek out of the smoke in any way, and have to use the most utility possible, and apply the most effort possible, while being at the highest disadvantage, to be able to push out of or peek out of the smoke."
+        }
+    ]
+}

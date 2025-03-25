@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Post-Plant Double Shock Bolt For Right A Pyramid From A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-rightapyramid-alobby-shockbolt.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Post-Plant Double Shock Bolt setup for the right side of A Pyramids from A Lobby. Keep in mind though that this is Double Shock Bolt setup can not be used reactively after you hear the spike behind defused, you have to pre-emptively shoot the shock bolts in order to stop someone from defusing the spike. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Site Post-Plant Double Shock Bolt For Default Spike Plant Spot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-bsitedefault-midcannon-shockbolt.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Post-Plant Double Shock Bolt setup for the default spike plant location on B Site. Keep in mind though that this Double Shock Bolt setup is not something you can use reactively after you hear the spike being defused, you have to pre-emptively shoot the shock bolts in order to stop someone from defusing the spike."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Shop To Opposite Side A Site Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-atkbacksite-ashop-reconbolt.mp4",
+            "difficulty": "pro",
+            "description": "This is useful for revealing players in most of the back side of A Site, the opposite side of A Pyramids, and the side of the Pyramids that is closest to Mid Wood Door. Be careful though, since you are vulnerable while setting this up unless you have a teammate making sure that you aren't able to be picked off while setting this up."
+        }
+    ]
+}

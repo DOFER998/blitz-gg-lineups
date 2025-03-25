@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "skye",
+            "title": "How to Support at Mid With Trailblazer From Pallet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-def-mid-pallet-tiger_1.mp4",
+            "difficulty": "easy",
+            "description": "Follow this simple, but effective Trailblazer pathing to set up your teammates to have an advantageous fight at Mid. Make sure to match the timing with their peek, as Attackers will look to shoot your utility."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round Guiding Light to Belt For Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-def-belt-asite-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great start round info flash you can use, it will spot any Attacker at the A side part of the map."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Window to B Tube Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-def-window-btube-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good guiding light to blind enemies peaking from under B Tube and allow you to swing and get a kill."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Tube to Mid Blue Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-def-btube-midblue-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good guiding light to blind enemies peaking Mid Boiler or under B Tube from Mid Blue. Swinging off your flash will guarantee you a kill if you blind them."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Green to B Garage Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-def-bgreen-bgarage-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aggressive guiding light to get a pick and fall back."
+        }
+    ]
+}

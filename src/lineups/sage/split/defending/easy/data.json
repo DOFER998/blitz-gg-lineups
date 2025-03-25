@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Early Rouind A Main Barrier Orb from A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-split-def-amain-asite-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to delay / make it more difficult for enemy players to push through A Main toward the beginning of the round. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Mid Top Delay / Anti-Box Jump Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-split-def-midtop-midmail-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "This wall both makes it more difficult for Attackers to push through Mid, while also denying enemy players the ability to bypass this wall using the skill jump for the box in Mid Top."
+        }
+    ]
+}

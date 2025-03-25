@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Standard Top Mid Smoke Fight and Market Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-def-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Coordinate a play with your teammate towards Art, allowing you guys to play more forward towards Mid. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Standard B Hold With Dark Cover + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-def-bmain-bmain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Delay the B Site execute with these two simple combination of utility."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Art Paranoia Hold Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-def-art-art-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Seek a favorable fight by playing off a Sentinel's utility, or a teammate's contact, and blind your opponents."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Mid Doors Paranoia Hold Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-def-mid-mid-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Seek a favorable fight by playing off a Sentinel's utility, or a teammate's contact, and blind your opponents."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Simple B Long Dark Cover Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-def-blong-blong-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Play aggressively towards the B Site with this smoke, allowing you and your teammates to set up crossfires."
+        }
+    ]
+}

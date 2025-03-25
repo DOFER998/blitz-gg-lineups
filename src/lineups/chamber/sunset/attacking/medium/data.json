@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Mid Lurk to Tiles Rendezvous TP ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-atk-tiles-tiles-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to look for value towards Mid, also allowing you to break utility or look for an aggressive fight towards Top Mid."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Standard Lurk B Trip + TP",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-atk-bmain-bmain-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Cut off rotates with this aggressive position, with Rendezvous to get you back to B Main."
+        }
+    ]
+}

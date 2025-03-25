@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility A Site Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-def-frontasite-asite-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here's a straightforward and effective full utility setup for A Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Defender Spawn Spy Cam for Mid + Aggressive Mid Trapwire",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-def-midcross-defenderspawnpoint-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Use this Spy Cam to keep an eye on the Mid Attacker cross throughout the course of the round. Also feel free to combo this with the Trapwire seen on screen to make it more difficult for enemy players to push through Mid."
+        }
+    ]
+}

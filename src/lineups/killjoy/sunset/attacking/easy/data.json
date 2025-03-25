@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Easy B Site Lockdown Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-sunset-atk-bsite-bmain-lockdown_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup allows you to push defenders off of the majority of B Site with Lockdown, leaving only back of site to clear."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Easy A Site Lockdown Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-sunset-atk-asite-amain-lockdown_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup allows you to push defenders off of A Site with a Lockdown, enabling your team to push."
+        }
+    ]
+}

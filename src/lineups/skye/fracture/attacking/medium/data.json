@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Start Round Arcade Control Guiding Light Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-atk-arcade-spawn-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great, but simple flash you can throw at the start of the round to gain information on Defenders at Arcade. Consequently, you can commit more resources without risk."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Aggressive A Hall Flash To Push A Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-atk-amain-ahall-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This Guiding Light from A Hall is difficult for Defenders who have pushed into A Main to react to, and is great for creating opportunities to push into A Main."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Drop Trailblazer Pathing To Clear Lower / Upper A Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-atk-asite-adrop-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This Trailblazer pathing is great for clearing out all of Lower / Upper A Site from A Drop."
+        }
+    ]
+}

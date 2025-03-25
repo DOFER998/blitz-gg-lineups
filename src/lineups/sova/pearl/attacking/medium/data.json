@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Utility Break Shockdart to Link From Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-atk-link-market-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great, start round shockdart lineup you can use to break Cypher Tripwire / Killjoy Alarmbot at Link."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Art And A Site Execute Dart From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-atk-asite-amain-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective dart lineup you can use to enable your teammates executing the A Site, or an A Split."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Utility Break Shockdart to Art From Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-atk-art-market-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a start round lineup you can use to break Cypher Tripwire / Killjoy Alarmbot. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Quick Info Dart to A Main From Spawn ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-atk-amain-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart lineup to secure fast A Main information, or control."
+        }
+    ]
+}

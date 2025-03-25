@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "How to Take Mid / Mail / Ropes Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-mid-sewers-prowler_1.mp4",
+            "difficulty": "medium",
+            "description": "Throw your Haunt like so, and combo your Prowler after it scans. This will activate Fade's passive and the Prowler will trail the spotted Defender."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Main Haunt to B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-bsite-bmain-eye_2.mp4",
+            "difficulty": "medium",
+            "description": "Once you've secured B Main control with your Prowlers, use this Haunt lineup to clear all of B Site and Rafters."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Back B Site Execute Haunt For Pillar And Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-bsite-bmain-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your teammates with this Haunt lineup, as it scans any Defender playing Heaven or Pillar."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Back A Site Execute Haunt From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-asite-amain-eye_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart to pressure the A Site Defender, this eye scans Rafters and anyone hiding Default or Screens."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front A Site Execute Haunt From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-asite-amain-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your teammates with this Haunt lineup for a fast execute, it clears all the close angles when entering site."
+        }
+    ]
+}

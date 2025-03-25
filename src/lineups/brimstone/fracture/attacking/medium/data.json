@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Execute Sky Smokes for Rope, Rafter, and Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-asite-adrop-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Post Plant Lineup for B Site Pocket from B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsitepocket-btower-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant molly lineup for B Site Pocket from B Tower."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Post Plant Lineup for Jump Up Corner on B Site from B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsiteopencorner-btower-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant molly lineup for the Jump Up Corner on B Site, from B Tower."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Post Plant Lineup for Behind B Boxes from B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsiteboxes-btower-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant molly lineup for behind the B Site boxes, from B Tower."
+        }
+    ]
+}

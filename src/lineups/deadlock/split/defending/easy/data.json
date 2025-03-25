@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Defender A Main to A Lobby Barrier Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-def-amain-hell-barrier_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Barrier Mesh line up to contest for control over A Main. Attackers are either forced to give up the space, or split up—making fights easier for you and your team."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "B Heaven to B Main Grav Net Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-def-bmain-bheaven-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility like so, to set up a powerful B Site hold from Heaven. You can also use your Grav Net off your Sonic Sensor at Mid."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive Mail to Mid/Market Annihilation Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-def-market-mail-annihilation_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this combination of utility to aggressively contest Attackers towards Mid. However, Attackers towards Sewers will not be as affected by the utility—but it will effectively isolate the two positions on the map."
+        }
+    ]
+}

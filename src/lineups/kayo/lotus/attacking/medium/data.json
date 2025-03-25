@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Quick C Link to C Main FLASH/DRIVE to Support C Hold / Retake",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-def-cmain-clink-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "Use this FLASH/DRIVE when rotating to C to catch enemy players pushing through C Main off guard and support your team."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "C Main ZERO/POINT from C Lobby Spawn Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-atk-cmain-clobby-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "Use this ZERO/POINT lineup from the C Lobby spawn barrier to check for Defenders peeking / pushing into C Main from C Site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Early Round ZERO/POINT + FLASH/POINT for B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-lotus-atk-bsite-bmain-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple early round ZERO/POINT + FLASH/POINT setup to aggressively take space on B Site."
+        }
+    ]
+}

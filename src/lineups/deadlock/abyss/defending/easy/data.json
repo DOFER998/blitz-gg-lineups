@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Early B Main Orb Grav Net Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-abyss-def-bmain-bmain-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an early round B Main Grav Net you can use to contest B Main."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Standard B Main Barrier Mesh For Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-abyss-def-bmain-bmain-barrier_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a powerful, and easy way to set up your Barrier Mesh towards B Main. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "A Site Sonic Sensors Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-abyss-def-asite-asite-sensor_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these two easy, and powerful Sonic Sensors for the A Site to hold."
+        }
+    ]
+}

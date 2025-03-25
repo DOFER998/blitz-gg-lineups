@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Full C Long Armageddon Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-def-clong-clong-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Lock down C Long with just your ultimate ability, as it becomes extremely difficult for Attackers to take the site properly once active. If past the ultimate, it forces them forwards for you and your team to spam and kill."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Start Round A Long to Lobby Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-def-alobby-along-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Prevent Attackers from taking early space towards A Long with this Special Delivery lineup."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Aggressive Mid Window Salvo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-def-window-window-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take early control of Mid with this easy, but powerful Salvo lineup. This forces Attackers to respect the space early or to take an unfavorable peek towards Window. You can also set up an early push down towards Mid."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Aggressive Early Round Hay Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-def-hay-garage-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable a play towards Hay with this simple Delivery lineup, allowing your teammate to peek or combo with their utility."
+        }
+    ]
+}

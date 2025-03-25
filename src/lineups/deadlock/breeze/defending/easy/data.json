@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Easy Defender Halls Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-breeze-def-halls-halls-barrier_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Lock off a push through Halls with this Barrier Mesh lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Simple B Side Sonic Sensors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-breeze-def-bsite-bsite-sensor_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "These Sound Sensor placements allow you to control access to B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Start Round GravNet to A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-breeze-def-amain-asite-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Slow down attackers with this GravNet lineup to deal with a fast A push."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Sands Split Grav Net to Rafters From Dish",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-fracture-atk-rafters-dish-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates at A Main looking to take Sands control with this simple Grav Net line up, as it'll force Defenders in an unfavorable position or prevent them from swinging out the smoke effectively."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Tree to B Site Dice Grav Net",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-fracture-atk-dice-tree-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates with this Grav Net line up when executing the B Site, as it prevents Defenders from peeking and escaping."
+        }
+    ]
+}

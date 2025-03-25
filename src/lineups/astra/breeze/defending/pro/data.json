@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "One-Off Two Person A Site Setup To Punish Overly Aggressive Teams",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-apyramids-defbackasite-nebula.mp4",
+            "difficulty": "pro",
+            "description": "This two person one-off setup for A Site can be a useful way to catch players off guard, especially if they don't tend to place a smoke in-between the Pyramids. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Star Placement Setup For B Main Choke Point Into B Site Combo With Killjoy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bsite-bsite-gravitywell.mp4",
+            "difficulty": "pro",
+            "description": "This Astra / Killjoy Utility Combo Setup for the B Main / B Site chokepoint is useful for making it difficult for the Attackers to push into B Site, since it is so difficult to get through this choke point and they either take lots of damage or become unable to push through this chokepoint after some of their teammates get picked off.\n"
+        }
+    ]
+}

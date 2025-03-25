@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "A Main Rendezvous for Execute or Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-atk-amain-amain-tp_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Rendezvous can be used when pushing aggressively into A Site, or for post plant on the side of A."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Art / Mid Lurk Rendezvous From The Side of A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-atk-amain-amain-tp_1(medium).mp4",
+            "difficulty": "easy",
+            "description": "Use this Rendezvous when you want to lurk into mid from the side of A. Just be sure not to do this if your team is not on the side of A as well."
+        }
+    ]
+}

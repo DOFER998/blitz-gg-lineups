@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Execute Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-lotus-atk-bsite-bmain-cascade.mp4",
+            "difficulty": "easy",
+            "description": "Use this Cascade when executing onto B Site with your team. Stop the Cascade at the optimal point to limit the enemy team's options as much as possible, while creating as many options as possible for your team to take and control Site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "Aggressive Early Round A Main Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-lotus-atk-amain-alobby-cascade.mp4",
+            "difficulty": "easy",
+            "description": "Use this aggressive early round Cascade to contest space in A main."
+        }
+    ]
+}

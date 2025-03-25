@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Back To Front Left B Site Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-both-frontleftbsite-bback-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for both stopping players from planting the spike on the front left side of B Site, and stopping players from planting the spike if you are in a 1v1 situation on B Site and the enemy player is pressed for time and has to plant, with low risk to you."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Back To Front Right B Site Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-both-frontrightbsite-bback-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for both stopping players from planting the spike on the front right side of B Site, and stopping players from planting the spike if you are in a 1v1 situation on B Site and the enemy player is pressed for time and has to plant, with low risk to you."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "raze",
+            "title": "A Link To Front A Site Default Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-def-frontasite-alink-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for doing pick damage to players as they push into A Site, as well as delaying the spike plant on A Site, if any enemies on site are low HP, you may even pick up picks on players who get hit by the paintshells on site.\n"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "How to Execute C Site With Paint Shells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-atk-backsiteC-clong-paintshells_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's one way to execute and clear the C Site as Raze. This lineup will make Defenders swing out into the open, or jump up onto the platform — leaving them vulnerable. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Top A Long To Bottom A Long Double Blast Pack",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-atk-bottomalong-topalonog-blastpack.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for getting an unexpected angle on players on A Site, particularly toward the beginning of the round, or when you think the enemy team is lagging behind on their rotation into A Site. There is a lot of risk involved with this though, so doing this with the help of your team's smokes/other utility is ideal. Also, make sure to clear the area under the bricks yourself, or with the help of a teammate!"
+        }
+    ]
+}

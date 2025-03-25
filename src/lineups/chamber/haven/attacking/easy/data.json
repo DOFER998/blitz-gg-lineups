@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default A Lobby Trademark Variation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-atk-alobby-alobby-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are two simple, yet effective Trademark lineups you can use to play away from, and for A Main."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Trademark for A Main + Window ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-atk-window-window-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Trademark when playing more proactive in the map, letting you move towards all parts of it."
+        }
+    ]
+}

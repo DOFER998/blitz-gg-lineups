@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Standard A Long Arc Rose for Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-atk-along-along-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet powerful lineup when taking A Long control."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Back B Site Arc Rose Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-atk-bsite-bsite-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple lineup you can use to take a fight towards the back of B Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Full B Site + Garage Steel Garden ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-atk-bsite-bsite-garden_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's one great way to utilize your ultimate at B Site."
+        }
+    ]
+}

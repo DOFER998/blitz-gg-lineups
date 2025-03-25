@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Peek Showers With This Quick Blindside Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-showers-showers-blindside_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective and fast flash lineup you can use to contest Showers. You can also use this flash to coordinate a teleport play, as it will not blind your teammates when they peek through the teleporter."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Fakeout + Blindside Combo to Peek Mid From Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-mid-hookah-decoy_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this fast, but effective combination to peek Mid. Make sure to use your decoy as shown in the video, as it will bait Attackers into shooting the easy moving target."
+        }
+    ]
+}

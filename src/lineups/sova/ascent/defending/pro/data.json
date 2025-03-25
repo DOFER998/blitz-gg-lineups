@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Aggressive Dart From Stairs to Outside B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-hut-stairs-dart_1.mp4",
+            "difficulty": "pro",
+            "description": "Use this fast dart at the start of the round for early information, or to set up your teammates looking for an aggressive play towards outside B Main. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Front A Site Cannon Retake Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-frontasite-backarafters-reconbolt.mp4",
+            "difficulty": "pro",
+            "description": "This Recon Bolt lands on the front right tip of a cannon pointing up in the air on the front side of A Site. Landing the arrow on the right corner of the tip of this cannon can be useful when retaking A Site, since the arrow will scan the entire front side of A Site, and behind the right side of Generator. "
+        }
+    ]
+}

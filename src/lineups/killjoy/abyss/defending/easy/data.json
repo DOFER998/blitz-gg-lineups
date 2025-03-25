@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Full Turret + Nanoswarm Utility Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-abyss-def-bsite-bsite-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Lock down the B Site with this full utility setup."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site Full Turret + Nanoswarm Utility ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-abyss-def-asite-asite-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Lock down the A Site with this full utility setup."
+        }
+    ]
+}

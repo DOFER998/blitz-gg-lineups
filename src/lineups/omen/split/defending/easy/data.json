@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Ramp to A Main Paranoia Play ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-def-ramp-amain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Off contact or noise, use this Paranoia lineup to contest for A Main control. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Main Dark Cover One Way Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-def-bmain-bmain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Hold B Main with this unorthodox one way Dark Cover lineup, as it enables you to spam Attackers as they push for the orb or aggressively."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Aggressive B Main Hold Paranoia Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-def-bmain-bmain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Coordinate a play with a teammate towards B Main with this Paranoia lineup. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Main Default Dark Cover Hold From Main and Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-def-amain-amain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Dark Cover lineup to slow down Attackers towards A Main."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Standard Mid Dark Cover Hold From Mail",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-def-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Mid Dark Cover lineup to force Attackers to slow down their push."
+        }
+    ]
+}

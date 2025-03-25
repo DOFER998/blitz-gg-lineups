@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Aggressive Yellow Control Dart From Garage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-yellow-garage-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart to effectively contest for Yellow control, it scans all of the Defender positions there and a good portion of the B Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Info Dart for Crane From B Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-crane-blong-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective dart lineup that scans any Defender contesting for B Long control."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Long Execute Dart to Mid B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-bsite-blong-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your teammates with this effective dart, as it scans Defenders playing Mid Site and Top Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Belt To A Site Tower Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-atk-asitetower-upperabelt-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for quickly scanning players inside of the Tower on A Site from Upper A Belt."
+        }
+    ]
+}

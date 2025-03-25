@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Art Guiding Light Variation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-atk-art-amain-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here are two ways to use your Guiding Light for Art on Attack."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "How to Clear Link With Trailblazer ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-atk-link-mid-tiger_2.mp4",
+            "difficulty": "easy",
+            "description": "This requires no specific pathing, but make sure to clear the Link Tunnel and the Cubby."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Main Trailblazer to Clear Close B Main Angles",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-atk-bmain-bmain-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but very effective Trailblazer, that is typically used toward the beginning of the round to clear out the close B Main angles behind Pillar and the B Main Pocket. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Aggressive Early Round A Main Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-atk-amain-arestaurant-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round A Main flash for A Main. This flash can be used to make it difficult for the enemy team to take space in A Main, making it easier for your team to take that space if it is contested."
+        }
+    ]
+}

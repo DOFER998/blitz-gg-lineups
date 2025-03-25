@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Long to A Site Post Plant Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-along-asite-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "A good snakebite to prevent the enemies from defusing the bomb while you tick down the timer."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "C Long to C Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-clobby-csite-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This wall is useful for aggressively pushing onto C Site. You mostly have to worry about defending in the back of C, but you completely block off the rotations from defender spawn and garage."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "C Site to C Link One Way Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-csite-ct-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "One way smoke to help defend against site retakes from CT"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Grass to B Site Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-grass-bsite-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "A good snakebite to prevent the enemies from defusing the bomb while you tick down the timer."
+        }
+    ]
+}

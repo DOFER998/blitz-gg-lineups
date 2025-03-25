@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard A Site Attack Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-fracture-atk-asite-amain-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Here are two standard smokes for attacking A Site that can be used at the same time, or interchangeably. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard B Site Attack Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-fracture-atk-bsite-btree-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Here are two standard smokes for attacking B Site that can be used at the same time, or interchangeably."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Smoke / Ultimate Ability Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-fracture-atk-bsite-btree-fromtheshadows.mp4",
+            "difficulty": "medium",
+            "description": "Here's an aggressive Dark Cover / Ultimate ability combo for B Site that can potentially help you check, or even clear B Tower for your team as the rest of your team takes B Site. This is a difficult combo to time well - but if you can pull it off, you will save some time for your team by checking or clearing B Tower for them."
+        }
+    ]
+}

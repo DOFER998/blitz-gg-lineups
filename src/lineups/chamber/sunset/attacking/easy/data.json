@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Post Plant Top Main Rendezvous + Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-atk-bmain-bmain-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet powerful setup to execute the site while simultaneously setting up a strong off-angle for the post plant situation."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Early Round A Main Top Box Off-Angle Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-atk-amain-amain-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Catch Defenders off guard with this simple off-angle lineup at the start of the round, as it may lead to an opening pick."
+        }
+    ]
+}

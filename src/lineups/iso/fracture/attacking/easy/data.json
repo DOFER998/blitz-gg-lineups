@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Sands Kill Contract Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-atk-sands-amain-killcontract_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to prevent rotating Defenders to assist their teammates towards A Site, or to open up Sands for your teammates to execute through."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Full B Site Tower Kill Contract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-atk-bsite-bsite-killcontract_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Defenders playing towards B Tower into a fight with your Kill Contract, allowing your team to easily scale up."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Aggressive Defender Ropes Wall to Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-mid-ropes-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a wall you can throw during preparation phase to aggressively fight for mid control. This wall allows both Mail and Ropes players to coordinate and fight together."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Early Round Defender Mail Pit to Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-mid-mail-pit_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a solid start round Viper ultimate you can use to effectively lockdown Mid. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard Defender Wall for Mid and A ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-amain-mail-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Throw this wall during preparation phase for a solid default wall that blocks A Main, Ramp, and Mid. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Main + Mid Top Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-bsite-midtop-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "Here's a Toxic screen that can delay / make it more difficult for Attackers to push through both Mid, as well as B Main. "
+        }
+    ]
+}

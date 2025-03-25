@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Rafters to A Main Annihilation ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-fracture-def-amain-rafters-annihilation_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Annihilation line up to contest for A Main control with your teammates."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Generator to Arcade Grav Net ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-fracture-def-arcade-generator-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet powerful Grav Net line up to disrupt Attackers at Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive B Main to Tree Annihilation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-fracture-def-tree-bmain-annihilation_1.mp4",
+            "difficulty": "easy",
+            "description": "Successfully pressure Attackers at the start of the round with this Annihilation set up, as it will grab anyone at the barrier. To make the most of Annihilation, coordinate and contest Tree with your teammates. "
+        }
+    ]
+}

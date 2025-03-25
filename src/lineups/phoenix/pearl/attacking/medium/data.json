@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Site Full Utility Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-pearl-atk-asite-amain-blaze.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to use your entire kit to create space for your team to push into A Site."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Site Full Utility Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-pearl-atk-bsite-bhall-blaze.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to use your entire kit to create space for your team to push into B Site."
+        }
+    ]
+}

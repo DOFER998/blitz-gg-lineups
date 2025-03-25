@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Site Blaze + Curveball Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-abyss-atk-bsite-bsite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to entry the A Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Left A Site Blaze + Curveball Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-abyss-atk-asite-asite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to entry the A Site."
+        }
+    ]
+}

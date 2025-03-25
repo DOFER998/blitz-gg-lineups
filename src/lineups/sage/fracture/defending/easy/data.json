@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Early Dish Slow Orb Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-def-dish-dish-slow_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fight for Dish control early into the round with this easy, yet effective Slow Orb lineup."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Early A Main Wall + Slow Door Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-def-amain-amain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an aggressive play towards A Main early into the round with this combination of utility. Attackers will find it extremely difficult to successfully take A Main control."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Standard B Main Wall + Boost",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-def-bmain-bmain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Barrier Orb lineup to stop Attackers from running out B Main. You can also boost up on your wall to play a powerful off-angle shown in the video."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Drop Wall Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-def-adrop-asite-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to potentially catch enemy players off guard as they push into A Drop."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "sage",
+            "title": "B Generator Wall Off Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-def-bgenerator-defenderspawn-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's a Barrier Orb off angle wall setup for behind B Generator.\n"
+        }
+    ]
+}

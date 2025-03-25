@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Quick C Link to C Main Guiding Light to Support C Hold / Retake ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-def-cmain-clink-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Use this Guiding Light when rotating to C to catch enemy players pushing through C Main off guard and support your team."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round A Main Info Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-def-aroot-amain-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective info flash for A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round C Lobby Info Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-def-clobby-cmain-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Guiding Light from C Main for C Lobby."
+        }
+    ]
+}

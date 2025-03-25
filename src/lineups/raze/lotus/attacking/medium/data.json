@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "C Site Execute Boom Bot + Paint Shells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-atk-csite-cmain-boombot.mp4",
+            "difficulty": "medium",
+            "description": "Use this Boom Bot + Paint Shells to entry on to C Site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "B Main Execute Boom Bot Lineup into B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-atk-bmain-bsite-boombot.mp4",
+            "difficulty": "medium",
+            "description": "Use this Boom Bot lineup to execute onto B Site through with your team."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Link Door to B Site Boom Bot Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-lotus-atk-bsite-alink-boombot.mp4",
+            "difficulty": "medium",
+            "description": "Use this Boom Bot lineup to make it easier for your team to push through the A Link Door into B Site, without being punished by enemy players holding a close angle. "
+        }
+    ]
+}

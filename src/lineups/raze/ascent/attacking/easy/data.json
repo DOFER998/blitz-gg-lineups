@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Mid Courtyard Blast Pack Boost For Mid Bottom",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-atk-midbottom-midcourtyard-blastpack.mp4",
+            "difficulty": "easy",
+            "description": "This blast pack boost is useful for when you are in Mid Courtyard, and want to gain vision and control of Mid Bottom/Mid Market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Mid Cubby Blast Pack Boost To Mid Bottom",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-atk-midbottom-midcubby-blastpack.mp4",
+            "difficulty": "easy",
+            "description": "This blast pack boost is useful for when you are in Mid Cubby, and want to gain control of Mid Bottom."
+        }
+    ]
+}

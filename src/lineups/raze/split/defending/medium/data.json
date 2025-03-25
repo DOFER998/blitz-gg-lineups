@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Start Round A Main Paint Shells Pressure",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-def-amain-rafters-paintshells_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Paint Shells lineup to apply early pressure towards Attackers at A Main. Additionally, it will break Cypher's Tripwire."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Mid Vent Paintshells To Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-split-def-market-midvent-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This paintshells lineup is useful for doing damage to players in Market from Mid Vent. Aim at the gap in the wall on the right of market, aim straight up until you reach the edge of a blue roof, and throw the paintshells."
+        }
+    ]
+}

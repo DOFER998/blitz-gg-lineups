@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round Orb From Screens to A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-screens-amain-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this orb lineup a little bit before the barrier drops for a standard smoke at A Main. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round One Way Orb For Mail",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-mail-mail-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Throw your orb when the barrier drops like so, for a strong one way that prevents any Attackers from taking B Heaven control easily. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round One Way Orb For B Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-def-bmain-bmain-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Throw your orb when the barrier drops like so, for a powerful one way at B Main. This is more effective when you are on top of the small barrels back site. "
+        }
+    ]
+}

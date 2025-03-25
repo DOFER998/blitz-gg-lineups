@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Site Execute Wall / Slow Orb ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-lotus-atk-bsite-bmain-barrierorb_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to aggressively take and deny space in and around B Site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Aggressive Early Round A Main Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-lotus-atk-amain-alobby-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective aggressive early round A Main Slow Orb, that makes it more difficult for the Defenders to take space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Aggressive Early Round C Main Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-lotus-atk-cmain-clobby-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective aggressive early round C Main Slow Orb that makes it more difficult for the Defenders to take space in A Main."
+        }
+    ]
+}

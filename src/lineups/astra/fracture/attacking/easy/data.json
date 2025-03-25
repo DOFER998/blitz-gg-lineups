@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Full Utility A Site Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-fracture-atk-bsite-bmain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective full utility execute for A Site. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Site Post Plant Gravity Well to Delay Pocket Spike Defuse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-fracture-atk-bsite-btower-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to delay enemy players from defusing the spike."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Site Post Plant Gravity Well to Delay Spike Defuse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-fracture-atk-asite-amain-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to delay enemy players from defusing the spike.\n"
+        }
+    ]
+}

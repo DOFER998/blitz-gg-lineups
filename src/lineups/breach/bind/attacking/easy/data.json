@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Showers Default Faultline + Flashpoint Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-showers-spawn-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to take control of Showers at the start of the round, as it will prevent Defenders from successfully keeping control of it without expending resources."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Hookah Default Faultline ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-hookah-mid-stun_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a two piece combo that you can use to flush Defenders out of Hookah and Long, the Aftershock can be used to push Defenders out into Long or prevent them from leaving."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Short to A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-ashort-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flash to blind the defenders on A site and allow your team to take A site easier."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Short to A Cubby Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-ashort-acubby-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to get your opponent out of a popular corner and allow your team to take site easier."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Long to Wood Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-blong-wood-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to kill enemy players hiding in wood or force them out for an easy frag."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Long to B Cubby Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-blong-bcubby-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to kill enemy players hiding in the cubby on B site or force them out into the open for an easy frag."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Long to B Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-blong-wood-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flash to blind the entirety of B site without exposing yourself and is also good for assisting your teammates in taking site."
+        }
+    ]
+}

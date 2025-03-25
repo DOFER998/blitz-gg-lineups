@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Main Dark Cover One Way Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-sunset-def-bmain-bmain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Successfully delay and threaten Attackers looking to take control of B Main with this simple Dark Cover lineup."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Main One Way + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-sunset-def-amain-asite-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Dark Cover lineup for a one way smoke, forcing defenders to swing wide into Paranoia."
+        }
+    ]
+}

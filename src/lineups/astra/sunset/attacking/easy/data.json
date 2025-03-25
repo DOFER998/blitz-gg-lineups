@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Top Mid Nebula + Market Star",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-atk-topmid-mid-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover a push up Mid with these smokes, with the option to take back the star at Market for a more aggressive play."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Site Wall Nebulas + Jump Up Pull",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-atk-bsite-bsite-nebula_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Nebula to block sight lines, with a pull to give your team a protected scale onto B Site. You can also smoke Spawn instead of Stairs, if you are looking to contest back site. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Link Site Split Nebula Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-sunset-atk-alink-asite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Block off sight lines with these Nebula lineups so you can cover your approach onto A Site."
+        }
+    ]
+}

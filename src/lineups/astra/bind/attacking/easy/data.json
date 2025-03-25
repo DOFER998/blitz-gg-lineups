@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Site And Showers Default Stars ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-bind-atk-showers-showers-pull_1.mp4",
+            "difficulty": "easy",
+            "description": "Use these stars to gain early control of Showers, and/or deny information to Defenders playing U-Hall. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Default Hookah Control Gravity Well + Nova Pulse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-bind-atk-hookah-hookah-pull_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way in taking Hookah control. This combination will isolate Defenders inside, and prevent them from leaving. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Site Default Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5astra-bind.mp4",
+            "difficulty": "easy",
+            "description": "The default smokes that you can use when pushing onto B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Garden to B Cubby Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)astra-bind-atk-bcubby-bgarden-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well and nova pulse combo that will leave your target disoriented and allow you to get an easy kill."
+        }
+    ]
+}

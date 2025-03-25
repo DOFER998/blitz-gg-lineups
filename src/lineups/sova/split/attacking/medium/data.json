@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Dart From Market to Mail",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-mail-market-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong dart you can use to default Mid at the start of the round, as it scans for any Defenders looking to contest for control. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Split Dart For Rafters From B Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-brafters-bmain-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "When splitting B through Mid and B Main, use this dart to enable your teammates for an easier contest at Heaven. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Main Dart to A Heaven For Ramp Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-aheaven-amain-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "When looking to take Ramp control, use this dart to enable your teammates fighting any Defender playing Heaven. This will scan the close left angle of ropes as well, but not anyone on the zipline. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Main Post Plant Shock For Front Site Bomb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-adefault-amain-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple shock lineup that will deal full damage to Defenders defusing the bomb front site. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Lobby To A Site And Catwalk Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-atk-asiteandrafters-alobby-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for revealing players in the close side of A Site, except for players behind the Site box, and players in some spots under Catwalk."
+        }
+    ]
+}

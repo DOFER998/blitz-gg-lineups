@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Mosh Pits for B Teleporter + A Teleporter",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-bind-def-bteleporter-ateleporter-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Use these lineups to delay enemy players from pushing through Hookah or A Bath."
+        }
+    ]
+}

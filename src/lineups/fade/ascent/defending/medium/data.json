@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Simple B Main Info Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-bmain-bsite-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective info Haunt for B Main, with a bonus Haunt to check for Lurkers in specific scenarios where that can be applied."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "A Site Retake Haunt for Behind Generator",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-asite-aheaven-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great retake Haunt for behind Generator."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "B Site Haunt to Hold Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-bsite-midmarket-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Haunt that can be used to scan players as they push out of B Main into B Site. This opens up possibilities for you and your team to shoot through smokes placed for Market and Defender Spawn at scanned players."
+        }
+    ]
+}

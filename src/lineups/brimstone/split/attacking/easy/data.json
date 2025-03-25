@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard B Site Sky Smokes from B Main for Spawn and Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-bsite-bmain-skysmoke_2.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Default Post Plant Lineup from B Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-bsite-bmain-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Use this lineup from B Main to deny or delay players from defusing the spike when it's planted for B Site Default."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Lobby Post Plant for Open B Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-bsite-blobby-incendiary_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this post plant lineup from B Lobby for when the Spike is planted for B Main to safely delay or deny enemy players from defusing the Spike. Just be cautious of your flank from Ramen or Attacker Spawn when using this lineup if it is at all possible for the enemy team to be coming from either of those places."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Simple A Site Post Plant from A Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-asite-atower-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective post plant Incendiary lineup from A Tower for A Site Default."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Sky Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-asite-amain-skysmoke_2.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Site Default Post Plant from A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-atk-asite-alobby-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Use this post plant from A Lobby to safely delay or deny the Defenders from defusing the spike on A Site Default."
+        }
+    ]
+}

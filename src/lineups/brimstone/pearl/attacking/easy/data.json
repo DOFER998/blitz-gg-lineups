@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Club to B Site Post Plant Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5brimstone-pearl.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Incendiary to delay enemies from defusing the spike after you've planted it."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Ramp to B Site Post Plant Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4brimstone-pearl.mp4",
+            "difficulty": "easy",
+            "description": "This is a good post plant Incendiary for B Site to delay enemies from defusing your spike."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Default Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3brimstone-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "These are the default smokes for B Site that you can use to cut off all access points into the site allowing your team to take the site and get the Spike down."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Site Default Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2brimstone-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "These are the default smokes for A Site that you can use to cut off all access points into the site allowing your team to take the site and get the Spike down."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Main to A Site Post Plant Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1brimstone-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "This is an easy post plant setup that will allow you to play time and shoot your incendiary stopping the enemy team from defusing the spike."
+        }
+    ]
+}

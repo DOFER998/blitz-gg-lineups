@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Halls Clone Util Break / Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-breeze-atk-halls-halls-clone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Utilize your Fakeout to check A Halls, allowing you to peek."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Main to Defender Spawn Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)yoru-breeze-atk-ctspawn-bmain-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Gatecrash to get into Defender Spawn and flank onto B Site and open it up for your team."
+        }
+    ]
+}

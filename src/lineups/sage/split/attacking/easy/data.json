@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "A Tower Delay / Control Barrier Orb for Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-split-atk-defenderspawn-atower-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Barrier Orb that can be used to delay / make it more difficult for Defenders to retake A Tower / A Screens."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Tower Delay / Control Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-split-atk-btower-midmail-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Kitchen To Attacker B Tube Entrance",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-midbluebtubeentrance-kitchen-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for breaking up the attackers push into B Tube, as well as getting pick damage on players in that area. Keep in mind how exposed you are when doing this though, since you are exposed to both the top of B Tube, and the underside when peeking from Kitchen here."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": " Back Right A Site To Top Left A Nest Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-topleftanest-rightasite-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for either checking whether or not there's players in the close corner on the top left side of A Nest, or forcing players out of that corner. There is some risk associated with this though, so definitely make sure you are aware of how you are exposed, as well as what parts of site you and your team have control over when doing this."
+        }
+    ]
+}

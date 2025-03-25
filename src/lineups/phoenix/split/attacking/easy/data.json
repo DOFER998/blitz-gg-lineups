@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Aggressive Curve Ball to Push Through B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-split-atk-btower-midmail-curveball.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Curve Ball that can be used to push through, and / or take control of B Tower from Mid Mail.\n"
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": " A Main To A Elbow Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-split-atk-aelbow-amain-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This Hot Hands lineup is useful for stopping players from crossing from A Elbow to A Screens while pushing into A Site."
+        }
+    ]
+}

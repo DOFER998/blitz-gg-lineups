@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Left C Site Default Post Plant FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-atk-leftcsitedefault-backclong-fragment.mp4",
+            "difficulty": "medium",
+            "description": "This is a great post plant FRAG/MENT for left side C Site Default. Keep in mind, however, that the FRAG/MENT will do more damage to players closer to the center of the FRAG/MENT's radius, and it will not do enough damage to kill a player with full health + full armor if they are defusing the spike on the outer edge of the FRAG/MENT's area of effect."
+        }
+    ]
+}

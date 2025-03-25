@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Safe A Bath Spike Plant Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-bind-atk-asite-abath-barrierorb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this wall to safe plant the Spike in front of A Bath."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "A Site Spike Plant Wall + Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-bind-atk-asite-amain-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to safely plant the Spike on A Site."
+        }
+    ]
+}

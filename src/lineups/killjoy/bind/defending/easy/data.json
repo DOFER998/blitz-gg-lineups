@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4killjoy-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good setup to defend against attackers on B Site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3killjoy-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good setup on A Site to defend against attackers pushing and executing on the site."
+        }
+    ]
+}

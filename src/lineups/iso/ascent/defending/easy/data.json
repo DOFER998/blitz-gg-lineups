@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "iso",
+            "title": "B Main Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-ascent-def-bmain-bmain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Undercut lineup can help you aggressively deal with a B main push."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "iso",
+            "title": "A Main Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-ascent-def-amain-amain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Undercut lineup can help you aggressively deal with an A main push."
+        }
+    ]
+}

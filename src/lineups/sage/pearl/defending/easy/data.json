@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Early Round Shops Slow Orb from Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-pearl-def-shops-aart-sloworb.mp4",
+            "difficulty": "easy",
+            "description": "Here's an early round Slow Orb for Mid Shops from A Art, that can be used to slow the enemy team's early round aggression into Mid.\n"
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sage",
+            "title": " Early Round Mid Doors Passive Barrier Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-pearl-def-middoors-blink-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great wall to place for Mid Doors at the beginning of the round to make it much more difficult for enemy players to push through Mid Doors."
+        }
+    ]
+}

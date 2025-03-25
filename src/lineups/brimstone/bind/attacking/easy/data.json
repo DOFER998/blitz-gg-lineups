@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Short to Truck Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-truck-short-molly_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple post plant molly lineup to force Attackers off the spike at the default plant spot."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Short to Triple Box Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-triple-short-molly_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple post plant molly lineup that will damage any Attacker defusing the spike at Triple, it spreads to the corner of it."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Fast Front B Site Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-bsite-blong-molly_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this quick and powerful post plant molly to play aggressive with, as you are able to contest and stall for more time."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Early Round U-Hall Ultimate to Take Site Fast",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-uhall-amain-orbitalstrike_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this Ultimate ability to quickly clear out U-Hall at the very beginning of the round, setting up duelists with abilities like Jett's Dash or Raze's Blast Packs up to take control of U-Hall immediately after the Ultimate ability clears it out."
+        }
+    ]
+}

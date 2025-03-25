@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Main Peek With Guiding Light ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-bmain-bmain-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this flash lineup to peek B Main effectively, you can also use this to support teammates from sitting directly under the window as well. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "A Site To A Lobby Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-alobby-asite-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for utility and players in A Lobby and A Main.  "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Site To B Lobby Entrance Into B Main Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-bmain-bsite-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for utility and players around the entrance into B Main From B Lobby, and for looking for information on as much of B Lobby as you're able to without the enemy shooting your trailblazer."
+        }
+    ]
+}

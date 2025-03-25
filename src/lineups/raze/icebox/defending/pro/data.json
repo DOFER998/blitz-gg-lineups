@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Mid Boiler To Top B Tube Double Blast Pack",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-topbtube-midboiler-blastpack.mp4",
+            "difficulty": "pro",
+            "description": "This is useful for quickly getting on top of B Tube from Mid Boiler, especially with the help of utility from your team, to either get some unexpected picks in Mid, or retake B Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Snow Pile To Top Of B Tube Double Blast Pack ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-bsnowpile-btube-blastpack.mp4",
+            "difficulty": "pro",
+            "description": "This double blast pack lineup is useful for quickly getting on top of B Tube, which can potentially throw the enemy team off and open up the potential for you to secure some picks from there, and increase you and your team's map control."
+        }
+    ]
+}

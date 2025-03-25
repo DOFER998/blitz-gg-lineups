@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "C Site Execute Trailblazer Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-atk-csite-cmain-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Use these Trailblazer Variations when pushing into C Site with your team. Just be careful of the flank, and enemy players opening C Door behind you."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Early Round B Main Guiding Light + Execute Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-atk-bmain-attackerspawn-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Use this Guiding Light to push back enemy players inside of or holding an angle into B Main, and then if your team pushes up B Main and is getting ready to push into B Site, use your Trailblazer to lead the Site execute."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Aggressive Early Round C Main Info Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-atk-cmain-clobby-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective aggressive info flash for C Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Aggressive Early Round A Main Info Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-lotus-atk-amain-alobby-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective info flash for A Main."
+        }
+    ]
+}

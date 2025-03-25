@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Quick Rotation Gatecrash to Water from Mid Connetor / Mid Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-pearl-def-defendersidewater-midconnector-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective quick rotation Gatecrash to Water from Mid Connector / Mid Doors."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Early Round Mid Top Blindside from A Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-pearl-def-midtop-aart-blindside.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Blindside that you can use to peek Mid Top from A Art at the beginning of the round."
+        }
+    ]
+}

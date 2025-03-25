@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Link Lockdown For A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-alink-alink-lockdown.mp4",
+            "difficulty": "easy",
+            "description": "This lockdown setup is useful for clearing out the entirety of A Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "C Link To Left C Default Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-csitefrontdefault-clink-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful for stopping players from peeking you from the right side of Default on C Site, or potentially delaying  players from planting the spike in that area."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Link To Graffiti Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-graffiti-alink-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful for clearing players in the corner seen in the second POV."
+        }
+    ]
+}

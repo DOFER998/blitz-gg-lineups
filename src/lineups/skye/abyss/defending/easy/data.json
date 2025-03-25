@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Vents Pop Flash Mid Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-abyss-def-mid-vents-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest and catch enemies off guard towards mid with this flash lineup."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Aggressive B Main Guiding Light Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-abyss-def-bmain-bmain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this flash lineup to contest for B Main more effectively."
+        }
+    ]
+}

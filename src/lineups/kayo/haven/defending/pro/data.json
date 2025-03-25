@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "C Logs Pop Flash For C Long ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-def-csite-clogs-flashdrive.mp4",
+            "difficulty": "pro",
+            "description": "This is a great FLASH/DRIVE to pop flash players pushing out of C Long into C Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Top C Long ZERO/POINT From C Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-def-topclong-csite-zeropoint.mp4",
+            "difficulty": "pro",
+            "description": "This is a great ZERO/POINT to catch players at the top of C Long who are pushing into C Site off guard and suppress them, since the ZERO/POINT quickly lands in a spot that is difficult to react to, especially if you haven't seen the ZERO/POINT land there before. "
+        }
+    ]
+}

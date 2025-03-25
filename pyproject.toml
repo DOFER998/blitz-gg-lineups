@@ -1,0 +1,10 @@
+[project]
+name = "blitz-gg-lineups"
+version = "0.1.0"
+description = "This python tool automatically scrapes all VALORANT lineup guides from blitz.gg and saves them in structured JSON format."
+authors = ["c0mrade <killmy666@gmail.com>"]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+]

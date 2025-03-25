@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Standard Front B Main Arc Rose Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-split-atk-bsite-bmain-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the B Site, use this Arc Rose lineup to flash Defenders holding the front of B Main. This also gets any Defender playing the boost spot to the left of main."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Standard Front A Site Execute Arc Rose ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-split-atk-asite-amain-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the A Site, use this Arc Rose lineup to flash Defenders holding the entrance from site. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "A Site Execute Razorvine for Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-split-atk-aheaven-amain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the A Site, use this Razorvine lineup to pressure Defenders looking to aggressively peek from Heaven. This will also clear anyone sitting at Flower."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Simple Mail Razorvine Clear ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-split-atk-mail-mid-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Clear Defenders playing towards Mail with this easy lineup."
+        }
+    ]
+}

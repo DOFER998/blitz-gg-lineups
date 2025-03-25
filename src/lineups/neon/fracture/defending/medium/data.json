@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "neon",
+            "title": "A Main Fast Lane + Relay Bolt Delay Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-fracture-def-asite-amain-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Fast Lane + Relay Bolt delay setup for A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "neon",
+            "title": "B Main Fast Lane + Relay Bolt Delay Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-fracture-def-bmain-bcanteen-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Fast Lane + Relay Bolt delay setup for B Site."
+        }
+    ]
+}

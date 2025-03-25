@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Dart for Garage Info From Haystack",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-garage-haystack-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's an extremely strong dart you can use for gaining information at Garage, as it will scan almost all of it. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Utility Break Shockdart for Front B Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-bsite-spawn-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart to break Cypher's Tripwire, or Killjoy's Alarmbot. This will provide added pressure on Defenders at the start of the round."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Dart for A Long From Outside A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-along-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great dart to throw when contesting for A Long control. You can also use this dart for information mid round."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Long To A Site Reconbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-backasite-along-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for revealing players playing in commonly held spots on A Site from A Long and is a great support arrow for your teammates waiting to push in to A Site."
+        }
+    ]
+}

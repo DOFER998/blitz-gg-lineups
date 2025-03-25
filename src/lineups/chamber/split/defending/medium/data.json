@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive A Main to Ramp TP + Vents Trip",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-aramp-amain-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but strong setup to aggressively fight for A Main control. This allows you to quickly set up a different angle to contest from, while stalling potential Attackers pushing from Vents."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Ramp to Vents Trademark and Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-vents-vents-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up an aggressive peek towards A Main like so, to allow yourself for a quick rotation and potential pick towards Mid. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Vents + Ramp Trademark And Mid Rendezvous Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-aheaven-aheaven-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up an aggressive fight towards Mid with this combination of utility, and letting you reposition to take a fight towards Ramp quickly."
+        }
+    ]
+}

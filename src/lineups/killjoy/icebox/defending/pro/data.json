@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility B Site Setup for Defender",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-bmain-bsite-alarmbot_1.mp4",
+            "difficulty": "pro",
+            "description": "Use this strong Killjoy setup to harass Attackers with all of your utility. Your turret allows you to focus on B Long with a teammate, as it watches your mid lurk. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility A Site Setup for Defender",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-asite-asite-turret_1.mp4",
+            "difficulty": "pro",
+            "description": "Use this strong Killjoy setup to lock the A Site down with all of your utility. Adjust your turret according to the enemy team Viper, as it should still poke through her wall, allowing you to play a strong crossfire with you and your utility."
+        }
+    ]
+}

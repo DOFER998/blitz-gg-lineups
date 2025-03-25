@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Off Angle Quick Flash For B Site From B Generator",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-bsite-bgenerator-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful off angle Guiding Light that makes it much more difficult for Attackers pushing into B Site to play anti-flash, allowing you to catch players pushing into B Site off guard. Try not to get caught with a Flash in your hand by players like Jett as they dash into Site, however!"
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round Trailblazer / Flash Combo For A Main From A Rope",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-amain-arope-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This is a great aggressive early round Trailblazer / Guiding Light Combo to take space in / pressure A Main from A Rope. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Aggressive Early Round A Main Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-amain-amain-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This early round Guiding Light is great for aggressively pushing into A Main, typically toward the beginning of the round."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Aggressive Early Round Flash From B Main For B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-btree-bsite-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This early round Guiding Light is great for aggressively pushing into B Tree, typically toward the beginning of the round."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Aggressive Early Round Peek With Flash In B Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-barcade-barcade-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is a great early round strat to catch players pushing into B Arcade off guard, or at the very least challenge them as they push into B Arcade from B Bench. This might work well with a teammate peeking into B Arcade from the B Generator Spawn Barrier or from B Tower.\n"
+        }
+    ]
+}

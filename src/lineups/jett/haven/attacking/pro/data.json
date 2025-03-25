@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Simple C Site Default Updraft Dash + Cloudburst Entry ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-atk-haven-csite-clong-tailwind.mp4",
+            "difficulty": "pro",
+            "description": "Here's a simple, yet very effective Updraft Dash Entry into C Site. This has to be done while your teammates are pushing into C Site, so communicate with your team to follow up with you so that they can best play around you and capitalize off of the opportunities you create with this entry."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Updraft Dash + Cloudburst Combo for Tall Boxes on B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-haven-atk-bsite-midcourtyard-cloudburst.mp4",
+            "difficulty": "pro",
+            "description": "Here's a common, but effective way to entry onto B Site, and gather valuable information for your team on the front side of B."
+        }
+    ]
+}

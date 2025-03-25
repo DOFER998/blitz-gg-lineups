@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Full B Site Undercut Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-atk-bsite-bmain-undercut_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Enable yourself with this combination of utility, to set up a more advantageous first encounter with a Defender playing on site. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "A Hit Contingency + Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-atk-asite-amain-undercut_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Isolate part of the A Site with your Contingency, as well as setting an advantageous fight with Undercut."
+        }
+    ]
+}

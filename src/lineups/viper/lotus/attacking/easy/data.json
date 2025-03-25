@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Early Round Snake Bite to Contest A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-lotus-def-amain-asite-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "Use one of these early round Snake Bite variations to either contest space in A Main with your team. You can use one of these 3 variations depending on where your teammates are positioned leading up to the spawn barrier going down."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Simple B Site Post Plant lineup from A Link / A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-lotus-atk-bsite-alink-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple Snake Bite post plant lineup from A Link / A Main to delay enemy Defenders from defusing the Spike from a position that may be tricky for them to push into to stop you. "
+        }
+    ]
+}

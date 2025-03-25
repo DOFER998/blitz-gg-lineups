@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Dark Cover One Way Mid Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-breeze-def-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Utilize this one way Dark Cover lineup to leave attackers guessing on a push through Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Elbow One Way Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-breeze-def-elbow-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover Elbow with this one way Dark Cover lineup from Nest."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Main One Way Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-breeze-def-amain-amain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deal with an attacker's push with this one way Dark Cover smoke on A Main."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Mid Nest to B Elbow Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(19)omen-breeze-def-belbow-midnest-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Dark Cover for B Elbow from Mid Nest to create a one-way smoke."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Site Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(14)omen-breeze-def-bsite-bback-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Paranoia for B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(13)omen-breeze-def-asite-asite-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Paranoia for A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)omen-breeze-def-asite-asite-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good dark cover to create a one-way smoke for A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Top Mid to Left Mid Pillar Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)omen-breeze-def-leftmidpillar-midtop-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good dark cover for Mid Pillar to prevent enemies from pushing up one side of Mid."
+        }
+    ]
+}

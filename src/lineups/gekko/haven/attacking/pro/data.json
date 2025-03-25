@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Full Utility C Site Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-csite-clong-wingman.mp4",
+            "difficulty": "pro",
+            "description": "Getting the timing right with this execute is very important. Try to make sure your teammates are able to take advantage of the maximum value that your utility can provide when initiating into Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Full Utility A Site Execute through A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-asite-along-wingman.mp4",
+            "difficulty": "pro",
+            "description": "Getting the timing right with this execute is very important. Try to make sure your teammates are able to take advantage of the maximum value that your utility can provide when initiating into Site."
+        }
+    ]
+}

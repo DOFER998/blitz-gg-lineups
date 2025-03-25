@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid FLASH/DRIVE Variations From Mail And Ropes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-split-def-mid-mailropes-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here are some aggressive flashes you can use to contest for Mid control, it is recommended that you coordinate this with your teammates to get maximum value out of it."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Heaven to B Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)kayo-split-def-bmain-bheaven-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for B Main to suppress enemies and stop a B Site push."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Tower to A Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)kayo-split-def-amain-atower-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good A Main ZERO/POINT for getting early info in the round and suppressing your opponents."
+        }
+    ]
+}

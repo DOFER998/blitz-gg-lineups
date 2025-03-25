@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "B Side Default Attacker Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-atk-cannon-spawn-cam_1(hard).mp4",
+            "difficulty": "pro",
+            "description": "Get an early game peek at Nest with this Spycam placement."
+        }
+    ]
+}

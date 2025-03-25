@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "neon",
+            "title": "A Pyramids Retake / Delay Fast Lane + Relay Bolt Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-breeze-def-apyramids-apyramids-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great retake / delay Fast Lane + Relay Bolt setup, that allows you to aggressively retake control of the left side of the A Pyramids."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Back B Site Retake Fast Lane From Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-breeze-def-backbsite-defenderspawn-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great Fast Lane + Relay Bolt retake setup for B Site from Defender Spawn, that allows you to insert yourself into Back B Site."
+        }
+    ]
+}

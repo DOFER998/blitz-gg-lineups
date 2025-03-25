@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Wall + Orb for A Site Execute From A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-heaven-long-orb_2.mp4",
+            "difficulty": "pro",
+            "description": "Enable your team to successfully take the A Site with this strong combination of Viper utility, the orb is great for isolating Defenders trying to coordinate a retake. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Wall + Orb for B Site Execute From Outside Window",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-atk-clink-garagedoor-wall_2.mp4",
+            "difficulty": "pro",
+            "description": "This combination of Viper utility covers both A Link and C Link, and can be used aggressively to take one of the links while the other is smoked off. "
+        }
+    ]
+}

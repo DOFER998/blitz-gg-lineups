@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Long to B Site Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4skye-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Trailblazer to clear the common corners on your way into B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Main to U Hall Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5skye-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Trailblazer to clear most of the common corners on your way into A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Short To B Hookah Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-bind-both-bwindow-bshort-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for blinding players in B Hookah from B Short."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Lamps To Back A Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-bind-both-asite-alamps-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for blinding players in the back of A Site and players pushing in to retake from Defender Side Spawn."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Aggressive B Walk Down Mid TP Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-haven-def-bsite-bsite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Gain information towards Mid and set up a potential flank with this aggressive walk down play, allowing you to rotate quickly as well to defend whichever site you choose."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Garage Door Fakeout Play Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-haven-def-garage-garage-fakeout_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up an aggressive play towards Garage with this decoy, allowing you to also gain information towards Mid."
+        }
+    ]
+}

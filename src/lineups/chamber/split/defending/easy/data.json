@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Standard B Main Trademark + Default TP ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-bmain-bsite-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great setup you can use to catch opponents off guard as they are executing the B Site."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive B Main Peek TP + B Heaven Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-bsite-bsite-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an aggressive peek towards B Main like so, for good information and an easy way to rotate quickly and assist B Heaven if needed."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "B Site Top News Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-def-news-news-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this powerful off-angle to pick Attackers contesting for B Main, allowing you to reposition to a different angle quickly."
+        }
+    ]
+}

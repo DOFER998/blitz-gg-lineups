@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Start A Main Saturate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-ascent-def-amain-amain-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this simple Saturate lineup to contest Attackers trying to take A Main control."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Start B Main Saturate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-ascent-def-bmain-bmain-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, catch Attackers off-guard with this simple Saturate lineup. "
+        }
+    ]
+}

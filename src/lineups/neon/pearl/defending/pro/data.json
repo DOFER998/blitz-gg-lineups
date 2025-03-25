@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Fast Lane Spike Timing Outplay + Retake Stuns",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-pearl-def-asite-asecret-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here are two great Retake stuns for A Site, alongside a way to catch the enemy team off guard while they are planting the Spike on A Site. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "neon",
+            "title": "B Site Delay Setups from B Link and B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-pearl-def-bsite-blink-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "From either the bottom of B Link, or B Tower - here are two ways that you can delay the enemy team's push into B Site."
+        }
+    ]
+}

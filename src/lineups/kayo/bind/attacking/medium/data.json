@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Full Utility Front B Site ZERO/POINT Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-bsite-blong-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this powerful combination of utility to enable your teammates, and yourself, to successfully shut down Defenders playing the B Site. Your knife clears all of Tube and back site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Simple Post Plant FRAG/MENT From A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-asite-asite-fragment.mp4",
+            "difficulty": "medium",
+            "description": "This is a simple, but effective post plant FRAG/MENT lineup from A Lobby."
+        }
+    ]
+}

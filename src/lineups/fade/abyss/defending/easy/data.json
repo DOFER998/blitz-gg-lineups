@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round B Main Info Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-abyss-def-bmain-bsite-haunt_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy Haunt lineup to gain early information towards B Main. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Defense A Main Hold Seize ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-abyss-def-asite-asite-seize_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple way to stall the A Site from Attackers."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Hold B Tower and B Main Like This",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-def-bsite-btower-skysmokes.mp4",
+            "difficulty": "medium",
+            "description": "Use your Sky Smokes and Incendiaries to hold down important chokepoints into B Site and B Tower by using the different variations shown in this video."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Hold A Main and Tower Like This ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-split-def-asite-atower-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Use your Sky Smokes and Incendiaries to hold down important chokepoints into A Site and A Tower by using the different variations shown in this video."
+        }
+    ]
+}

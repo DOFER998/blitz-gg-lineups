@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full B Site Trip Setup Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-def-bsite-bsite-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Control B Site from both angles with these Trapwires, while controlling visibility with a Cage."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Default B Trip Setup + Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-def-bsite-bsite-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "These Trapwire lineups allow you to effectively control B site while obscuring attackers' visibility with a Cage."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Default A Trip Setup + Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-def-asite-asite-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these Trapwire lineups to help defend A while Spycam gives you visibility, and your Cage allows an aggressive push back against attackers."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Standard A Trip Setup + Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-def-asite-asite-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these Trapwire lineups to help defend A while Spycam gives you visibility, and your Cage allows an aggressive push back against attackers."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Site to Mid Doors Cyber Cage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2cypher-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good one-way Cyber Cage to get an advantage on people pushing up the Mid Doors."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Site Mid Doors Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5cypher-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good Spycam to see both angles into A Site."
+        }
+    ]
+}

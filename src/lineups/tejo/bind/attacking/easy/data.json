@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "U-Hall Delivery + Salvo Take",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-atk-uhall-short-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Flush out Defenders playing towards U-Hall and take control of it with this combination of utility."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Site Execute Drone + Salvo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-atk-bsite-blong-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to execute the B Site and support your team."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Simple Hookah to Long Drone Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-bind-atk-long-hookah-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this pathing with your Stealth Drone, allowing you to commit resources and utility properly when contesting for B control."
+        }
+    ]
+}

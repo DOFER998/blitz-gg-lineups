@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Default B Long Arc Rose Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-atk-blong-blong-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When looking to take B Long control, default this flash to push Defenders back from immediate angles."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Full A Site + Art Steel Garden Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-atk-asite-amain-steelgarden_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Steel Garden lineup to successfully push Defenders back from the A Site, or Art."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Full B Site Steel Garden Clear + Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-atk-bsite-blong-steelgarden_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "To gain a simple advantage, use this Steel Garden lineup when your ultimate is up."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "A Main to Art Razorvine Clear ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-atk-art-amain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to pressure Art at the start of the round."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round A Lobby Haunt from A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-def-alobby-bottomalong-haunt-RE.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective A Lobby Haunt from the A Long spawn barrier.\n"
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round A Garden Haunt from A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-def-agarden-bottomalong-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective A Garden Haunt from the A Long spawn barrier.\n"
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "fade",
+            "title": "A Site Retake Haunt from A Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-def-asite-atower-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great A Site Retake Haunt from A Tower."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "fade",
+            "title": "C Site Retake Haunt from C Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-def-csite-clink-haunt1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great C Site retake Haunt from C Link."
+        }
+    ]
+}

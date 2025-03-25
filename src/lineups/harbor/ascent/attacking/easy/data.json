@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Lobby to B Side Defender Spawn Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3harbor-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove to block B Side Defender Spawn and get onto B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Main to A Heaven Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2harbor-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good use of your Cove ability to block A Heaven and get onto A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Main to A Site High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1harbor-ascent.mp4",
+            "difficulty": "easy",
+            "description": "This is a good use of your High Tide ability to block both entrances into A Site."
+        }
+    ]
+}

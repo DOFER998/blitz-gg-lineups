@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility B Site Hold from Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-bsite-defenderspawn-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here is a simple, yet very reliable full utility Setup for B Site. Be sure to take advantage of the variations of the Trapwires here. Also, this is one of the most reliable setups, but that doesn't mean you should over-rely on it. Be sure to throw in other setups, or variations of this setup that combine other setups with this one."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility Back B Site Hold Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-asite-backsite-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple full utility setup that allows you a decent amount of flexibility in how you can play on B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Passive A Tree + A Site Full Utility Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-asite-atree-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple full utility setup that allows you to passively hold Tree, and also respond to enemy players as they push into A Site.\n"
+        }
+    ]
+}

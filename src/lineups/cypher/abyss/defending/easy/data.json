@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility B Site Trapwire + Cam + Cage Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-abyss-def-bsite-bsite-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Spam Attackers tagged by your Trapwires that are running up towards B Site with this setup."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility Trapwire + Cam + Cage A Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-abyss-def-asite-asite-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this full site setup to get Trapwire kills on Attackers running out.\n"
+        }
+    ]
+}

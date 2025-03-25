@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Post Plant Yellow Guiding Light ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-yellow-yellow-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective pop flash lineup you can use to disrupt Defenders trying to retake the site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "How to Take B Long With Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-yellow-garage-tiger_1.mp4",
+            "difficulty": "easy",
+            "description": "Follow this Trailblazer pathing to enable your teammates taking B Long control. It's not important to try and bite Defenders, you may use it to leap a distance to gain information."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Mid Blue to Mid Boiler Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-midblue-midboiler-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good guiding light to blind enemies playing Mid Boiler and allow you to peak or go under B Tube and take B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Rafter to Defender Spawn Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-arafter-defenderspawn-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good guiding light to blind and swing on rotators that are rotating to A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Pipes to A Pipes Corner Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-apipes-apipescorner-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good trailblazer to concuss your enemies hiding in the corner of A Pipes towards A Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Nest to A Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-icebox-atk-anest-asite-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is a good guiding light to blind enemies peaking A Nest from A Site and allow you to swing and get a kill. This is good for getting an entry pick and gaining access to A Site."
+        }
+    ]
+}

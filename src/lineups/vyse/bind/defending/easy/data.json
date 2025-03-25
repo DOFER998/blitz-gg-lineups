@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Standard Short Shear + Razorvine Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-def-short-short-shear_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility like so, to force Attackers into an unfavorable position."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Default B Logs Shear + Razorvine Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-def-long-long-shear_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility like so, to disrupt Attackers from a successful execute towards B Long."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Spawn Arc Rose B Site Hold Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-def-bsite-bsite-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable yourself and your teammates with this strong Arc Rose lineup when holding the site, as it will not blind anyone running out from spawn to fight."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Standard Short Arc Rose Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-def-short-short-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When contesting for Short, or simply taking a peek in the mid-round, use this simple lineup to do so."
+        }
+    ]
+}

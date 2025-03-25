@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Early Round Aggressive Bottom Mid Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-ascent-def-mid-market-tp_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple but effective early round Bottom Mid Rendezvous."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive Catwalk Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-ascent-def-cat-cat-tp_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective aggressive Catwalk Rendezvous. This also lets you play in an unpredictable spot towards the mid-round if you see fit. "
+        }
+    ]
+}

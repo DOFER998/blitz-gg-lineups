@@ -1,0 +1,104 @@
+{
+    "totals": 11,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Belt to A Pipes FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good FLASH/DRIVE to use early to prevent enemies from pushing aggressively toward A Belt."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main to A Site ZERO/POINT + FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT and FLASH/DRIVE combo to suppress and blind enemies on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Garage to B Green ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/7kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to suppress enemies playing around B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Nest to A Generator FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(16)kayo-icebox-atk-agenerator-anest-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for A Generator from under A Nest to push opponents out of the corner or to kill them."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Belt to A Site FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(15)kayo-icebox-atk-asite-tspawn-flashdrive.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FLASH/DRIVE for A Site from A Belt that blind enemies peeking allowing your team to push."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Belt to A Site FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(13)kayo-icebox-atk-adefault-abelt-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for A Site from A Belt to delay a defuse and secure the round."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Mid Blue to Mid Boiler ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)kayo-icebox-both-midboiler-midblue-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT to suppress enemies playing in B Kitchen or Mid Boiler."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Green to B Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)kayo-icebox-atk-bdefault-bgreen-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for B Site post plant."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Nest to A Site ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)kayo-icebox-atk-asite-anest-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Nest to Top A Site FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)kayo-icebox-atk-topasite-anest-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Nest to A Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)kayo-icebox-atk-adefault-anest-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for the default plant spot on A Site."
+        }
+    ]
+}

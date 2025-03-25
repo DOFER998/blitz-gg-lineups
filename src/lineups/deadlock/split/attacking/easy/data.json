@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Main to Front A Site Post Plant Annihilation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-atk-asite-amain-annihilation.mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet powerful Annihilation line up to successfully close out the round.  "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Start Round Spawn to Ramp Grav Net Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-atk-ramp-spawn-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Coordinate a play with your teammates at the start of the round with this Grav Net line up. This will force Defenders to take an unfavorable fight, or to give up the space."
+        }
+    ]
+}

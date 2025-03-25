@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "sage",
+            "title": "B Main Off-Angle Wall Top Peek ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-sunset-def-bmain-bmain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Attackers entry towards B Main easily, as well as setting yourself up for a strong off-angle peek towards B Main. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Early B Main Slow Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-sunset-def-bmain-bmain-slow_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this early round lineup to slow attackers pushing through B Main."
+        }
+    ]
+}

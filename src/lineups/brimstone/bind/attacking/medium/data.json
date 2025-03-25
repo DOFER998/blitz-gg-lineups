@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Outside Fountain to B Default Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-bdefault-blong-molly_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective post plant molly to secure rounds. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard B Site Sky Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-bsite-blong-skysmokes_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these standard Sky Smokes when pushing into B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Execute Sky Smoke Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-atk-asite-asite-skysmoke_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these smokes/smoke variations when taking A Site."
+        }
+    ]
+}

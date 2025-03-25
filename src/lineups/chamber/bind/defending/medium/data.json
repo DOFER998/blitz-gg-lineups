@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Hookah to B Site Tube Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-bsite-bsite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Enable yourself to play in Hookah and trade utility early into the round with this simple setup. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Site Rendezvous for U-Hall + A Main Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-spawn-uhall-tp_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "This Rendezvous can be used to play however you want from / in front of U-Hall to hold A Main or U-Hall and then safely teleport out after taking an engagement or facing enemy utility."
+        }
+    ]
+}

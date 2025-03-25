@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Break Up / Delay B Main Push from B Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-def-bsite-blink-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this to break up / delay the Attacker's B Main Execute."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Safely Defend A Site + Delay Spike Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-def-asite-secret-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to defend A Site + delay spike plant."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Simple B Main Delay Mosh Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-def-bmain-bsite-moshpit_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple B Main Delay Mosh Pit to make it difficult for the Attackers to push through the B Main / B Site choke point."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early A Main Dizzy to Grab Ultimate Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-def-amain-amainorb-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy to grab the Ultimate orb in A Main early in the round. If you think the enemy team might be setup for this, ask a teammate to push with you."
+        }
+    ]
+}

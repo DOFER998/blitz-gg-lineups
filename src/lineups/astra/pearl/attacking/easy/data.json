@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Early Round Mid Doors Aggression from Mid Shops",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-pearl-atk-midplaza-midshops-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "Here are two stars you can use to take space in and around Mid Doors at the beginning of the round from Mid Shops."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Default B Site Smokes from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-pearl-atk-bsite-bmain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for B Site that you can use while your team executes onto B Site from B Main. "
+        }
+    ]
+}

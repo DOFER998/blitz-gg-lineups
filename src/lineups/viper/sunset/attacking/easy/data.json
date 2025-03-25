@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Safe Post Plant Snake Bite ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-atk-bsite-bsite-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When playing the post plant situation, you can use this simple lineup from outside B Main to force retaking Defenders off the spike."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Toxic Screen and Stairs Poison Cloud B Main Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-atk-bsite-bsite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this combination of utility to execute the B Site, allowing for more possibility to play towards your Poison Cloud on site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Tiles to A Site Wall Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-atk-asite-tiles-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Close off defenders' sight lines on A Site with this Toxic Screen lineup."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Main to A Link Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-sunset-atk-alink-amain-orb_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Poison Cloud lineup to shut down visibility from A Link."
+        }
+    ]
+}

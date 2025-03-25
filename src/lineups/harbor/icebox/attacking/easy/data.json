@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Green to B Site High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2harbor-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to block off common angles allowing your team to push onto B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Belt to A Pipes Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1harbor-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to prevent the common Op angle and also allows you to push up A Belt."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Execute High Tide from B Green",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-icebox-atk-bsite-bgreen-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great B Site Execute High Tide for B Site from B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Site Execute High Tide from Under Pipes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-icebox-atk-asite-anest-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great A Site execute High Tide for A Site from under Pipes.\n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "Early Round Mid Aggression Cove Lineup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-icebox-atk-btube-midblue-cove.mp4",
+            "difficulty": "easy",
+            "description": "Use this Cove lineup at the beginning of the round to pressure Mid, and / or push under Tube with your team. As an alternative, you could also use your Cascade ability for the same purpose. "
+        }
+    ]
+}

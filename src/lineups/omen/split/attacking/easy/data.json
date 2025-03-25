@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Market to B Heaven Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-atk-market-aheaven-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your team to contest for B Heaven control with this Paranoia lineup."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Mid Variation Dark Cover Default",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-atk-mid-mid-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default these Mid smokes, dependant on the goal you and your team have in mind."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Sewers to Ramp Paranoia Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-atk-sewers-ramp-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Coordinate this aggressive Paranoia lineup towards Ramp, best paired with a duelist that can quickly contest there."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard A Site Dark Covers +  Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-split-atk-asite-asite-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these standard Dark Covers to help your team take control of A Site, and work with a movement duelist to combo their movement utility with your Paranoia to take the site."
+        }
+    ]
+}

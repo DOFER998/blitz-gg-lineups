@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Front Right A Site Exec Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-atk-frontrightasite-apipes-spycam.mp4",
+            "difficulty": "easy",
+            "description": "This is a great Spy Cam variation to check many of the commonly held angles on A Site when executing onto Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Site Exec Generator Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-atk-agenerator-apipes-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this Cypher Spy Cam when pushing into A Site through lower Pipes with your team."
+        }
+    ]
+}

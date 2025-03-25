@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Garage Door Peek Rendezvous to C Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-def-garage-csite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's an easy, yet powerful way to aggressively peek Garage at the start of the round."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Site Trademark + Top A Site Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-def-asite-asite-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this powerful setup to gain early information towards A Lobby, while repositioning yourself to an aggressive off-angle. The trademark will activate for both A Short and A Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive A Short Rendezvous to A Link ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-def-ashort-alink-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this Rendezvous to make aggressive plays in A Short, or even work with a teammate to gather information in A Lobby from A Long so that you can hold a line from A Short that allows you to lock that area of the map down for your team. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "C Site Rendezvous for Top of C Default",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-def-csite-csite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Rendezvous for Top of C Default."
+        }
+    ]
+}

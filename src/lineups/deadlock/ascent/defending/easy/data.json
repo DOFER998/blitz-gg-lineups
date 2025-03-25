@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive B Main Barrier From Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-def-bmain-lane-barrier_1.mp4",
+            "difficulty": "easy",
+            "description": "Set up and take control of B Main with this powerful lineup, as Attackers will be split up and forced to take an unfavorable fight or forfeit the space."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Boat Sonic Sensor + B Main Grav Net Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-def-bsite-stairs-sensor_1.mp4",
+            "difficulty": "easy",
+            "description": "Off your Sensor's contact, throw your Grav Net like so, to effectively shut down the Attackers' push. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive Start Round A Main Grav Net Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-def-amain-asite-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable you, or your teammates, for an aggressive A Main play. "
+        }
+    ]
+}

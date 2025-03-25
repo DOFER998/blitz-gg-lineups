@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Mid Boiler to Mid Blue Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(16)astra-icebox-def-midblue-midboiler-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula for Mid Blue to pull smoke off enemies and delay a mid push."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Green Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(15)astra-icebox-def-bgreen-bgreen-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to create a one-way smoke on-top of B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Site Cosmic Divide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(13)astra-icebox-def-asite-asite-cosmicdivide.mp4",
+            "difficulty": "easy",
+            "description": "This is a good cosmic divide for A Site that allows you to cut off enemies protecting the bomb."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Screens to A Default Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(12)astra-icebox-def-adefault-ascreens-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well to pull enemies off the bomb or stop a plant."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Site to A Pipes Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)astra-icebox-def-apipes-asite-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well for A Pipes to stop a push onto A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site Retake Cosmic Divide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)astra-icebox-def-byellow-bsite-cosmicdivide.mp4",
+            "difficulty": "easy",
+            "description": "This is a good cosmic divide location to prevent the enemies from hearing the defuse. This will also make it so if enemies want to peek you they will have to cross through the wall giving you ample time to stop defusing and shoot back."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Site to A Pipes Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)astra-icebox-def-apipes-asite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to create a one-way smoke on A Pipes. This will allow you to get an advantageous angle on your opponent."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site to B Green Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)astra-icebox-def-byellow-bsite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to one-way smoke B Green and allow you to get an advantageous angle on your enemies pushing up."
+        }
+    ]
+}

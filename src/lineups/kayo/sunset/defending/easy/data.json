@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site to Main Support Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-def-bmain-bmain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates with this powerful pop-flash, ensuring the longer duration in which enemies are blind to contest."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Top Mid Pop Flash Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-def-topmid-topmid-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this FLASH/DRIVE lineup to contest attackers pushing up mid."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Easy B Main Info Knife + Flash Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-def-bmain-bmain-knife_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT gives you info on attackers pushing from B Main, as well as a means to contest aggressively the Attackers towards there."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round Art + Double Doors Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-def-ddoors-link-pit_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this extremely powerful Viper ultimate to effectively lockdown mid control. This ultimate allows your art player to play inside of it, or outside and have it act as a smoke. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard B Site Defender Wall to Screens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-def-blong-link-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, yet effective wall you can throw at the start of the round. Use this to retake, or contest the B Site. There's a little pocket for you to hide in screens to potentially make a round winning play."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard A Main Defenders Wall to Double Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-def-amain-amain-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a powerful default wall you can throw to cover the entrance of A Main, Art stairs, and Double Doors. "
+        }
+    ]
+}

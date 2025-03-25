@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Early A Round Saturate Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-def-amain-amain-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, throw your Saturate for a favorable fight towards A Main. This gives you time to use Light Speed as well, if you choose to coordinate utility with a teammate."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Market Entrance Saturate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-def-market-art-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the beginning of the round, throw your Saturate as shown in the video to prevent Attackers from seeking Mid control easily. It is recommended to request a Window smoke from your teammate."
+        }
+    ]
+}

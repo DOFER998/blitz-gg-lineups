@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Pyramid Post Plant Lineup From A Cave",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-atk-apyramid-acave-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful Paint Shells lineup for when you happen to be playing inside of A Cave post plant, and Cave gets smoked off."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "raze",
+            "title": " Paint Shells Lineup For Mid Nest From B Elbow",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-atk-midnest-belbow-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful Paint Shells lineup for the right side of Mid Nest. Make sure that enemy players can't peek you from Mid Top though while you're setting this up."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Hall To A Metal Doors Boom Bot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-atk-ametaldoors-ahall-boombot.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for clearing out behind A Metal Doors and some of the area between A Metal Doors, A Nest, and A Bridge."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Mid Top Boom Bot For Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-atk-midnest-midtop-boombot.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for getting a Boom Bot into Mid Nest, and then sending it somewhat into the area between mid nest and A Bridge in Defender Side Spawn."
+        }
+    ]
+}

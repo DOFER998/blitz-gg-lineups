@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Simple A Site Dark Cover Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-asite-asite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Throw this simple, yet effective Dark Cover lineup to keep Attackers guessing. This smoke allows you to play in or out of it, catching and isolating fights as shown."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Lobby Dark Cover + Paranoia Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-alobby-alobby-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, set up like this to contest for space and map control towards the A Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Defense Garage Paranoia Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-garage-garage-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these Paranoia Variations to make it more difficult for enemy players to push through B, C, or Garage."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site One Way Dark Cover + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-asite-asite-smoke_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Dark Cover + Paranoia combo to make it more difficult for the Attackers to push into A Site. Callout that you are using / you want to use your Paranoia before using it so that your teammates can pick up the Short angle as you look long, or to simply flood the site faster."
+        }
+    ]
+}

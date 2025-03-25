@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Ascent B Main Oneway Cage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-bmain-bsite-cybercage.mp4",
+            "difficulty": "pro",
+            "description": "An easy lineup for the a one way smoke on B Main. Also blocks LOS from most of the door to B Main"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "skye",
+            "title": " A Long To Close Right A Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-atk-asite-along-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for clearing out the close right angle that has to be cleared inside of A Site, when pushing from A Long into A Site. You can also let it go a bit further and flash players on the angle on opposite far Left corner of A Site as well. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "C Long Cubby Guiding Light To Flash Right Side C Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-atk-csite-ccubby-guidingllight.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for supporting your teammates push into C Site from C Long, and Garage."
+        }
+    ]
+}

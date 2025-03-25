@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Site Generator Wall Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-atk-gen-gen-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the B Site, prevent Defenders from spamming you as you run to site, as well as preventing them from rotating to assist their teammates on site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "A Site Wall Cross to Plant Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-atk-asite-asite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get a safe and easy plant using this wall to cross to the A Site, preventing Defenders from shooting bullets and picking your teammates off. Be wary of Defenders playing Rafters however, as they will be able to spot you if you stray too far away from your wall."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Aggressive A Drop Wall Off Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-fracture-atk-adrop-asite-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Here's an aggressive Barrier Orb setup that can be used to peek into A Site from an unexpected angle."
+        }
+    ]
+}

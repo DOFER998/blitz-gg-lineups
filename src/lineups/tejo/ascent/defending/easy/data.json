@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "B Main Entrance Delivery Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-def-bmain-bmain-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, use this Delivery lineup to delay Attackers at B Main or to look for a combo utility play."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "A Main Entrance Delivery Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-def-amain-amain-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, use this Delivery lineup to delay Attackers at A Main or to find an aggressive utility combo play."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Start Round Mid to Tiles Special Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-def-tiles-mid-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, combo your Special Delivery with a teammate to find an aggressive play or pick towards Tiles."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Full A Main to Orb Armageddon Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-def-amain-amain-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When Attackers are trying to take A Main control, use this Armageddon lineup to force them into an unfavorable fight."
+        }
+    ]
+}

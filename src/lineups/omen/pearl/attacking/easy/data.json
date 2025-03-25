@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Art + Main A Split Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-atk-art-art-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use your blind towards Art, like so, to enable your teammates towards Art to split. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Two Standard A Site Dark Cover Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-atk-asite-asite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are two different variations of Dark Cover smokes towards the A Site, choose one angle to isolate as you scale up."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Default Art One Way Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-atk-art-art-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this one way smoke towards Art to successfully pressure Defenders from peeking, as well as setting up a potential round-winning lurk towards Link. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Dark Cover Default Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-atk-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "A good set of default smokes to block common defender entry points onto B Site, as well as a strong flash to prevent easier picks. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Post Plant Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-pearl-atk-bsite-bsite-smoke_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "A  good Dark Cover for post plant that allows you to see enemies defusing while shrouding their vision."
+        }
+    ]
+}

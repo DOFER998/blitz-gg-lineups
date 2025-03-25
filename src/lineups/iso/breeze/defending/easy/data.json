@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Early Mid Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-breeze-def-mid-doors-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Undercut lineup helps you take control of Mid quickly."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Aggressive B Main Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-breeze-def-bmain-bmain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Undercut lineup to aggressively head off a B Main push."
+        }
+    ]
+}

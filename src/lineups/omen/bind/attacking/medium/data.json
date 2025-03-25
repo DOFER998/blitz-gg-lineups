@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Hookah Push Support Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-atk-hookah-bfountain-paranoia_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this Paranoia to support your team as they push into Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard B Site Dark Covers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-atk-bsite-bsite-darkcover_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these standard smokes when pushing into B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Site Standard Smoke Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-atk-asite-amain-darkcover_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these smokes to execute onto A Site."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Halls Dart Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-halls-halls-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Send your Recon Bolt down Halls to quickly get info on attackers pushing into A Main."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Unexpected Recon Bolt For B Elbow From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-belbow-midnest-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a useful early round Recon Bolt for B Elbow, some of Mid Cannon, and some of B Main. Using this arrow can be a good way to land an arrow inside of B Elbow in an unexpected way, which increases the likelihood that the arrow will get a scan off and reveal players in that area. "
+        }
+    ]
+}

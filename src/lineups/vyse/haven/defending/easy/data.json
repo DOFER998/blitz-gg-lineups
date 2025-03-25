@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Aggressive Defender A Long Razorvine",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-def-along-along-rosevine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default this Razorvine lineup to flush Attackers out to fight, or prevent them from occupying space towards A Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "A Site Hold Arc Rose Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-def-aheaven-aheaven-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When holding or contesting the A Site, use this lineup to fight for control of it."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "C Site Hold Arc Rose Front Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-def-csite-csite-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable yourself with this front site flash lineup, as it gets anyone towards the front of C Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Aggressive Mid / Garage Arc Rose Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-haven-def-garage-garage-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest for space towards Mid with this simple lineup."
+        }
+    ]
+}

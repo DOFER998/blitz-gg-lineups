@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Defender Guiding Light Variation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-def-art-art-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here are two different ways to flash, and contest for Art control as a Defender."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Info Flash for A Main + A Restaurant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-def-arestaurant-art-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective info flash from the A/Mid Connector to check for players on the Attacker side of A Main, and A Restaurant."
+        }
+    ]
+}

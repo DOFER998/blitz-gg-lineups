@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "C Garage Trapwire with Cyber Cage + Spy Cam Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-havne-def-cgarage-cgaragespawnbarrier-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple Trapwire for C Garage, alongside an early round Cyber Cage + Spy Cam setup."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Early Round A Lobby Info Spy Cam ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-haven-def-along-asite-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round Spy Cam for A Lobby from A Long."
+        }
+    ]
+}

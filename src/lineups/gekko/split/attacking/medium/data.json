@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Simple A Site Post Plant Wingman + Mosh Pit Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-atk-asite-amain-wingman.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple setup to play post plant from almost any section of A."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round Mid Aggression with Safe Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-atk-mid-ramen-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Throw this Dizzy to create an opportunity for your team to push into Mid at the very start of the round. Then, if you're safe to do so, and have the timing for it - pick the Dizzy up for later in the round."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Full Utility B Site Execute / Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-atk-bsite-bmain-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to take control of B Site and then deny the spike defusal."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Full Utility A Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-atk-asite-amain-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Here's a fairly straight forward full utility A Site Execute."
+        }
+    ]
+}

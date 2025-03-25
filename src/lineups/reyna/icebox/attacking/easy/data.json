@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Tube to B Kitchen Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-atk-btube-bkitchen-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind your opponent in B Kitchen."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Nest to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-icebox-atk-anest-asite-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peak out A Nest and hold A Site for your team to push or to get a quick pick."
+        }
+    ]
+}

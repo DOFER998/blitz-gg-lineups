@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round Dart For Outside B Main From Pillar",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-bmain-pillar-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this default lineup at the start of the round to gain information on Attackers outside B Main."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Heaven Shock to B Default Planter",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-bdefault-bheaven-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this shock dart lineup to harass the bomb planter at Default, they will take its full damage."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Site Retake Dart Back Site From B Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-backbsite-bheaven-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "When retaking the B Site, use this dart to scan Defenders hiding backsite or Pillar. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Site Retake Dart From Screens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-asite-screens-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "When retaking the A Site, use this powerful lineup to scan Defenders everywhere on site except for back Maps. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": " Defender Side Spawn To Mid Vent Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-midvent-defendersidespawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is useful for scanning players on the inside of Lower Mid Vent, unless they are on top of the boxes inside of Lower Mid Vent."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Defender Side Spawn To A Ramp Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-atower-defendersidespawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This lineup is useful for getting information on players pushing up A Ramps, as well as scanning players in much of the inside of A Tower. Don't be careless in setting this up though, since an enemy player could easily peek you while you set the arrow up and pick you off if they have already pushed far enough inside of A Tower."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Mid to B Site Split Drone + Salvo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-split-atk-bsite-mid-drone_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up a split towards the B Site or simply take control of B Heaven with this set of utility, forcing more Defender resources."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Site Stealth Drone + Salvo Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-split-atk-asite-asite-salvo_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the A Site, use this combination of utility to enable your teammates successfully."
+        }
+    ]
+}

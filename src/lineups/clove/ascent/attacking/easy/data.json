@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "B Main to Lane Meddle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-atk-lane-bmain-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up your team with simple Meddle lineup that pressures Defenders playing Lane. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "A Site Generator Ruse One Way Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-atk-generator-generator-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this post plant Ruse lineup for an easy advantage."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Market + Spawn B Ruse Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-atk-bsite-bmain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the B Site, use these smokes to do so."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Door + Heaven A Ruse Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-ascent-atk-asite-amain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the A Site, use these smokes to do so."
+        }
+    ]
+}

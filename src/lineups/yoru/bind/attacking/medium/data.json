@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Site Execute Fakeout + Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-bsite-blong-decoy_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable yourself when executing the B Site with this combination of flashes from Garden. You could use your Gatecrash towards backsite as well, as your flash will blind Defenders looking towards Garden and Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Informational Dimensional Drift For A Lamps From A Bath",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-alamps-abath-dimensionaldrift.mp4",
+            "difficulty": "medium",
+            "description": "This Dimensional Drift can be useful for gathering information on players inside of A Lamps, to assist your teammate's push inside of Site, or get the attention of Defenders on A Site so that your team can take B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Hookah To B Site Blindside For Right Side B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-bsite-hookah-blindside.mp4",
+            "difficulty": "medium",
+            "description": "This Blindside is useful for forcing players to stop holding angles from the right side of  B Site onto Hookah at least momentarily. Be careful though, since players don't have to un-peek for very long to be able to re-peek even if they don't avoid getting flashed, and since the enemy team may be aware of this as well, they may try to pre-fire your peek even as they are flashed before they un-peek."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Early Round A Link Gatecrash To Rotate From B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-alink-bshort-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This is useful because it both allows you to get the attention of the defenders on A Site early in the round, which can bait and/or delay a potential rotate onto A Site, and strengthen the push onto A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Early Round B Link Gatecrash To Rotate From A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-blink-ashort-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This is useful because it both allows you to get the attention of the defenders on A Site early in the round, which can bait and/or delay a potential rotate onto B Site, and strengthen the push onto B Site."
+        }
+    ]
+}

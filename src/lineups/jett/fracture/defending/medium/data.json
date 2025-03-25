@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "jett",
+            "title": "B Site Double Updraft + Blade Storm to Peek B Bench",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-fracture-def-bbench-bsite-bladestorm.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to look for picks on players in B Bench with your Blade Storm in an often unexpected way, typically toward the beginning of the round."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "jett",
+            "title": "B Site Double Updraft + Blade Storm to Peek B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-fracture-def-deeptree-bsite-bladestorm.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to look for picks on players in B Tree with your Blade Storm in an often unexpected way, typically toward the beginning of the round. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Upper A Rope Double Updraft Blade Storm For Attacker Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-fracture-def-attackerspawn-arope-bladestorm.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to catch players off guard in Attacker Spawn from A Rope.\n"
+        }
+    ]
+}

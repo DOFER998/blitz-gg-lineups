@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Default Top Mid Nebula Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-abyss-atk-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Defenders with this easy Nebula smoke towards top mid, letting you and your team fight for control easier. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Simple B Site Nebula Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-abyss-atk-bsite-bsite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to Nebula smoke and contest the B Site. "
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive Elbow Peek TP",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-breeze-def-elbow-bsite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Aggressively peek elbow while your TP gives you a chance to get back to safety."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Start Round Crab Top TP",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-breeze-def-crab-asite-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Get an early height advantage with Chamber with a TP out."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Outside B Main to B Default Grav Net",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-split-atk-bdefault-bmain-gravnet_1.mp4",
+            "difficulty": "medium",
+            "description": "Effectively shut down Defenders playing towards B Default, as it prevents them from jump-spotting B Main or forcing them to take an unfavorable fight during your execute."
+        }
+    ]
+}

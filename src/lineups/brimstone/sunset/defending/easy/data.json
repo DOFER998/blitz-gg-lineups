@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Simple B Main One Way Sky Smoke Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-def-bmain-bmain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this one way smoke to delay, and potentially pick Attackers off effectively. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Simple Market to B Main Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-def-bmain-market-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Sky Smoke to cut off B Main visibility, while ensuring any attackers that attempt to push through walk through your Incendiary."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Early Elbow to A Main One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-def-amain-elbow-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This one way smoke gives you a chance to cut off attackers early at A Site."
+        }
+    ]
+}

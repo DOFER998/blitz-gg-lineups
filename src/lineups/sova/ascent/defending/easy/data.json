@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Defender Boat Spam From Spawn Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-boat-spawn-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable the team with this easy, yet effective Recon Bolt lineup. It'll scan Attackers executing the B Site and will grant you kills when spammed through the spawn smoke. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Main Lockdown Utility Break Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-bmain-bsite-shock_1.mp4",
+            "difficulty": "easy",
+            "description": "Successfully break Killjoy's Lockdown at B Main with this B Site lineup, you'll need 2 Shock Bolts."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Quick B Main Recon Bolt From Close B Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-bmain-defendersidespawn-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a quick and simple Recon Bolt to scan the front side of B Main, that is often used toward the beginning of the round. The arrow is useful for gathering information on the front side of B Main without having to play on-site to do so, either as a change up for your default setup on site, or to best adapt to the circumstances in the round. "
+        }
+    ]
+}

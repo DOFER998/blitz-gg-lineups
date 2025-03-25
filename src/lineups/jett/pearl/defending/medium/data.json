@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "jett",
+            "title": "B Site Drift Off Angle to Challenge B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-pearl-def-bmain-bsite-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Without having to use any utility, you can hover on top of the tall box seen on screen to catch enemy players pushing into B Main off guard. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "jett",
+            "title": "B Link Blade Storm Updraft Off Angle for B Site / B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-pearl-def-blink-blink-bladestorm.mp4",
+            "difficulty": "medium",
+            "description": "Use your Blade Storm to take advantage of these off Updraft off angles to catch enemy players off guard as they either push through B Main into B Site, or have already pushed deeper into B Site.\n"
+        }
+    ]
+}

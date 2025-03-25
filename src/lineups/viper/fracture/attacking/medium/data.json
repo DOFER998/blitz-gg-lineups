@@ -1,0 +1,104 @@
+{
+    "totals": 11,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Poison Cloud and Toxic Screen Execute For Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-rafters-dish-orb_1.mp4",
+            "difficulty": "medium",
+            "description": "Take Dish control to set up this strong A Site execute. Due note though, Rafters will be open and Defenders may look for engagements from there. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Canteen Poison Cloud + B Site Execute Wall ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-canteen-tree-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this combination of Viper's orb and wall to enable a strong execute. This utility is great for post plant as well, mixing up which piece you put up will isolate Defenders looking to retake effectively."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Drop Orb + Wall For A Site Defenders",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-asite-amain-wall_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a standard combination of Viper's orb and wall to execute the A Site. The orb blocks off any Defenders in Drop, and the wall for Sands and Spawn. But, fellow Attackers running top site will be exposed."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Main / A SIte Post Plant Viper's Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-amain-asite-viperspit.mp4",
+            "difficulty": "medium",
+            "description": "This is a great post Plant Viper's Pit that can make it easier stop players from defusing the spike on A Site, either by spamming the area the spike is planted to push defenders off of the spike, or using your snake bite to stop the defuse. Remember to aim far enough to the right of the pillar holding up the upper A Site platform so that the snakebite lands close enough to the Spike to stop players from defusing."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Tower / B Site Post Plant Viper's Pit ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-bsite-btower-viperspit.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Viper's Pit for post plant situations as an attacker on B Site. The Viper's Pit doesn't need to be 100% accurate, but if you want to completely flood A Tower with the Viper's pit, follow the lineup closely. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Bench To B Arcade / B Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-bsite-backbbench-toxicscreen.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple Toxic Screen for B Arcade and B Site from B Bench. This is typically a wall that you would see toward the beginning of the round, but it can used at any point in the round if timed well. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Rope To Upper A Site Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-upperasite-backarope-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple pre-emptive post plant lineup from A Rope for the default Spike Plant location in the upper A Site spike plant area."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Rope To Lower A Site Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-lowerasite-amain-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple pre-emptive post plant lineup from A Rope for the default Spike Plant in the lower A Site spike plant area."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Tree To B Site Boxes Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-bsiteboxes-btree-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple pre-emptive post plant lineup from B Tree for the Spike Plant location behind the boxes on B Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Tree To B Site Inner Corner Post Plant ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-bsite-btree-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple pre-emptive post plant lineup for the corner Spike Plant location on B Site from B Tree. When using this lineup, make sure to run forward until your crosshair reaches the leaves indicated on screen after setting up the initial lineup before shooting your Snake Bite."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Arcade To B Site Inner Corner Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-fracture-atk-bsitecorner-barcade-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a pre-emptive post plant lineup for the corner Spike Plant spot on B Site from B Arcade. When planting the spike to set up for this lineup however, aim at the marked corner on screen to make sure that the spike is within sound range of this lineup. The lineup has to be shot pre-emptively regardless, but if you want to hear the spike being defused at all - it is important that you do this."
+        }
+    ]
+}

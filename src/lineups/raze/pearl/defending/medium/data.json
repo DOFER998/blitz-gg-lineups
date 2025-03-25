@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Boombot / Paintshells Setup to Hold Mid Doors / Gather Info Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-pearl-def-middoors-midconnector-boombot.mp4",
+            "difficulty": "medium",
+            "description": "Delay, info denial, and info gathering are all key concepts to keep in mind when holding Mid Doors. This setup opens up many opportunities to apply all three of those concepts, if used at an ideal time in the round."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Site Hold Paint Shells / Blast Pack Delay Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-pearl-def-bsite-blink-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective B Site Hold setup that delays the enemy team's push onto the Site. "
+        }
+    ]
+}

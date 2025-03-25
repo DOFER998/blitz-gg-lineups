@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Site Generator Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)yoru-icebox-def-asite-asite-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind enemies pushing A Site or to get information on enemies peaking A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Screens to A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)yoru-icebox-def-asite-ascreens-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to retake A Site or to assist your teammate on A Site during an execute from your enemy."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Orange to Mid Blue Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)yoru-icebox-def-midblue-borange-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind anyone pushing Mid Blue allowing you to get an early peak or to assist a teammate being pinned down in Mid Boiler."
+        }
+    ]
+}

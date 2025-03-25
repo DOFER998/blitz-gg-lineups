@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Mid to B Link Drone + Salvo Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-atk-blink-blink-drone_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Push back Defenders playing towards B Link with your teammate following your utility, making it much easier for them to isolate angles."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Art + A Site Drone And Salvo Take",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-atk-asite-art-salvo_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Take control of Art with this simple combination of utility, enabling your team to take more aggressive angles."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Full A Drone Salvo Delivery Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-atk-asite-asite-delivery_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's an easy, yet effective way to execute the A Site. Defenders playing on site will have a difficult time holding it."
+        }
+    ]
+}

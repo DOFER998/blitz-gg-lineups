@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility B Site Scale Hold Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-sunset-def-bsite-bsite-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Lock down the B Site and threaten Attackers successfully towards the entrance of B Main. This setup fully commits to B Main, so becareful towards any potential players taking Market."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Main Hold + Turret Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-sunset-def-bmain-bsite-alarmbot_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover B Main with Alarmbot and Nanoswarm, while your Turret covers Market."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Elbow Hold + A Link Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-sunset-def-asite-alink-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover both sides of A Site with this full util lineup, allowing you to handle a push from either side."
+        }
+    ]
+}

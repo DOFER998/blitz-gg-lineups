@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "iso",
+            "title": "U-Hall to A Short Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-bind-def-short-uhall-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take control of an A Short push with this Undercut lineup."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Garden to B Long Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-bind-def-blong-garden-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Control B long with this Undercut lineup to head off attackers."
+        }
+    ]
+}

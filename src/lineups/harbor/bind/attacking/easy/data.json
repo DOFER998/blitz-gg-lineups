@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Short to A Site Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5harbor-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove to block both A Heaven on-top of Truck and the left side of A Site Triple Box."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Short to A Heaven Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4harbor-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove you can throw to block A Heaven."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Long to B Site High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2harbor-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to block both Elbow and B Side Defender Spawn entrances into B Site."
+        }
+    ]
+}

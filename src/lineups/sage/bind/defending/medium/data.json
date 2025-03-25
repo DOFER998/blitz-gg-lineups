@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Wall Boost Behind Truck on A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-bind-def-backasite-atruck-barrierorb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this wall too boost yourself up behind Truck on A Site and catch enemy players off guard."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Wall Variations to Delay Hookah Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-bind-def-hookah-bsite-barrierorb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these walls to delay enemy players from pushing into Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Bath + Hookah Slow Orbs through Teleporters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-bind-def-abath-bteleporter-sloworb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these Slow Orbs to delay Attackers from pushing into A Bath or Hookah."
+        }
+    ]
+}

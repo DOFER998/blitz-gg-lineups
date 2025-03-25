@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Default Toxic Screen For Defense ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-def-cat-bmain-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Place this wall during preparation phase, it acts as a smoke for both the choke points on B Main and Tree. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Site Hallway One Way Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-defense-bsite-bhallway-onewaysmoke.mp4",
+            "difficulty": "easy",
+            "description": "This one way smoke lets you see the feet of anyone pushing through the T side door to B site if you stand on the stairs."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Site One Way Poison Cloud to Tree Room",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-def-asite-tree-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This one way smoke lets you see the feet of anyone pushing through the door to A site from tree."
+        }
+    ]
+}

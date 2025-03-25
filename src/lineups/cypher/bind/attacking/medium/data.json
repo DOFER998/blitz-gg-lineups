@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive Hookah Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-bsite-hookah-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Use this Spy Cam + Cyber Cage combo to make it more difficult for the enemy team to hold Hookah and B Site, and make it easier for your team to take space."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive A Short Spy Cam to Clear Angles on Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-asite-ashort-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Use this Cyber Cage + Spy Cam combo to make it more difficult for the enemy team to hold A Site, and make it easier for your team to take space."
+        }
+    ]
+}

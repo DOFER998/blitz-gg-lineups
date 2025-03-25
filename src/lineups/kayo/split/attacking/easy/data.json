@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "How to Contest B Heaven With Mail ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-split-atk-mail-mid-knife_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective knife lineup you can use to scan and disable all Defenders contesting B Heaven. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Bottom Mid to Top Mid FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)kayo-split-atk-midtop-midbottom-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for Top Mid to get an enemy out of the box corner or kill them if they stay there."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main to A Rafters ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)kayo-split-atk-arafters-amain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Rafters from A Main."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main to A Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)kayo-split-atk-adefault-amain-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for A Site default plant spot."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main to A Site ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)kayo-split-atk-asite-amain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Site."
+        }
+    ]
+}

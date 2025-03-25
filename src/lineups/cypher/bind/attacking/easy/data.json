@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Simple A Flank Trapwire",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-alink-ashort-trapwire_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a Trapwire that you can use when you and your team are pushing toward A. Just be careful of the side of the flank that the Trap does not stop enemy players from pushing through.\n"
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive A Shower Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-alink-ashort-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Use this Spy Cam to clear the close angles in A Shower, and make it easier for your team to take space in Shower."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive B Long Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-ashower-alobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this Spy Cam to gather information on the top of B Long, right at the beginning of the round."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Simple B Flank Trapwire ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-atk-blink-bshort-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here's a Trapwire that you can use when you and your team are pushing toward B. Just be careful of the side of the flank that the Trap does not stop enemy players from pushing through."
+        }
+    ]
+}

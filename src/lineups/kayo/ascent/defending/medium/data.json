@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Spawn Support to Tree Pop FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-def-tree-spawn-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Support your teammates within the Tree smoke with this powerful pop flash, as it'll blind any Attackers looking to split the A Site. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Market to B Main Pop FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-def-bmain-market-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Support your teammates peeking down B Main with this pop flash, it lands in the window. Any Attacker looking down the lane entrance in B Main will be flashed."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Tree to A Main Pop FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-def-amain-tree-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Support your teammates with this pop flash over A Main, it will not blind them if they hug the back wall. "
+        }
+    ]
+}

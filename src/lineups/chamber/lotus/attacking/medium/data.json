@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "C Site + Waterfall Teleport from C Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-atk-csite-cmain-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Here is a potentially high risk C Main Rendezvous Setup that allows you to hold off angles inside of C Site, or push into Waterfall. Use this to expand your options, but don't force a play into Waterfall without enough information. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "B Main Lurk Trademark + Rendezvous Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-atk-bmain-attackerspawn-trademark.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective B Main lurk setup when your team is pushing toward A. "
+        }
+    ]
+}

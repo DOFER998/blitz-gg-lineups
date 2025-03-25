@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Aggressive Sands Dash Refract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-fracture-atk-sands-amain-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the A Site, you can path with your Light Speed like so, to make it more difficult for Defenders to hold it. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Drop to Sands Refract Dash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-fracture-atk-sands-drop-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Coordinate a split towards Sands with your teammates using this quick combination of utility."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Top A Site Execute Refract Dash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-fracture-atk-asite-asite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Clear the top of A Site with your dash when executing, as well as setting up a Refract to safely return back to A Main."
+        }
+    ]
+}

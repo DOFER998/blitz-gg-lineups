@@ -1,0 +1,86 @@
+{
+    "totals": 9,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Tiles to Close Mid Dizzy + Wingman Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-mid-tiles-dizzy_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective combination of Dizzy and Wingman to clear any Defenders playing aggressive at Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Mid/Market Control Mosh Pit + Dizzy From Tiles",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-market-tiles-moshpit_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a powerful combination of Dizzy and Mosh Pit. Mosh Pit will force Defenders to swing out of Market to Mid, towards B Site, or keep them tucked in an unfavorable position. Dizzy will clear close Mid, and blind Defenders swinging out from Market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Close B Site Execute Mosh Pit + Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-market-hut-moshpit_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, to effectively clear and shut down Defenders playing towards the B Site. Mosh Pit will deny Defenders from peeking out of Market, and flush out Logs. Dizzy will spot Defenders at Boat or Lane."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Simple A Generator Post Plant from A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-asite-alobby-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective post plant for A Site from A Lobby."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Quick B Site Execute from Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-bsite-blane-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective way to clear out back B Site and safely plant the Spike."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Quick A Site Execute with Mosh Pit + Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-asite-amain-dizzy-2.mp4",
+            "difficulty": "medium",
+            "description": "This setup is great for quickly getting on Site and will offer your Duelists a lot of support."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Aggressive Mid Push To Split B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-defendermid-bottommid-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Aggressive Mid Push to split B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "A Site Full Utility Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-asite-amain-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective full utility Execute for A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Full Utility B Site Execute from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-bsite-bmain-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective B Site execute from B Main. "
+        }
+    ]
+}

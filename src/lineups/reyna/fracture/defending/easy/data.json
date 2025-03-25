@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Early Round Leer to Contest A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-fracture-def-bmain-brope-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that can give away key information on whether or not enemy players are trying to take space in A Main, and make it easier for you and your team to contest that space."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Generator Site Hold Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-fracture-def-bsite-blink-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer to flash out of B Generator / Defender spawn, typically when B Generator is smoked off, as the enemy players are pushing through key chokepoints into B.\n"
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Site Site Hold Leer from B Canteen ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-fracture-def-bsite-bcanteen-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer to flash out of B Canteen, typically when Canteen is smoked off, as the enemy players are pushing through key chokepoints into B."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Main + A Tree Delay Sky Smoke + Incendiary Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-def-amain-atree-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use Sky Smokes to make it more difficult for enemy players to push through these key choke points into A Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Early Round A Main Sky Smoke to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-def-amain-asite-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this early round A Main Sky + Molly combo to contest space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Deep B Main Control Sky Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-def-bmain-bsite-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this typically at the beginning of the round to make it more difficult for enemy players to take space in B Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Site Chokepoint Delay Sky Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-def-bsite-bsite-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective, B Site chokepoint delay setup. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "C Site Chokepoint Delay Sky Smoke + Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-def-csite-cwaterfall-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective C Site chokepoint delay setup. "
+        }
+    ]
+}

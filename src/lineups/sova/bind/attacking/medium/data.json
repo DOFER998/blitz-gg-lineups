@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Site Execute Recon Bolt From B Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-rightbsite-bshort-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "Here's an execute Recon Bolt that scans many of the commonly held angles on Site, while limiting a large number of the angles that players can play from without being scanned. It's especially useful since it lands in an awkward spot for players on Site to react to - since it lands high up behind where players would typically be playing on Site. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Showers to A Tetris Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)sova-bind-atk-atetris-ashowers-shockdart.mp4",
+            "difficulty": "medium",
+            "description": "This is a good shock dart to stop anyone from defusing or planting the bomb."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Showers to A Site Default Spike Plant Double Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)sova-bind-atk-adefault-ashowers-shockdart.mp4",
+            "difficulty": "medium",
+            "description": "This is a good shock dart to kill anyone planting or defusing the bomb on A Site at the default plant spot."
+        }
+    ]
+}

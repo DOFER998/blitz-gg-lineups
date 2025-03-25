@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Unique A Lever Guiding Light From A Hall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-leftalever-rightahall-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is a unique way to check for players in A Lever using a Guiding Light. Be careful to avoid textures on the wall in A Lever that the Guiding Light may get stuck on when using this though."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Cave Side A Site To Behind A Pyramids Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-apyramids-atkfrontasite-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for checking if there are players behind A Pyramids, after your teammates put smokes down on A Site. This should be used with the idea in mind that if no one is behind Pyramids your teammates will either plant the Spike more freely, or make good use of that information."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "A Hall Seekers To Check A Metal Doors / Defender Side Spawn / A Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-ametaldoors-ahall-seekers.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for clearing out players behind A Metal Doors, and anywhere near A Site or Defender Side Spawn depending on where the closest three players on the map are."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Elbow To B Tunnel / Mid Top Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-btunnel-belbow-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for checking both B Tunnel, and Mid Top for players. You are in a vulnerable position to B Main and players pushing into B Elbow from Mid Top though while using this Trailblazer so you may need support from your teammates to safely do this."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Hall To Close Left A Site Trailblazer ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-asite-ahall-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for checking for players playing close left outside of A Cave on A Site. "
+        }
+    ]
+}

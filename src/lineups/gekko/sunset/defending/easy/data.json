@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Easy Top Mid Dizzy for Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-sunset-def-topmid-topmid-dizzy_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take advantage of the open Mid on Sunset for easy info with Dizzy."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "B Main Info Dizzy Bounce",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-sunset-def-bmain-bmain-dizzy_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Quickly get info on B Main with an easy retrieval on Dizzy, as well as an option to aggressively contest."
+        }
+    ]
+}

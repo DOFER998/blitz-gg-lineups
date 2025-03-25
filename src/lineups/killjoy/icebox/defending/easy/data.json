@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Mid Boiler Turret Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-mid-boiler-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a variation of a standard Killjoy setup at mid. This setup allows your mid player to rotate more freely, as the Alarmbot and Turret cover any Attacker lurks effectively. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3killjoy-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good setup for A Site with 3 Turret variations."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Aggressive Turret + B Orange Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2killjoy-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good Turret to place aggressively and a good Turret to place to watch under Tube. Additionally, we have 3 potential Nanoswarm grenades and a good spot to place your Alarmbot."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site + B Kitchen Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1killjoy-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good setup that allows you to watch B Kitchen while also having utility on B Site for when enemies push toward planting."
+        }
+    ]
+}

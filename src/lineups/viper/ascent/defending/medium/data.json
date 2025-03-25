@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Viper's Pit For Tree + Cat",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-def-tree-tree-pit_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong placement of Viper's ultimate at the start of the round. You can place your orb A Main and your wall for the mid arch + B Main. This ultimate is great, as it effectively shuts down Cat and has a bit of space for the A Site. Look to punish Attackers closing the door."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Early Round Defender Market One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-def-market-market-orb_1.mp4",
+            "difficulty": "medium",
+            "description": "A strong combination of Viper's utility that covers three major parts of Ascent. This setup allows you to play market and molly B Main if needed, or rotate through spawn to A with your wall up. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Anchor Orb + Wall For Choke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-def-amain-amain-orb_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a standard combination of Viper's utility for defense. This setup is not limited to you playing on the A Site, but make sure to communicate with your team on when to put the utility up / when it's going down."
+        }
+    ]
+}

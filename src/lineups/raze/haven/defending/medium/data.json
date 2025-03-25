@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Retake C Site Post Plant Paint Shells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-def-cubby-logs-paintshells_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Paint Shell lineup to flush out Attackers from the Cubby spot at C Long in the Post Plant. You'll have time to swing when your utility activates."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "raze",
+            "title": "A Tower To Front Default Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-haven-frontasitedefault-atower-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for doing pick damage to players on A Site, especially players trying to plant the spike, but due to the risk, should ideally be done with the help of your teammates on Site."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "totals": 10,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Rafter to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(17)reyna-ascent-def-asite-arafters-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peak A Rafter with and secure kills on anyone peaking A Site Archway."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Site to A Main Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(16)reyna-ascent-def-amain-asite-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to stop an A Main push from A Switch."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Rafter to A Under Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(15)reyna-ascent-def-arafters-arafters-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind and peak your enemies hiding in A Under during a retake."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Tree to Mid Catwalk Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(14)reyna-ascent-def-midcatwalk-atree-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind anyone pushing up Mid Catwalk allowing you to get information and back off or peak and get a kill."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Wine to A Main Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(12)reyna-ascent-def-amain-awine-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind anyone pushing A Main from A Wine allowing you to peak and get a kill or early valuable information."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Defender Spawn to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)reyna-ascent-def-bsite-ctspawn-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to retake B Site with from Defender Spawn."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Defender Spawn to Mid Market Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)reyna-ascent-def-midmarket-ctspawn-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind people pushing up middle or people peaking defender spawn rotation from market."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Market to Mid Courtyard Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)reyna-ascent-def-midcourtyard-bmarket-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind Mid Courtyard and get allow yourself to swing and get a pick or gather information."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Market to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)reyna-ascent-def-bsite-bmarket-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer for blinding people pushing B Main doorway and allowing you to swing and get a pick or get information."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Site to B Main Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)reyna-ascent-def-bmain-bsite-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to stop a b main push by getting information or having a teammate playing off your leer."
+        }
+    ]
+}

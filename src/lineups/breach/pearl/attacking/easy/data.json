@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Mid Doors Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4breach-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Flashpoint to push through Mid Doors and take a fight."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Site Entry Rolling Thunder",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3breach-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Rolling Thunder to execute onto A Site with."
+        }
+    ]
+}

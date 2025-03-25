@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Site Flank Gatecrash to Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-spawn-showers-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Threaten Defenders playing A Site with this Gatecrash lineup, as you'll be able to teleport behind them. You can also threaten Defenders towards B that are rotating towards A. Ideally, throw your Gatecrash a couple of seconds before the execute occurs."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Site Flank Gatecrash to Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-spawn-blong-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Threaten Defenders playing B Site with this Gatecrash lineup, as you'll be able to teleport behind them. You can also threaten Defenders towards A that are rotating towards B. Ideally, throw your Gatecrash a couple of seconds before the execute occurs."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Blindside To Flash Most Of Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-hookah-bshort-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful since it flashes most of the inside of Hookah. Be careful though, since players can play around this flash by playing close angles, peeking unexpectedly, and pre-firing you as you come in while they are flashed to try to get a pick or two before they get traded."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": " Close A Site Blindside From A Short ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-atk-asite-ashort-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for flashing players holding A Short from Lamps, behind the right side of the Truck on Site, and then the Close Right Cubby outside of A Short."
+        }
+    ]
+}

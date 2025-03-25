@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Default B Site Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-atk-bsite-bgreen-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Here are both of the default smokes that are essential to know if you want to take control of B Site.\n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Default Post Plant Molly Lineup from B Green",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-atk-bsite-bgreen-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant molly lineup from A Lobby for B Site Default."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Pipes To A Site Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-atk-asite-apipes-incendiary.mp4",
+            "difficulty": "medium",
+            "description": "This Incendiary lineup is useful for stopping players from defusing the spike when planted on default of A Site from A Pipes."
+        }
+    ]
+}

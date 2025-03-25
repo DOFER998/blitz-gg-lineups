@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "C Long Trademark + Hay Stack Rendezvous Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-atk-clong-mid-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When lurking towards Mid, use this effective setup to cover all the gaps on the map while your team contests towards A."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "A Short Trademark + Rendezvous Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-haven-atk-ashort-alobby-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Trademark + Rendezvous setup for A Lobby and A Short."
+        }
+    ]
+}

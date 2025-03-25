@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Aggressive Tiles Mosh Pit From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-tiles-tree-moshpit_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective combination of utility to successfully disrupt Attackers from taking Mid control. It is recommended to coordinate this play with teammates at bottom Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early Round A Main Push Support",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-amain-asite-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective way to push A Main with your team at the very start of the round, and / or contest control of A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Delay / Deny B Main Site Execute from Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-bsite-defenderspawn-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Make sure to coordinate with your team to get the maximum value out of your utility as the enemy players push into Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Retake Dizzy + Mosh Pit Lineups",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-def-asite-arafters-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these simple lineups to hold / retake A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Hold Back B Site with this Mosh Pit + Dizzy Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-both-bsite-backbsite-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple setup to hold down back B Site with a Mosh Pit and Dizzy."
+        }
+    ]
+}

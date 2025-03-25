@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Defender Spawn to A Generator Fault Line",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)breach-icebox-atk-agenerator-tspawn-faultline.mp4",
+            "difficulty": "easy",
+            "description": "This is a good fault line for A Site to stun and concuss anyone playing on-top of A Generator"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Main to Top B Green Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)breach-icebox-atk-topbgreen-bmain-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to get your opponent out of the common spot ontop of B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Garage to B Green Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)breach-icebox-atk-bgreen-bsite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flash to blind anyone peeking B Garage from B Green or B Yellow."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Screens to A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)breach-icebox-atk-ascreens-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flashpoint for back A Site from the front side of A Screens."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Pipes to A Site Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)breach-icebox-atk-adefault-apipes-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to prevent enemies from defusing the bomb."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Nest to A Pipes Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)breach-icebox-atk-closeasite-apipes-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flashpoint for A Pipes to blind both sides allowing you to swing and get a kill."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Nest to A Generator Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)breach-icebox-atk-agenerator-anest-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock for A Site to force enemies out of the A Generator corner."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Belt Through A Nest Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/A Belt Through A Nest Flash.mp4",
+            "difficulty": "easy",
+            "description": "This flash is perfect to use when trying to push/peek from the upper area of A Site. As wall as for a defender to buy time to lurk close below the A Belt area!"
+        }
+    ]
+}

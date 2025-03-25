@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Site to A Main Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)breach-split-def-amain-asite-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to get an enemy lurking in A Main corner out and in the open for an easy kill."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Heaven to Midbottom Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)breach-split-def-midbottom-bheaven-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flash for Midbottom. This flash will blind anyone pushing middle allowing you to peak from Mailroom and get a kill."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Corner Near A Main Under Rafters To A Main Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-split-def-hell-amain-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This flash allows you to blind anyone peaking from A main. This flash is perfect for a quick peak or to change positions."
+        }
+    ]
+}

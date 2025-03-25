@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Safe Post Plant Incendiary From Outside Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-atk-bsite-bsite-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to play the post-plant situation with your Incendiary. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Wall + Market Smokes For Safe Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-atk-bsite-bmain-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these Sky Smokes to setup an easy safe plant towards the B Site. The site smokes will also allow you to potentially pop out and catch Defenders off-guard towards the back site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Site Smokes to CT + Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-atk-asite-amain-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover common defender sightlines on A Site with these Sky Smoke lineups."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Main to A Default Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-sunset-atk-asite-amain-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Incendiary lineup allows you to deny defenders spike from A Main."
+        }
+    ]
+}

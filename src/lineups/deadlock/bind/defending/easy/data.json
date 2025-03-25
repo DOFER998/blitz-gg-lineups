@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "B Site Hookah + Garden Sensor And Net Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-def-garden-bsite-sensor_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this set up to successfully disrupt the Attacker's execute on the b Site. Off contact, throw your Grav Net like so, to shut down the push at Long. You can also throw it front Hookah, but they're both great in isolating the Attacker's lanes from one another. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "A Site Shower and Short Sensor + GravNet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-def-short-truck-sensor_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this set up to successfully disrupt the Attacker's execute on the A Site. Off contact, throw your Grav Net like so, to shut down the push at Short. You can also throw it front Showers, but they're both great in isolating the Attacker's lanes from one another. "
+        }
+    ]
+}

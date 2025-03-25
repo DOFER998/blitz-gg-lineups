@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Molly Lineup for Post Plant ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-bsite-garage-nanoswarm_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this safe molly lineup for post plant to secure the round win from B Long to B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Nanoswarm Lineup for B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-bsite-garage-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's an effective molly lineup to flush defenders out in the middle of site into the open."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Lockdown for Attacker",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-asite-pipes-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "A strong combination of Killjoy's Lockdown and Turret to secure A Site while watching flank simultaneously."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Attacker Spawn Turret For Under B Tube / B Flank / A Flank",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-attackerspawn-asideattackerspawn-turret.mp4",
+            "difficulty": "medium",
+            "description": "This is a great all around Turret that watches under B Tube, the B Flank, and the A Flank."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Mid Blue To Mid Boiler Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-midboiler-midblue-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This lineup is useful at the very beginning of the round to help your teammates take some space in Mid. However, enemy players could get very aggressive or look for information that can help them stop you from taking that space in mid, if you are not careful / do not work well with your teammates to set this up. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Back Left A Belt To A Site Default Post-Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-asitedefault-leftabelt-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for delaying the Spike defuse and doing damage to players on the Spike when it is planted on A Site Default."
+        }
+    ]
+}

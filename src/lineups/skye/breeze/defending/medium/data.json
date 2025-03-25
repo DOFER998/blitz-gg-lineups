@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Quick Flash For Mid Top From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-midtop-midnest-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great quick flash for players pushing out of B Elbow into Mid Top, that's better than a standard quick flash. It's mainly useful to break up the Attackers push up Mid Top, creating the opportunity for you to potentially get a pick and then get out. Having a teammate set up in B Tunnel to further capitalize on this flash can increase it's effectiveness as well."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Simple Mid Wood Doors Guiding Light For Mid Pillar",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-midpillar-midwooddoors-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is a great multi-purpose flash to poke and pressure players in Mid Pillar, that may be more effective than a standard quick flash outside of the Mid Wood Doors."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Quick Guiding Light For Back A Site From A Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-asite-abridge-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This basic quick Guiding Light is great for flashing players in Back A Site. \n"
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Support Guiding Light To Peek B Elbow / Mid Pillar",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-belbow-btunnel-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for helping your teammates to peek B Elbow from Mid Nest, but this can also be useful in peeking Mid Pillar if you can land the flash well enough to flash the side of Mid Pillar closest to Mid Wood Doors."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Quick Early Round Seekers To Check A Side Of Map",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-ahall-aswitch-seekers.mp4",
+            "difficulty": "medium",
+            "description": "This is useful since the Seekers used from this position after opening the A Lever Door can go down A Hall, go out of Mid Wood Doors into Mid, or Travel Toward A Cave, letting you know where the three closest players to you are on the side of A on the map. "
+        }
+    ]
+}

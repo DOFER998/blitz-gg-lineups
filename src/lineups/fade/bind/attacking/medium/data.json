@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Long to Elbow Seize ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-elbow-blong-seize_3.mp4",
+            "difficulty": "medium",
+            "description": "When executing the B Site, use this Seize lineup to prevent Defenders from successfully pressuring your team. Or, to simply take elbow control."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Showers to A Site Haunt Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-asite-showers-haunt_2.mp4",
+            "difficulty": "medium",
+            "description": "Enable your team with this powerful Haunt lineup, as it clears most of the A Site. Defenders may hide Triple, or at the Barrel back site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Short to Top of A Site Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-asite-short-haunt_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective Haunt lineup to scan any Defenders playing the front side of the A Site. This will not scan players at Triple or Showers."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front Left A Site Haunt from A Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-asite-alobby-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Haunt lineup from the right side of A Short that reveals players holding many common angles on the left side of A Site, as well as some of back A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front B Site from B Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-bsite-blong-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Haunt lineup from B Long that clears out the entirety of front B Site."
+        }
+    ]
+}

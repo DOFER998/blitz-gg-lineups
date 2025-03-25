@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Long Wall Denial + Boost",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-def-asite-asite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Wall to deny Attackers scaling up A Long, as well as setting up an aggressive off-angle for both entrances on the A Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sage",
+            "title": "B Site Standard Wall + Boost",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-def-bsite-bsite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective wall that also allows you to play a strong off-angle towards the B Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sage",
+            "title": "A Short Choke Point Control Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-def-ashort-ashort-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is a simple, yet very effective Barrier orb for the Chokepoint at the bottom of the ramp that connects A Short to Site. This wall makes it time consuming, and somewhat risky for enemy players to push through this chokepoint during the wall's duration."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Garage Doors Choke Point Control Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-haven-def-garage-garage-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is a simple, yet very effective Barrier Orb for the Garage Doors Chokepoint. This wall makes it time consuming, and somewhat risky for enemy players to push through Garage Doors during the wall's duration.\n"
+        }
+    ]
+}

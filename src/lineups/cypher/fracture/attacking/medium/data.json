@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive B Arcade Spy Cam ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-atk-barcade-bbench-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Spy Cam for B Arcade from B Bench. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "B Site Execute Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-atk-bsite-bmain-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Spy Cam for B Site from B Main. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Standard Flank Trapwires",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-atk-attackerspawn-bbench-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here are 3 Trapwires that you can use interchangeably to stop enemy players from freely flanking your team wherever they may be on the map. "
+        }
+    ]
+}

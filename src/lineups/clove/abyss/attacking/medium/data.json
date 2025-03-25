@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "B Site Ruse Smokes For Heaven + Spawn and Meddle ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-abyss-atk-bsite-bsite-ruse_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use these Ruse smokes and Meddle lineup for a more advantageous B Site execute. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Ruse Smokes For A Heaven and Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-abyss-atk-asite-asite-ruse_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use these standard Ruse smokes and Meddle lineup for an advantageous A Site execute."
+        }
+    ]
+}

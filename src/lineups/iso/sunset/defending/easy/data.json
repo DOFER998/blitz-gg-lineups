@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "iso",
+            "title": "B Main Simple Stairs Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-sunset-def-bmain-bmain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest Attackers looking to take B Main control with this simple, yet effective Undercut. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Start Round A Main Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-sunset-def-amain-amain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take control of A Main right at the start of the round with this Undercut lineup."
+        }
+    ]
+}

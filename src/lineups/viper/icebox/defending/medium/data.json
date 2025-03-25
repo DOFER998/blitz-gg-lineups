@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Yellow Retake Snake Bite From B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-yellow-bsite-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Flush out Defenders from their post plant spot at Yellow with this lineup. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard B Long / Yellow Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-blong-yellow-wall_1.mp4",
+            "difficulty": "medium",
+            "description": "This is a standard set up you can use to contest for B Long initially, and then transition into retake if the situation is unfavorable. This wall is strong, since it allows you to play both aggressive and defensive. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round Aggressive B Long Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-blong-blong-pit_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's an aggressive, start round Viper ultimate you can use to give Attackers a difficult time when taking control of B. This ultimate allows you to play in a spot that watches both lanes, but be mindful of timing."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Start Round Top 410 Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-def-410-410-pit_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this strong Viper ultimate at the start of the round to halt any rushes from Attackers. The positioning shown in the video is very difficult for them to deal with—high ground advantage. "
+        }
+    ]
+}

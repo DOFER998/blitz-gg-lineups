@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Standard A Site Leer Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-breeze-def-asite-asite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Leer through Pyramids to allow you to peek and deal with any attackers pushing onto A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Wall to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)reyna-breeze-def-bsite-bwall-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer for B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Top Mid to Bottom Mid Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)reyna-breeze-def-midbottom-midtop-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind enemies pushing Bottom Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Mid Wooden Doors to Bottom Mid Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)reyna-breeze-midbottom-midwooddoors-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to flash out to Mid Bottom."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Pyramid to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)reyna-breeze-def-asite-apyramid-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to stop enemies from pushing onto A Site from A Main."
+        }
+    ]
+}

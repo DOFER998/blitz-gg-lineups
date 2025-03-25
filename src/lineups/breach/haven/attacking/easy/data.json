@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Early Round Fault Line for A Long ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-haven-atk-along-agardenspawnbarrier-faultline.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Fault Line that can be used to show Attacker presence toward A Site, or during a fast push onto A Site.\n"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Mid to B Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-haven-atk-mid-bsite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "A good flash to clear into B Site from middle."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Short Cubby Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-haven-atk-ashort-ashortcubby-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to clear A Short Cubby and take site easier."
+        }
+    ]
+}

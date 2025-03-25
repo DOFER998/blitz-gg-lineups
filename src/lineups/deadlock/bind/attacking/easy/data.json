@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Short to Default Post Plant Annihilation ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-atk-default-short-annihilation_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Annihilation line up to secure your team a round win. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Short to Garden Control Grav Net ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-atk-garden-short-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates taking Long control with this Grav Net lineup, as it'll punish Defenders looking to take an aggressive fight."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Short to Hookah Control Grav Net Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-atk-hookah-short-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Contest for Hookah control with this Grav Net lineup, as it'll punish Defenders looking to take an aggressive fight."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Short to Triple Grav Net ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-bind-atk-triple-short-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Disable Defenders from successfully taking fights with this Grav Net lineup, as it forces Defenders back Triple—and potentially in the smoke to crouch."
+        }
+    ]
+}

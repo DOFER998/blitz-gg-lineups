@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "Simple Top Mid Cove ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-abyss-atk-topmid-mid-cove_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "This Cove lineup can be used to lurk, or simply smoke off the Top Mid angle for your team. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Cascade and High Tide Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-abyss-atk-bsite-bsite-cascade_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Using your Cascade is optional, but allows for an easier time planting if you choose to use it. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "High Tide + Cascade A Site Plant ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-abyss-atk-asite-asite-hightide_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "This combination of utility allows for Attackers to isolate off the right side of A Site. "
+        }
+    ]
+}

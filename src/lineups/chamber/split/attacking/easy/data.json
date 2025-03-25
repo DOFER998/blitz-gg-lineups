@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default Market and B Main Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-atk-bmain-bmain-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default your Trademark at this location shown in the video, simply when executing the B Site or setting lurks up towards Mid."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default A Main and Sewers Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-atk-amain-amain-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default your Trademark at this location shown in the video, simply when executing the A Site or setting lurks up towards Mid."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "A Ramp + A Site Rendezvous to Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-atk-amain-amain-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When attacking the A Site, use this Rendezvous set up for more successful engages and fights."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Market Rendezvous For Mid + B Heaven Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-split-atk-market-market-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cut rotations, or catch Defenders off guard with this simple, yet effective Rendezvous location. "
+        }
+    ]
+}

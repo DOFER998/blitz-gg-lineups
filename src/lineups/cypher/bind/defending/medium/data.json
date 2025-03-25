@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Four A Site Spy Cam Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-allofasite-allofasite-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Here are four Spy Cam Variations for A Site that you can use to keep the enemy team guessing where your cam will be, and apply to different setups as needed."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Three B Site Spycams",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-allofbsite-allofbsite-spycam.mp4",
+            "difficulty": "medium",
+            "description": "Here are three great Spy Cams for B Site that you can use to keep the enemy team guessing where your cam will be, and apply to different setups as needed."
+        }
+    ]
+}

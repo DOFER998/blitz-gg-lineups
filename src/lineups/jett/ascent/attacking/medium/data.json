@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "B Site Lever Dash + Cloudburst Entry from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-atk-blever-bmain-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Dash + Cloudburst Entry from B Main to B Site, that puts you in a position to Activate the B Site Lever, give valuable information to your team as you dash into the Site, and then clear out Site with your team from that position."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "A Site Dash + Cloudburst Entry from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-atk-asite-amain-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Dash + Cloudburst Entry from A Main for A Site."
+        }
+    ]
+}

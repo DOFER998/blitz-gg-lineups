@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "fade",
+            "title": "B Pillar to B Ladder Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-ladder-bsite-haunt_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Let your Haunt keep an eye on B Tunnel and Main with this lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start B Main To Elbow Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-elbow-bmain-haunt_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get info at the start of the round with this B Main to Elbow Haunt lineup."
+        }
+    ]
+}

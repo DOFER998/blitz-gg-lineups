@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Early A Main Orb Grav Net",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-atk-amain-amain-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Defenders from taking early space towards A Main, or prevent them from successfully taking the orb for ult charge."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "B Long to Yellow Grav Net",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-atk-yellow-blong-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Support a teammate taking Yellow control with this simple, but effective Grav Net lineup."
+        }
+    ]
+}

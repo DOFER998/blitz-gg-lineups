@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Standard B Site / Link Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-link-bsite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong setup to play off of the B Site, only using your Turret to confirm information. You are able to listen to footsteps and utility from the bottom of Link, so it'll be easy to prepare yourself for their B Site execute. It is recommended to fight for Link control with a teammate. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Retake Lockdown For B Site + B Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-bsite-link-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to contest Link control with a teammate to ensure your Lockdown. There are no gaps to it, so be wary of Attackers seeking to destroy your ult. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Retake Lockdown For A Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-bmain-art-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to contest for Art/Mid to set up your Lockdown to retake the A Site. This ultimate will push Attackers to either take Art or Spawn, or flush them all the way out back towards their own Spawn.  "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Standard Alarmbot Setup For Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-asite-asite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a solid, standard setup that lets you play a crossfire with your turret from A Site or between A Site and Art. If you do play on the site, it covers both A Main Attackers and Art ones. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Standard Turret Setup For Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-art-asite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective setup that allows you to play between the A Site and Art. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility A Site + Art Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-asite-aart-turret.mp4",
+            "difficulty": "medium",
+            "description": "This full utility setup for A Site and Art allows you to delay enemies from planting the spike on site, while also giving you information on where enemies are pushing through on A side of the map."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Art + Mid Doors Full Utility Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-aart-midconnector-turret.mp4",
+            "difficulty": "medium",
+            "description": "Here's a full utility setup that allows you to primarily hold Art, while leaving utility at Mid Doors to let your team know if enemies push through Doors. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Tower to B Site Spike Plant Denial Swarm Grenade Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-def-bsite-btower-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective spike plant denial swarm grenade lineup for behind the tall box on B Site from B Tower."
+        }
+    ]
+}

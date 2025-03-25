@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "Mid Market Molly To B Site Cubby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-def-midmarket-bsite-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This molly lineup is useful for doing damage to anyone inside of the cubby outside of Mid Market in B Site, doing damage to them as well."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "B Site Molly To B Main Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-def-bmain-bsite-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This molly lineup is useful for doing damage to anyone on top of or around the fish box inside of B Main.  "
+        }
+    ]
+}

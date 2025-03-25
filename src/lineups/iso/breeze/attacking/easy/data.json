@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Attacker Halls Contingency",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-breeze-atk-halls-halls-contingency_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Aggressively push down A Hall with this Contingency lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Simple A Default Contingency",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-breeze-atk-adefault-amain-contingency_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Push onto A Site with this Contingency lineup. Combine with a Viper wall to quickly control sightlines on site."
+        }
+    ]
+}

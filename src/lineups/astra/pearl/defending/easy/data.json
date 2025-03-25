@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site Choke Point Delay Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-pearl-def-bsite-bsite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to delay the Attackers as they push up B Main toward B Site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Early Round Mid Aggression Smoke Placement",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-pearl-def-midplaza-middoors-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use these smokes to either assist your team in taking space in Mid, or to assist your Mid player's defense against enemy players trying to take space in Mid."
+        }
+    ]
+}

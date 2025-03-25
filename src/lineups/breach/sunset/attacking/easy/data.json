@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Backsite Exec Aftershock + Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-sunset-atk-bsite-bsite-aftershock_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fight backsite and commit to a more aggressive take and post plant situation with this combination of utility."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Standard B Site Exec Jump Up + Main Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-sunset-atk-bsite-bsite-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to execute the B Site with your stun and flash. "
+        }
+    ]
+}

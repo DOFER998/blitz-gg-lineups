@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Site Entry Fast Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-atk-asite-amain-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great A Site entry Fast Lane."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Main to B Stairs + Close Left Lever Relay Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-atk-bsite-bmain-relaybolt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Relay Bolt that stuns two commonly held areas on Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Main to A Dice + Close Right Bricks Relay Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-ascent-atk-asite-amain-relaybolt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Relay Bolt that stuns two commonly held areas on Site."
+        }
+    ]
+}

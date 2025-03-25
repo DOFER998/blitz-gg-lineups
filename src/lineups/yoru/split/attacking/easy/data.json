@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Heaven To B Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-atk-bsite-bheaven-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing players playing under B Heaven, B Main, and behind the pillar on B Site, making it easier for you and your team to take or retake the site."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Mid Top To B Mail Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-atk-bmail-midtop-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing players holding the close corner in Mid Mail and the entrance of B Heaven, allowing you to clear the corner safely."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "B Mail To B Heaven Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-atk-bheaven-bmail-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing players holding in B Heaven."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Main To A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-split-atk-arafters-amain-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This Blindside is useful for flashing players playing A Rafters, under A Rafters, and A Screens, making it easier for you and your team to take the site."
+        }
+    ]
+}

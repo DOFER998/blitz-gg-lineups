@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Simple A Site Defense / Delay Setup from Back Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-def-asite-asite-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Use this setup to buy some time for your team to make it onto Site, or to support your teammates on Site. This should not be used to solo hold A Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Site Retake / Site Defense Dizzy From A Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-def-asite-alink-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Use this to retake A Site, or to flash / spot enemy players as they push into Site. Make sure your team is ready to follow up on your utility."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Defend C Site when Rotating from Another Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-havne-def-csite-defenderspawn-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Throw this as enemy players push into C Site, do not use this to retake Site unless there is a specific reason for you to use your Dizzy like this."
+        }
+    ]
+}

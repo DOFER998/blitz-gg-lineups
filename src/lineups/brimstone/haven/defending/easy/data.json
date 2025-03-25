@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Early Round Mid Window Support / Info Denial Sky Smoke ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-haven-def-midwindow-bsite-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke to limit the options of Attackers in Mid, and create opportunities for your teammates in that area of the map."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Site Retake Sky Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-haven-def-asite-alink-skysmoke_2.mp4",
+            "difficulty": "easy",
+            "description": "Use your smokes like this when retaking A Site. Follow hot the smokes are placed on screen to best limit the Attacker's options."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "C Site Chokepoint Delay Sky Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-haven-def-csite-innercsite-incendiary_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke + Incendiary setup to delay people from pushing through the C Main chokepoint into C Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Site Chokepoint Delay Sky Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-haven-def-bsite-blink-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke + Incendiary setup to delay people from pushing through the B Main chokepoint into B Site."
+        }
+    ]
+}

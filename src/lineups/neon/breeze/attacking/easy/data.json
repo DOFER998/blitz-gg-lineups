@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Backsite B Stun to Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-breeze-atk-bsite-bmain-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Relay Bolt to concuss backsite defenders before pushing in to B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Cave to A Pyramids Fast Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5neon-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good Fast Lane to get onto A Site from Cave."
+        }
+    ]
+}

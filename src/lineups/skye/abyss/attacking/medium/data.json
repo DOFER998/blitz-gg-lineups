@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Trailblazer and Flash Execute For B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-abyss-atk-bsite-bsite-trailblazer_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong standard set of utility to use when executing the B Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Trailblazer and Flash Execute For A Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-abyss-atk-asite-asite-trailblazer_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong standard set of utility to use when executing the A Site."
+        }
+    ]
+}

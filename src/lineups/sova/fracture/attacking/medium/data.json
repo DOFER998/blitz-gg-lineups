@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Start Round Sands Dart A Split From Barrier Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-rafters-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart at the start of the round to contest, or split through Sands to the A Site. This dart will not scan any Defenders tucked inside Rafters."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Start Round Dish Dart From Barrier Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-dish-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "At the start of the round, use this dart for easy information at Dish. This will scan any Defender playing there at the beginning of the round."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Info Dart for A Main from Barrier Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-amain-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart at the start of the round for easy A Main info. However, Defenders can hide behind the box in main."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Tree To Back B Site Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-bsite-btree-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This quick and easy Recon Bolt lands above the boxes in the B Site Spike plant zone, and scans many of the commonly held angles on B Site."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Rafters to A Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(13)sova-icebox-def-adefault-arafters-shockdart.mp4",
+            "difficulty": "easy",
+            "description": "This is a good shock dart combo to kill someone planting the bomb on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Screens to A Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)sova-icebox-def-asite-ascreens-shockdart.mp4",
+            "difficulty": "easy",
+            "description": "This is a good shock dart combo for A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Hut To Mid Blue Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-def-midblue-bhut-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for scanning players in and around Mid Blue toward Attacker Side Spawn."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Recon Bolt A Belt Spawn Barriers From A Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-def-attackerspawnabelt-arafters-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for scanning players outside of the A Belt Spawn Barriers, either as they push up the right side of A Belt, or right away as they push out of the A Belt Spawn Barriers."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Site to A Nest Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)sova-icebox-def-anest-asite-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a good recon bolt to spot enemies approaching A Site from A Main."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Boiler to B Kitchen Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)sova-icebox-def-bkitchen-midboiler-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a good recon bolt to see if any enemies made it into B Kitchen through the B Tube."
+        }
+    ]
+}

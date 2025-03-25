@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "A Door Curveball Setup to Play off of Teammate in A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-fracture-def-amain-arope-curveball.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to play off one of your teammates in A Main to contest that space and make it harder for enemy players to take space inside of A Main."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "B Generator Site Hold / Retake Curveball",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-fracture-def-bsite-bgenerator-curveball.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective site hold / retake Curveball that allows you to swing out of a B Generator Smoke."
+        }
+    ]
+}

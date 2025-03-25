@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Drift to Boosted A Site Positions Instead of Updrafting",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-bind-def-btruck-bsite-drift.mp4",
+            "difficulty": "easy",
+            "description": "Drift instead of Updrafting to these positions on A Site during the pre-round."
+        }
+    ]
+}

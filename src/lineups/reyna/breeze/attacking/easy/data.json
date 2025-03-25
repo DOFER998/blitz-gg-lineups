@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Standard B Site Leer Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-breeze-atk-bsite-bsite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Aim high with this Leer lineup to cover your team's push onto B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Standard A Site Leer Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-breeze-atk-asite-asite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Leer to cover your team's approach to A Site with this lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Main to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)reyna-breeze-atk-bsite-bmain-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind enemies and push onto B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Window Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)reyna-breeze-atk-bwindow-bwindow-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to peek B Window and blind your enemies in the process"
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Mid Pillar Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)reyna-breeze-atk-midpillar-midpillar-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer for taking Mid Pillar and pushing up Top Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)reyna-breeze-atk-asite-asite-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to push onto A Site and clear angles."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Hall to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)reyna-breeze-atk-asite-ahall-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer for A Site from A Hall to help your teammates push onto A Site."
+        }
+    ]
+}

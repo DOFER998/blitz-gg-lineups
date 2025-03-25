@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Aggressive Early Knives Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-breeze-def-mid-tunnel-updraft_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use Updraft to quickly peek with Blade Storm through Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "jett",
+            "title": "A Pyramids Pre-Round Single Updraft Off Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-breeze-def-apyramids-apyramids-updraft.mp4",
+            "difficulty": "medium",
+            "description": "Here's the fastest way to use a single updraft to get on top of the A Pyramids in the pre-round, which allows you to hold an off angle from the top of either of the pyramids into A Cave. "
+        }
+    ]
+}

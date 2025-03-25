@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "How to Contest A Main From Ramp Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-amain-ramp-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Coordinate with your teammates to set you up and contest A Main with them to secure an advantage."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Start Round Info A Main From A Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-amain-aheaven-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, throw your flash as shown in the video, for fast information towards A Main."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Standard B Main Guiding Light ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-bmain-bmain-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to Defend B Main. This is a good way to apply pressure B Main even if you do not flash, as Attackers will be wary of it. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round B Tower / B Main Trailblazers for Mid / B Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-ramen-btower-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "These two Trailblazers are great for gathering information on enemy players in Mid, Ramen, and B Lobby. As the Defending half progresses, you should get a feel for which one to use based on how the Attackers play in this general area of the map."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Mid Vent Information Flash from A Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-midvent-atower-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to gather information on whether or not enemy players are pushing through Mid Vent. Just make sure that you are aware of the timing of enemy players pushing through that area of the map so that you don't get picked off by a player closer than you had previously thought."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round A Ramp Trailblazer for A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-split-def-aramps-alobby-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to gather information on A Main and A Lobby toward the beginning of the round from A Ramps. If you spot a high mobility Duelist getting ready to push up Ramps, immediately leave the view of the trailblazer and either back up or fight the Duelist."
+        }
+    ]
+}

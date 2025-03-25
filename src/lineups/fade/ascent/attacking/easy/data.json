@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Close B Site + Market Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-atk-market-bmain-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Throw this Haunt to scan Defenders playing close to B Main and Market. This is great to pressure any Market player successfully, or set up for a B Split."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Tiles Haunt to Close Mid + Cat",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-atk-mid-tiles-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great, default Haunt you can throw at the start of the round to scan aggressive Defenders at Cat and Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "A Main to A Switch Seize Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-atk-tree-amain-seize_1.mp4",
+            "difficulty": "easy",
+            "description": "Prevent Defenders from disrupting your A Site execute with this seize, as it stops them from retaking through the smoked door."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "A Switch Haunt For A Site And Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-atk-aswitch-amain-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Split the A Site with this powerful Haunt line up, as it will scan Defenders playing in Tree and close site. "
+        }
+    ]
+}

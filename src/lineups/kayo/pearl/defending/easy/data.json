@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round ZERO/POINT For Market ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-def-market-link-knife_1.mp4",
+            "difficulty": "easy",
+            "description": "For fast information on Attackers at Market, use this knife lineup early into the round."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round A Main ZERO/POINT from A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-def-arestaraunt-asite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to scan players toward the A Side Attacker Spawn Barrier from A Site at the beginning of the round."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round B Main ZERO/POINT for B Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-def-bclub-bmain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to check for players pushing through B Ramp into B Main from the B Attacker Spawn Barrier.\n"
+        }
+    ]
+}

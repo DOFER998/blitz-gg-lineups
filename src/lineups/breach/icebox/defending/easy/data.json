@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Faultline From Kitchen Stairs To Tube",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iceboxbreachtubestun.mp4",
+            "difficulty": "easy",
+            "description": "This faultline stuns all of the hallway into kitchen and tube making for an easy kill if anyone is pushed in."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Faultline For B All Of B Site And Kitchen Entrance ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iceboxbreachbsitelonganglestun.mp4",
+            "difficulty": "easy",
+            "description": "This faultline is great for stunning a majority of the more difficult angles to deal with when entering B site. "
+        }
+    ]
+}

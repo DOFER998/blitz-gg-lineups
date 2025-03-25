@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Gen / B Link Aftershocks For Behind B Site Boxes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-def-bsiteboxes-bgenerator-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "Here's are two Aftershocks from B Generator and B Link that can either push players out from behind the cover of the B Site Boxes, or deny / delay Spike plant."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Round A Rope To A Hall Faultine / Flashpoint Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-def-ahall-upperarope-faultline.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great early round setup from Upper A Rope for A Hall to support a teammate's push into A Main and help a teammate take space in A Main. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Round B Link To B Bench Faultline / Aftershock Combo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-def-barcade-blink-faultline.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great setup from B Link for B Arcade to support a teammate's push into B Arcade / B Bench."
+        }
+    ]
+}

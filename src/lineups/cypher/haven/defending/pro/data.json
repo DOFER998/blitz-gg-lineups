@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "C Site Trapwire + Cyber Cage Variations with Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-haven-def-allofcsite-csite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Use these Trapwire + Cyber Cage variations to lock down C Site, and keep enemy players guessing where your utility is."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Trapwire + Cyber Cage Variations for A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-haven-def-allofasite-asite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Use these Trapwire + Cyber Cage variations to lock down A Site, and keep enemy players guessing where your utility is. "
+        }
+    ]
+}

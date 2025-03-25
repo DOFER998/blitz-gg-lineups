@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "C Site Water + Spawn Ruse Smokes And Meddle Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-lotus-atk-csite-csite-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Execute the C Site with this simple combination of utility, for a stronger approach. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Low Post Plant B Site One Way Ruse ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-lotus-atk-bsite-bsite-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "For post plant, use this one way Ruse smoke for an easy advantage. "
+        }
+    ]
+}

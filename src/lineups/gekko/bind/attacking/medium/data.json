@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round A Bath Push from A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-bind-atk-bath-alobby-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this utility to push into Bath at the start of the round."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round B Long Dizzy + Wingman Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-bind-atk-blong-bfountain-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup at the very start of the round to push up B Long."
+        }
+    ]
+}

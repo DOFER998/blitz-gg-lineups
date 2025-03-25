@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Site Pillar Arc Rose + Heaven Razorvine",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-abyss-atk-bsite-bsite-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, yet effective way to execute the B Site and pressure Defenders successfully towards Heaven."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Standard Front A Site Exec Arc Rose",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-abyss-atk-asite-asite-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates executing the A Site with this simple, but strong flash lineup."
+        }
+    ]
+}

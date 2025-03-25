@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Early Round Two Player Hold for B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-bmain-bsite-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Early Round two player Hold for B Main, that can be a great way to gain numbers advantage early in the round, while also taking space in B main."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Extra Momentum B Site To Mid Market Tailwind",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-def-midmarket-bsite-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for when you want to rotate to Mid Market more quickly from B Site. To do this, back all the way into the wall and follow the lineup on screen, hold updraft and forward at the same time, aim at the roof at the same angle as seen on screen, and once you've started falling from the peak of your updraft dash directly forward into the roof."
+        }
+    ]
+}

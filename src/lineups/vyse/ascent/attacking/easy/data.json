@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Default Mid Arc Rose For Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-atk-mid-mid-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Easily push aggressive Defenders back, towards mid, with this lineup."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Site Razorvine Market Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-atk-bsite-bmain-rosevine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this lineup when executing the B Site, to isolate the Defenders playing in Market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "A Site Triple Stack Arc Rose Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-atk-asite-amain-rose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to flash A Site Defenders when executing the site."
+        }
+    ]
+}

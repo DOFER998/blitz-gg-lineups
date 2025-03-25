@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Shop Turret For Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-mid-shop-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong combination of utility that spots your B flank and any aggressive pushes from Mid."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Turret For Mid ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-mid-mid-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Place this Turret at the start of the round to punish Defenders from aggressively peeking Mid."
+        }
+    ]
+}

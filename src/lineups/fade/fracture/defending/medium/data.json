@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Info Haunt to Tree From B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-tree-bsite-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup at the start of the round to contest for Tree control, or to grab information."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Sands Retake Haunt From Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-spawn-sands-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective lineup to retake Sands control."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round Defender Dish Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-dish-dish-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "When playing at Dish, use this lineup to grab fast information. Attackers may hide from this Haunt, this is primarily used to set up a play. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round Arcade Control Tether ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-arcade-tower-tether_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Seize lineup to combo utility for Arcade Control, or simply to contest for it."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Default Defender Haunt to Arcade From Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-arcade-tower-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup at the start of the round to gain fast information on Attackers pushing Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Aggressive Early A Main Information Gathering ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-def-amain-arope-prowler.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to gather early information in A Main, and potentially insert one of your teammates into A Main. "
+        }
+    ]
+}

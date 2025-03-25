@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Heaven to A Main Lockdown Utility Break Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-amain-aheaven-shock_1.mp4",
+            "difficulty": "medium",
+            "description": "Successfully break Killjoy's Lockdown at A Main from A Heaven with this lineup, you'll need 2 Shock Bolts."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Reclear Dart From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-cat-tree-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great dart to use to help you fight mid, or update information on Attacker's rotations. This dart clears most of mid, except for fridge and past the mid-arch. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Reclear Dart From Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-bottommid-market-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great dart to use if you need to update information in your round, it can also be used to spam through smokes at mid. This dart scans most of mid, it does not clear fridge though."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Cross Map Early Round Dart From Boat to A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-amain-boat-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Support your teammates at A Main with this cross map lineup. This lineup can be used at any point in the round, but should primarily be used reactively. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Courtyard Support Recon Bolt From B Site Stairs",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-midcourtyard-innerbsitestairs-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is a useful support arrow to help locate players in Mid Courtyard, and part of Mid Link. Be careful when lining this arrow up though, since you do have to expose yourself to B Main to set it up.\n"
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Site Support Recon Bolt From B Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-asite-bsite-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is a useful support arrow to help your teammates on A Site either hold the Site, or retake the Site depending on the circumstances in the round. This is best used however, when you are rotating from B Lane to Defender Spawn, so that you can rotate from there to retake or defend A Site. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Shockbolt For A Site Default Spike Plant From A Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-def-asitedefault-arafters-shockbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a simple, but effective lineup to land a shock bolt on the A Site Default Spike plant spot on the front side of Generator. This may potentially delay the Spike plant as well, but the main goal of this lineup is to do damage, and potentially pick up a lucky pick if the player planting the Spike is low on HP."
+        }
+    ]
+}

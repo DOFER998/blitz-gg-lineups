@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Leer to Peek Front B Site from Back B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-def-frontbsite-backbsite-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that you can use to hold B Site. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Lamps Retake Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-def-alamps-asite-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that you can use to retake A Lamps."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Leer from Hookah to Peek into B Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-def-bshort-bhookah-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer from inside of Hookah, that you can use to peek into B Short."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Site Hold / Retake Leer from Behind Truck on A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-def-frontasite-backasite-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer from behind Truck on A Site that is useful to either hold, or retake A Site. \n"
+        }
+    ]
+}

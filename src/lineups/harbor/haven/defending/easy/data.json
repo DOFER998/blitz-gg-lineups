@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Link to A Site Retake High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6harbor-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to retake A Site with."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Link to A Lobby Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/7harbor-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good support Cascade to help your team push into A Main and take control."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "C Site Cove + Cascade Retake Spike Defuse ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-haven-def-csite-csite-cove.mp4",
+            "difficulty": "easy",
+            "description": "Here's a good way to safely bait out enemy positions, waste utility, and potentially half the spike when retaking C Site. "
+        }
+    ]
+}

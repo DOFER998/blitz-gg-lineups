@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site Cubby Pop Flash For Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-bsite-bsitecubby-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FLASH/DRIVE from the Cubby on B Site to pop flash players peeking out of Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "FRAG/MENT To Delay A Site Truck Spike Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-asite-asite-fragment.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective FRAG/MENT lineup for the front side of the Truck on A Site, that delays the Spike Plant there."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Back B Site Pop Flash For Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-bsite-bsite-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FLASH/DRIVE from behind the B Site Tube to pop flash players peeking out of Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Teleporter ZERO/POINT To Check B Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-bexit-asite-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT for the A Teleporter, suppresses / gathers information on players outside of Hookah in B Short, as well as some of the Hookah hallway, without opening up the Teleporter Doors."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Bath ZERO/POINT From A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-abath-asite-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This quick and easy ZERO/POINT will both suppress and gather information on players in almost the entirety of A Bath with only a small area near the Attacker entrance into A Bath unaffected.\n"
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Teleporter ZERO/POINT For B Hookah / B Garden",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-ateleporter-asite-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT is useful for both suppressing and gathering information on players in Hookah and B Garden."
+        }
+    ]
+}

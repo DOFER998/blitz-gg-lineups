@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Long to B Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5viper-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Snake Bite lineup to use during post plant and when enemies tap the Spike."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Lobby to A Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4viper-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Snake Bite lineup to use during post plant and when enemies tap the Spike."
+        }
+    ]
+}

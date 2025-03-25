@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Site to A Main Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4harbor-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to use early into the round to push aggressively into A Main."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Site Retake High Tide from Mid Pallet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-icebox-def-asite-midpallet-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective retake High Tide for A Site from Mid Pallet.\n"
+        }
+    ]
+}

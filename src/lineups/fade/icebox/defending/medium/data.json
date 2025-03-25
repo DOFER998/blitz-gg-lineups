@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round B Main Haunt from Mid Boiler",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-def-bmain-midboiler-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Haunt, that you must set up in the pre-round, to check for players in B Main and close Mid Blue."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round Haunt to Stop Mid Lurk / Push from Boiler",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-def-midblue-midboiler-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Haunt to stop enemy players from pushing or lurking into Mid at the beginning of the round."
+        }
+    ]
+}

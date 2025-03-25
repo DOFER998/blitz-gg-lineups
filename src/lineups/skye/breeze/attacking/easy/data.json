@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Standard B Site Dog Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-bsite-bmain-trailblazer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Trailblazer to clear B Site for a quick push."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Standard A Dog + Flash Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-asite-amain-trailblazer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Trailblazer to clear A Site for your team, before flashing to cover their approach."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Mid Wood Doors Anti-Wallbang Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-midwooddoors-midpillar-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "If you tuck yourself into the corner to the left of the Mid Wood Doors in Mid when you go to send a Trailblazer into A Site / Mid Wood Doors, players would have to stand very close to the Mid Wood Doors at an awkward angle to wallbang you through the Doors."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Main To Back B Site Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-atk-bback-bmain-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for players on the close left side of Back B Site, ideally when B Main is smoked off."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Mid Blue To B Snowpile Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-bsnowpile-midblue-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This Toxic Screen lineup is simple and extremely useful for getting mid control, the enemy team will now always have to be aware of someone on your team lurking mid every time you put the wall up. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "T Spawn To Top A Site Nest Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-asitenest-tspawn-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "This Snakebite lineup is useful for safely stopping players from defusing the Spike that has been planted on the top of the nest on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Belt To A Default Post Plant Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-adefault-abelt-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "This Snakebite lineup is useful for stopping the enemy team from defusing the Spike in a post-plant situation when the Spike has been planted on A Default.\n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Nest To A Site Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-asite-anest-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "This Snakebite lineup is useful for stopping players from defusing the Spike when planted on A Site default."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Attacker Side Spawn To A Site Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-attackersidespawn-asite-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This Poison Cloud lineup is useful for blocking the enemy player's vision in the tower on A Site."
+        }
+    ]
+}

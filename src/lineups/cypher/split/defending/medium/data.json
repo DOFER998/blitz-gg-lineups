@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Site to B Garage Cyber Cage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)cypher-split-def-bgarage-bsiteentrance-cybercage.mp4",
+            "difficulty": "medium",
+            "description": "This is a good cyber cage to create a one-way smoke going into B Garage."
+        }
+    ]
+}

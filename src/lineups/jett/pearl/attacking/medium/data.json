@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "A Site Cloudburst + Tailwind Entry",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-pearl-atk-asite-amain-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective A Site Cloudburst + Tailwind Entry."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Aggressive Early Round Mid Doors One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-pearl-atk-middoors-midshop-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective early round Aggressive Mid Doors One Way."
+        }
+    ]
+}

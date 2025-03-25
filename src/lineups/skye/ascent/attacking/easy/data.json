@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "How to Split A Site With Trailblazer at Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-tree-cat-tiger_1.mp4",
+            "difficulty": "easy",
+            "description": "Follow this Trailblazer pathing to prevent Defenders playing Tree from disrupting your A Site split."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Main Entrance Into B Site Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-bsite-bmain-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for utility and players inside or close outside of B Main on B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Guiding Light For A Rafters/A Site From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/ascent-skye-atk-asite-amain-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is mainly useful for flashing a player on rafters from an unexpected angle, but is also useful for getting information on A Site, depending on how far you guide the guiding light above the wall dividing A Site and A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Trailblazer For A Main Entrance Into A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-asite-alobby-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for traps and other utility around the A Main entrance into A Site, as well as potentially gathering some information on the location of players in Site."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Two Mosh Pit Lineups from Same Spot in B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-atk-bsite-bmain-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "These two lineup variations cover the two most common plant spots for B Site."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "A Split Full Utility Execute Through Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-atk-asite-art-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this full utility setup to execute an A Split through Art."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "A Site Execute Dizzy ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-atk-asite-amain-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy when executing into A Site through A Main"
+        }
+    ]
+}

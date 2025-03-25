@@ -1,0 +1,95 @@
+{
+    "totals": 10,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Start Round Elbow Knife",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-elbow-doors-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gain early intel on B Elbow from A Doors with this ZERO/POINT lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Start Round B Elbow Knife",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-elbow-bsite-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gain early intel on B Elbow with this ZERO/POINT lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Start Round A Main Knife",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-amain-stairs-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gain early intel on A Main with this ZERO/POINT lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site to B Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3kayo-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to delay an early push and get info into B Main."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Site to A Lobby ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2kayo-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to suppress enemies and get info on enemy positions."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid Wood Doors to B Elbow ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1kayo-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to get info on enemies playing around B Elbow."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Main Choke Point FRAG/MENT From Back B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-bmain-bsite-fragment.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective FRAG/MENT lineup for the chokepoint that connects B Main to B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid Wood Doors ZERO/POINT From Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-aswitch-defenderspawn-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT for the Mid Wood Doors from Defender Spawn lands is almost impossible for the enemy team to destroy, unless they have a teammate in A Hall. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": " A Cave Entrance ZERO/POINT From Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-acave-defenderspawn-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT for A Cave from Defender Spawn is easy to set up, and is difficult to destroy."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Shop ZERO/POINT From Back A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-ashop-backasite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a useful low-risk ZERO/POINT to suppress / scan the inside of A Hall. \n"
+        }
+    ]
+}

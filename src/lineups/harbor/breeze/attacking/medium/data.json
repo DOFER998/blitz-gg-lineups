@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "Mid Cascade + Tide Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-breeze-atk-nest-mid-cascade_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use Cascade and Tide to take control of Mid for an aggressive push."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Cascade + Tide Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-breeze-atk-bsite-bmain-tide_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Quickly wash away defenders on B Site with this Cascade + High Tide combo to carve out a safe spot to plant."
+        }
+    ]
+}

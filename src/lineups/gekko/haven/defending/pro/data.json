@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "C Site Retake Dizzy + Wingman Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-def-csite-cgarage-dizzy.mp4",
+            "difficulty": "pro",
+            "description": "Use this combo to clear front C Site, and especially overwhelm any enemy players playing near Default."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Site Retake Dizzy From Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-def-asite-aheaven-dizzy.mp4",
+            "difficulty": "pro",
+            "description": "This Dizzy is difficult to react to, as it appears from an unexpected angle to Attackers on A Site."
+        }
+    ]
+}

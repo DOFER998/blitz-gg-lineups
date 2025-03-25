@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early B Long Mosh Pit Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-icebox-blong-blong-moshpit_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are two different, but simple ways to throw Mosh Pit to isolate Attackers early into the round. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Simple B Long Dizzy Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-icebox-def-blong-blong-dizzy_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Directly throw your Dizzy up like so, to set yourself up for an advantageous peek. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Site 410 Dizzy Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-icebox-def-410-410-dizzy_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Directly throw your Dizzy up like so, to set yourself up for an advantageous peek. "
+        }
+    ]
+}

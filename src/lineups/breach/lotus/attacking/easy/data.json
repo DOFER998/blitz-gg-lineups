@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Aggressive Early Round A Main Flashpoint + Fault Line to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-atk-amain-alobby-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "Use this Flashpoint, and whichever Faultline Variation is the most useful to your team to contest space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Aggressive Early Round A Main Fault Line + Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-atk-amain-alobby-faultline.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective aggressive early round A Main Fault Line + Flashpoint setup that you can use to contest space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Aggressive Early Round B Main Fault Line ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-atk-bsite-bmain-faultline.mp4",
+            "difficulty": "easy",
+            "description": ""
+        }
+    ]
+}

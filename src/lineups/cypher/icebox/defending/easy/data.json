@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Unexpected Passive B Main Spy Cam ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-def-bmain-byellow-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this setup to catch enemy players off guard as they attempt to push outside of B Main into B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Tube Trapwire + Spawn Spy Cam Combo for Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-def-mid-defenderspawn-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Use this Trapwire to make it so that enemy players trying to lurk through Tube are forced to use utility, or alert you to their location by breaking the Trapwire, if they want to enter kitchen."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Defender Spawn Point Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-icebox-def-ctspawn-ctspawn-spycam.mp4",
+            "difficulty": "easy",
+            "description": "This is a good camera to see into middle from spawn."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Kitchen to Mid Blue Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)cypher-icebox-def-bkitchen-midblue-spycam.mp4",
+            "difficulty": "easy",
+            "description": "This is a good spycam to defend B Orange and also get information of enemies playing around Mid Blue."
+        }
+    ]
+}

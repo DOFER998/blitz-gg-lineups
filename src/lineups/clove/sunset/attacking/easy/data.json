@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard B Site Jump Up + Market Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-atk-bsite-bsite-ruse-1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When attacking the B Site, use this standard combination of smokes. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Top Default A Site Post Plant Ruse One Way ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-atk-asite-asite-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "When planting default, use this one way during the post plant for an easy advantage."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Split For A Site Ruse Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-atk-asite-asite-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Ruse set of smokes to execute the A Site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Left A Main Meddle Control Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-atk-amain-amain-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest for early A Main control with this easy Meddle lineup."
+        }
+    ]
+}

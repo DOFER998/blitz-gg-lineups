@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Aggressive Elbow Take Blaze + Curveball ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-bind-atk-elbow-garden-blaze_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, to contest for Elbow control when taking the B Site. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Site Execute From Showers Molly + Flash Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-bind-atk-asite-showers-molly_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, for an easier experience when executing the A Site. Time your flash when the molly falls, so Defenders playing Bench will burn to death or be full blinded."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard B Site Execute Sky Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-ascent-atk-bsite-bmainandlobby-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for a B Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Execute Sky Smokes for Tree and Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstnoe-ascent-atk-asite-amain-skysmoke_2.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Aggressive Catwalk Push Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-ascent-atk-bottommid-midtop-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use these Sky Smokes to take space in mid, push up Catwalk, and either pressure or push into A Site through Tree with your team."
+        }
+    ]
+}

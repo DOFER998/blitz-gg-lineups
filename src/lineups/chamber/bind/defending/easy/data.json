@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Trademark for Hookah and B Long Entrance",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-hookah-hookah-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet effective Trademark lineup to detect both Attackers jumping out of Hookah and entering from Garden. Players towards B Long won't be able to shoot the trip if placed in the video like so, but there will be a little gap for a potential lurk. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Standard A Site Showers and Short Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-short-showers-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use either one of these two Trademark spots when defending the A Site. For showers, you can place the trip either high or low."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Start Round Top Truck Rendezvous Off-Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-truck-truck-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Catch Attackers off guard with this simple off-angle towards the A Site. You can hold onto your Rendezvous once you take it back when getting on top of Truck. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive and Passive B Long Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-def-blong-blong-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple setup to hold an aggressive position on enemy players peeking into B Long."
+        }
+    ]
+}

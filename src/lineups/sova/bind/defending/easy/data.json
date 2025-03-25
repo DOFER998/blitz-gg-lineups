@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Elbow to B Site Retake Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-bsite-elbow-dart_2.mp4",
+            "difficulty": "easy",
+            "description": "When retaking the B Site, use this dart to assist your teammates at spawn. This will scan everyone on site, besides Attackers in tube."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Hall To B Fountain Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-blong-bhall-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a quick and easy to set up Recon Bolt from B Hall for B Fountain / B Long."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Lamps To A Site Retake Recon Bolt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-asite-uhaul-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This Recon Bolt lineup is useful for revealing players in most of the area in front of the truck on A Site, as well as a good chunk of B Short, and can potentially reveal players in spots that can be wallbanged with a heavy bullet penetration weapon through the front Lamps wall as well."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Site To B Short Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-def-bshort-bsite-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This Recon Bolt lineup is useful for revealing players in the majority of B Short."
+        }
+    ]
+}

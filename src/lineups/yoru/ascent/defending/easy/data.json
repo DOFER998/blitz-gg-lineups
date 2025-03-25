@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Start Round A Main to Spawn Gatecrash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-ascent-def-tspawn-amain-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Mix up your defending options with this Gatecrash line up, as it will place you into an aggressive position. You can use your Fakeout to bait any Attackers into shooting it A Main for info, then teleporting after. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Main Blindside Self Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-ascent-def-bmain-bmain-blindside_1.mp4",
+            "difficulty": "easy",
+            "description": "Contest B Main with this self-sufficient flash play, as it allows you to peek while you throw it. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Main Blindside Self Peek ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-ascent-def-amain-amain-blindside_1.mp4",
+            "difficulty": "easy",
+            "description": "Contest A Main with this self-sufficient flash play, as it allows you to peek while you throw it. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Heaven To Right Side Generator Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/10-yoru-ascent-def-rsgen-aheaven-blindside.mp4",
+            "difficulty": "easy",
+            "description": "A easy Blindside to help you clear out the right lane of A Site, this blinds anyone behind generator or near the door switch!"
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Main Window Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/07-yoru-ascent-def-bmain-bfloor-blideside.mp4",
+            "difficulty": "easy",
+            "description": "A great early round blindside flash to help you fight and keep control of B Main early!"
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Heaven Retake Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/04-yoru-ascent-def-asiteretake-aheaven-blindside.mp4",
+            "difficulty": "easy",
+            "description": "A great pop flash for generators to retake A Site with your team!"
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Heaven To A Garden Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/03-yoru-ascent-def-agarden-aheaven-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This blindside is perfect for retaking A Garden as ever player will be fully blind!"
+        }
+    ]
+}

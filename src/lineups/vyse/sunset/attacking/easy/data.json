@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Site Pillar Arc Rose Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-atk-bsite-bmain-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates executing the B Site with this easy lineup."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Arc Rose Early Mid Fight ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-atk-mid-mid-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Mid lineup to flash Defenders aggressively peeking."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Start Razorvine A Main Control ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-atk-amain-amain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default this strong, but simple lineup to successfully pressure Defenders contesting for A Main."
+        }
+    ]
+}

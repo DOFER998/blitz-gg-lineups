@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Heaven Defensive Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-haven-def-aheaven-aheaven-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Place this Spycam on the light strip in the roof of A Heaven. It gives a one-way view onto the feet of any attackers approaching A Heaven from A Ramp. This can be good for holding a push to A Heaven from Ropes."
+        }
+    ]
+}

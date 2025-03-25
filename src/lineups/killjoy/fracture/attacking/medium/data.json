@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Rafters Nanoswarm For Sands Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-rafters-spawn-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup to isolate the Defenders when taking Sands, as they cannot come out of the smoke unpunished to help their teammates. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Post Plant Lineup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-asite-spawn-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Position your crosshair at the top of the building shown in this video, and jump throw for a successful post plant molly. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Post Plant Nanoswarms For Front / Back B Site Boxes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-bsitespikeplant-btree-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "Here are two great post plant lineups for the front and back side of the boxes in the spike plant area of B Site."
+        }
+    ]
+}

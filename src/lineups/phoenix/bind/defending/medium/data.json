@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "Hookah to Mid Molly + Flash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-bind-def-mid-hookah-molly_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your flash and molly like so, to gain an advantageous fight towards Mid. There will be no place to hide for Attackers as your molly will burn the blinded opponents. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "Aggressive TP Run it Back to Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-bind-def-hookah-uhall-runitback_1.mp4",
+            "difficulty": "medium",
+            "description": "Use your ultimate ability to gain information at Hookah and crunch Attackers if they are there, or prepare to fight Short off the information you gained from finding nothing when teleporting."
+        }
+    ]
+}

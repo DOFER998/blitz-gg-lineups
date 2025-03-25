@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Early Round Grav Net to A Long Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-haven-atk-along-alobby-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Contest for A Long with this Grav Net line up, as it forces aggressive Defenders to crouch and be exposed. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Short to Spawn Barrier Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-haven-atk-spawn-ashort-barrier_1.mp4",
+            "difficulty": "easy",
+            "description": "During post plant, use this Barrier line up to effectively disrupt the Defenders' retake. They will be forcibly split up, or have their utility wasted when trying to coordinate the retake."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Site Guiding Light Set Flashes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-bmain-bmain-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility to prevent Defenders from obtaining free picks towards B Main with these execute flashes."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Guiding Light To Open Up Mid Courtyard Push Into Mid Bottom",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-midbottom-midcourtyard-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for flashing players holding many of the commonly held angles on the Defender side of Mid, if you have the full support of your team."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Pizza/Outer Mid Market Guiding Light To Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-atk-defendersidespawn-outermidmarket-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for flashing players holding most of the commonly held angles on the Defender Side of Mid, as well as in and around the Defender Side Spawn. Be sure to do this with the help of your team and not over commit though, since this is counter-able by the Defenders if done carelessly."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Back A Site Saturate + Light Speed",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-haven-atk-asite-asite-dash_2(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this A Site entry variation from A Long to make it incredibly difficult for any Defenders playing Default to contest you."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Fast B Saturate + Light Speed Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-haven-atk-bsite-bsite-saturate_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here is an easy, yet powerful way to entry onto the B Site. Depending on what utility your team uses, you can clear close angles with your dash."
+        }
+    ]
+}

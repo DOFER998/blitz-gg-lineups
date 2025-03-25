@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Nanoswarm Lineup From Shop to Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-link-shop-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a solid molly lineup that allows you to contest for Link, as it isolates your fight with the B Site player."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Nanoswarm Back A Site Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-asite-amain-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Throw this molly to allow for an easier execute on the A Site, it flushes any Defender playing that back site position out. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Turret + Swarm Grenade B Site Execute and Post Plant ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-bsite-bmain-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This Execute and Post Plant setup allows you to help your team to get out onto B Site, while playing close enough to your Turret to allow it to watch the flank.\n"
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Lockdown Execute + Molly Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-bsite-bmain-lockdown.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective way to Execute onto B Site using a Lockdown, that also creates the opportunity for you to pick off enemies who try to avoid the Lockdown in back B Site.\n"
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Full Utility Lockdown Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-pearl-atk-asite-amain-lockdown.mp4",
+            "difficulty": "medium",
+            "description": "Here's an aggressive full utility Lockdown Execute for A Site.\n"
+        }
+    ]
+}

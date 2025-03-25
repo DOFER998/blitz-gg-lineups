@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Control A Link with this Cyber Cage + Spy Cam Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-lotus-atk-alink-alobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Be careful of enemy players playing right on the other side of the close wall to you when doing this setup."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive Early Round C Main Info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-lotus-atk-cmain-clobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective aggressive early round C Main info Spy Cam to gather information that your team can use to make it more difficult for enemy players to take space in C Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive Early Round A Main Info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-lotus-atk-amain-alobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective aggressive early round A Main info Spy Cam to gather information that your team can use to make it more difficult for enemy players to take space in A Main."
+        }
+    ]
+}

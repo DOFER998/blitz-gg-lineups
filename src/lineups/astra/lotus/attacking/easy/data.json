@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Main Dismiss Cross / Info Denial",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-atk-amain-alobby-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use this when pushing into A Main with your team, or even place it every round on the Attacking half to condition the enemy team."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard C Site Exec Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-atk-csite-cmain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto C Site with your team. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard B Site Exec Nebula Placement",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-atk-bsite-bmain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto B Site with your team. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard A Site Exec Nebula Placement",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-atk-asite-amain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto A Site with your team. "
+        }
+    ]
+}

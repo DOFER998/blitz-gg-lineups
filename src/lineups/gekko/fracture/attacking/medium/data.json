@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "B Site Post Plant Dizzy + Mosh Pit from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-atk-bsite-btree-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Catch players off guard with this full utility post plant setup."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round B Main Push Into B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-atk-btree-attackerspawn-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "This is a great way to take control of B Main early, and then execute into B Site shortly afterward."
+        }
+    ]
+}

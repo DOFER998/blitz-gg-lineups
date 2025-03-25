@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Dugout to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5reyna-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Leer from A Dugout to peek and attack enemies pushing onto A Site from A Main."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Tower to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2reyna-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Leer to use when retaking B Site or to defend against a B Site push."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Aggressive Mid Contest With Arc Rose ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-def-mid-market-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but strong lineup you can use to fight with teammates peeking from Top Mid."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "A Main Default Arc Rose Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-def-amain-asite-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default this strong Arc Rose lineup to pressure Attackers."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "A Main Default Razorvine Control ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-sunset-def-amain-amain-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Contest for A Main control with this easy, yet effective lineup. "
+        }
+    ]
+}

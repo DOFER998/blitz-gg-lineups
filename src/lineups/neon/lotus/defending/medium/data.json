@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "neon",
+            "title": "C Site Chokepoint Delay Relay Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-lotus-def-csite-cwaterfall-relaybolt.mp4",
+            "difficulty": "medium",
+            "description": "Use this Relay Bolt to delay / break up the Attackers push into C Site, through the C Main + C Site Chokepoint."
+        }
+    ]
+}

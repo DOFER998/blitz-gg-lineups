@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Yellow Light Speed Refract Take",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-icebox-atk-yellow-yellow-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Aggressively contest Yellow with this Light Speed lineup, or look to take an off-angle against Defenders playing on the B Site holding Long."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Top Tube Dash Refract Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-icebox-atk-mid-mid-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Seek an early engagement, or a B split, with this simple Light Speed lineup."
+        }
+    ]
+}

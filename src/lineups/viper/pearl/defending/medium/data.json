@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Double Doors One Way Poison Cloud From Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-def-ddors-link-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Throw your orb, as shown in the video, when preparation phase ends for a strong one way orb at doors. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "One Way Orb for Art Entrance From Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-def-art-art-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "As soon as preparation phase ends, line yourself up like so and throw your orb for a strong one way."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Full Utility Setup for B Site and B Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/pearl-viper-def-bsite-blink-toxicscreen.mp4",
+            "difficulty": "medium",
+            "description": "Here's a very effective full utility setup for B Site and B Link"
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Site Default Spike Plant Denial from B Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/pearl-viper-def-bsite-blink-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to deny enemy players from planting the spike on B Site Default."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Site Default Spike Plant Denial from A Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/pearl-viper-def-asite-aart-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to deny enemy players from planting the spike on A Site Default."
+        }
+    ]
+}

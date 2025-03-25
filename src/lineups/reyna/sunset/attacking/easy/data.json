@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Simple B Site Exec Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-sunset-atk-bmain-bmain-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Blind defenders from B Main with this Leer lineup, giving you cover to push onto site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Simple A Site + Link Exec Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-sunset-atk-asite-amain-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Utilize Leer to cover a push onto A, giving you cover to swing around onto Site."
+        }
+    ]
+}

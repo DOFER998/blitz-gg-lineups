@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "C Site Hold Dark Cover + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-csite-csite-smoke_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this C Site Hold Dark Cover to make it more difficult for enemy players to push into and a potential aggressive play to fight Attackers as they scale up C Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Early Round Support / Info Denial Mid Dark Cover ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-def-mid-mid-smoke_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Use this smoke to limit enemy player's options in Mid, and / or create opportunities for your teammates in Mid at the beginning of the round."
+        }
+    ]
+}

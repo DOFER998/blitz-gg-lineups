@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Safe Post Plant FRAG/MENT ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-atk-bsite-bsite-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective post-plant FRAG/MENT to threaten Defenders retaking and defusing the spike. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Site Simple Knife + Flash Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-atk-bsite-bsite-knife_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get info on defenders behind Pillar while your FLASH/DRIVE enables you to push through onto B Site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main to Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-sunset-atk-asite-amain-molly_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This FRAG/MENT lineup gives you a clean throw onto A Default from A Main."
+        }
+    ]
+}

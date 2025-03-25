@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Retake B Mid Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-mid-orange-alarmbot_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective Killjoy setup that counters mid lurks. This setup allows you to stall the bomb plant for B Site and lets you and your team rotate fast."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Aggressive Two Person Setup For A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-anest-asite-turret.mp4",
+            "difficulty": "medium",
+            "description": "This is a great two person setup for A Site to do when you want to try to get picks on enemy players pushing into A Site. Eco rounds, or rounds where a duelist on your team wants to get Aggressive on A Site are common examples of situations you might use this setup."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Right A Site To A Nest Nanoswarm ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-def-anest-rightasite-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This lineup is useful both for stopping the Attackers from taking control of A Site, and for stopping the Attackers from peeking from A Tower post-plant."
+        }
+    ]
+}

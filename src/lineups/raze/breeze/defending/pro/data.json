@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Start Aggro Showstopper B",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-bmain-bsite-showstopper_1(hard).mp4",
+            "difficulty": "pro",
+            "description": "Quickly push into B Main with Blast Pack to devastate attackers with Showstopper."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Paint Shells / Blast Pack Setup To Delay Left A Site Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-leftapyramid-leftapyramid-paintshells.mp4",
+            "difficulty": "pro",
+            "description": "This is a useful setup to make it difficult for the Attackers to push up the left side of A Site. However, it is not a beginner setup, and so it will likely require some practice before you can use the setup in a real game - if you are not comfortable quickly lining the grenade up, and then timing the blast packs well. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Mid Pillar Double Blast Pack From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-midpillar-midnest-blastpack.mp4",
+            "difficulty": "pro",
+            "description": "This is useful for quickly traveling from Mid Nest to the boost spot on the side of A Doors in Mid Pillar, and can catch players off guard if executed in the right situation. This can be really effective when used in combo with your teammates as they make a play in the area around Mid Pillar."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Early Round Showstopper Double Pack Combo Into B Elbow From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-belbow-midnest-showstopper.mp4",
+            "difficulty": "pro",
+            "description": "This is useful for quickly pushing players in and around B Elbow and B Main back, and potentially getting picks in that area of the map since it is hard for the enemy team to avoid the showstopper in this situation when you are moving so quickly into that area of the map right after the round begins."
+        }
+    ]
+}

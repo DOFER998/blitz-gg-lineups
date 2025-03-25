@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Off Angle Blindside From B Site For B Generator",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-atk-bsite-bsite-blindside.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great Blindside from B Site for B Generator that is difficult to counter."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Site Post Plant Teleport Setup For A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-fracture-atk-amain-asite-gatecrash.mp4",
+            "difficulty": "pro",
+            "description": "Here's a Gatecrash post plant setup for the corner plant spot that's visible on the left side of the Lower A Site Spike Plant area when peeking into Site from A Main."
+        }
+    ]
+}

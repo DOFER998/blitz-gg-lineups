@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Fast Lane Dart From Hut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-atk-lane-hut-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Recon Bolt lineup to scan all of Lane. Defenders will not be able to hide at the wall, and will be forced to drop to site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Main to Giraffe Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-atk-giraffe-bmain-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Recon Bolt lineup to scan Defenders playing out of cover towards the B Site. It will scan anyone hiding in Boat and Logs. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Hut to B Site Tree Execute Dart ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-atk-bsite-hut-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, yet effective Dart to scan the most threatening Defender positions on the B Site. This lineup requires no specific spot to position, aim at the tree, and shoot."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Bottom To Defender Side Spawn Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-ascent-atk-defendersidespawn-midbottom-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This lineup is useful for revealing players behind the wall that separates Mid Lane from Defender Side Spawn, keep in mind though that you need a medium bullet penetration weapon to be able to shoot through the wall that is shot through on-screen."
+        }
+    ]
+}

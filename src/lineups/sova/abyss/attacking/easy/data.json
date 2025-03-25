@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Default Attackers Ceiling Mid Recon Bolt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-abyss-atk-mid-mid-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gather quick and easy information towards mid, with this easy Recon Bolt. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Top B Site Recon Bolt Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-abyss-atk-bsite-bsite-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your team with this powerful Recon Bolt, that is harder to break. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Top A Site Recon Bolt Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-abyss-atk-asite-asite-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your team with this powerful Recon Bolt, that is harder to break. "
+        }
+    ]
+}

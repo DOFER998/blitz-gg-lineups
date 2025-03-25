@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "breach",
+            "title": " C Link to C Main Flashpoint + Aftershock to Delay C Site Push ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-def-cmain-clink-flashpoint.mp4",
+            "difficulty": "medium",
+            "description": "Use this Flashpoint and / or Aftershock when rotating to C to catch enemy players pushing through C Main off guard and support your team. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Round A Main Fault Line from A Link to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-def-amain-alink-faultline.mp4",
+            "difficulty": "medium",
+            "description": "Use this early round A Main Fault Line from A Link to help your team to contest A Main. You can also wait for enemy players to make noise or for information from your team to use your stun. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Site Spike Plant Delay Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-def-amain-atop-aftershock.mp4",
+            "difficulty": "medium",
+            "description": "Use this A Site Spike Plant Delay Aftershock to force enemy players to either way to plant the spike, or place it in a non-ideal location."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Round B Main Fault Line to Deny Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-lotus-def-bmain-bsite-faultline_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this early round B Main Fault Line to make it more difficult for the Attackers to take space in B Main. "
+        }
+    ]
+}

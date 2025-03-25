@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "C Site Solo Hold Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-haven-def-csite-csite-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When holding the C Site, use this simple Blindside to contest Attackers scaling up Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Entrance to A Graffiti",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)yoru-haven-def-agraffiti-alink-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside for retaking A Site. This flash blinds anyone peaking A Entrance or playing in the corner of A Graffiti."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Link to A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)yoru-haven-def-asite-alink-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind enemies pushing A Site or to assist teammates during a retake."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Left Default A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-haven-def-asite-asite-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to blind anyone pushing A Site allowing you to swing and take aggression or to fall back and prepare to retake."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Link to B Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)yoru-haven-def-bsite-alink-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside to retake B Site from A Link."
+        }
+    ]
+}

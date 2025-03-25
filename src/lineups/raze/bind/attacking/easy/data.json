@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "How to Take Garden With Boom Bot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-bind-atk-garden-blong-roomba_3.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Boom Bot lineup you can use to clear Defenders contesting Garden. They are able to hide and tuck towards the right side of Garden, however."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "B Site Paint Shells Execute From Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-bind-atk-bsite-hookah-paintshells_2.mp4",
+            "difficulty": "easy",
+            "description": "Flush out Defenders playing Backsite with this simple nade lineup, they will be forced to fight, be prepared."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Site Paint Shells Execute Backsite ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-bind-atk-triple-short-paintshells_3.mp4",
+            "difficulty": "easy",
+            "description": "Flush out Defenders playing Triple and Barrels with this nade lineup, they will be forced to swing onto the angle in the middle between Default and Triple."
+        }
+    ]
+}

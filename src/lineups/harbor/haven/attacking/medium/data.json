@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "High Tide + Cove B Site Execute + Safe Plant Combo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-haven-atk-bsite-midcourtyard-hightide.mp4",
+            "difficulty": "medium",
+            "description": "Use your High Tide to execute onto Site with your team, and then use your Cove to make it somewhat safe for you to plant the Spike. \n"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "High Tide + Cove A Site Full Execute ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-haven-atk-asite-along-cove.mp4",
+            "difficulty": "medium",
+            "description": "Use this High Tide + Cove Combo to execute onto A Site with your team, or fake an A push."
+        }
+    ]
+}

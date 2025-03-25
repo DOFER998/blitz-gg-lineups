@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Aggressive Support Paranoia For B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-def-bmain-bmain-paranoia_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Coordinate a play with your teammates towards B Main, and adjust your blind according to the orb or an early aggressive fight deeper into main. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Retake and B Site Hold Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-def-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "You can use both smokes for both situations, as they'll act as perfect cover for your teammates to assist you in more favorable angles. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Main Dark Cover One Way Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-def-amain-amain-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy and powerful smoke lineup to successfully pressure out Attackers towards A Main."
+        }
+    ]
+}

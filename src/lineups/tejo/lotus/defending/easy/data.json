@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Barrier Start Round A Main Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-def-amain-alobby-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Delay Attackers towards A and set up an aggressive play towards Main with this Special Delivery lineup."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Early B Round Stealth Drone For Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-def-bmain-bmain-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Gain a better understanding of the Attackers setup with this simple Stealth Drone. This allows you to understand what Sentinel utility they have set up. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Start C Mound Delivery Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-def-cmound-cmain-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Special Delivery lineup to prevent Attackers from taking control of C quickly. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "C Mound Armageddon Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-def-cmound-cmound-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, yet effective way to force an advantageous fight towards C. You can use this with more certainty if Attackers are looking to capture the ultimate orb."
+        }
+    ]
+}

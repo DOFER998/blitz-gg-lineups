@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Back C Platform Entry Fast Lane + C Site Relay Bolts",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-haven-atk-cplatform-clong-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great entry Fast Lane for back C Platform, alongside two great Relay bolts to stun commonly held positions on C Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "neon",
+            "title": " Right Side C Site Entry Fast Lane + Relay Bolt Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-haven-atk-csite-clong-fastlane.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great entry Fast Lane + Relay Bolt setup for the right side of C Site."
+        }
+    ]
+}

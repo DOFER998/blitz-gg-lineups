@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Mid Market Slow from Top Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-atk-midmarket-topmid-sloworb.mp4",
+            "difficulty": "easy",
+            "description": "If your team plans on taking mid control, throwing this slow could help secure a kill in market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Main Wallpeek to Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-atk-bmain-wallpeek-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Boosting up on this box with a wall can help you find a pick, opening up the bombsite for your team to attack."
+        }
+    ]
+}

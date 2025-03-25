@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Sands TP Lurk + Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-atk-sands-sands-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective set up to apply pressure towards Sands and the A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "A Spawn Lurk + Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-atk-spawn-spawn-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to push for an aggressive fight towards Defenders spawn when executing the A Site or when you are lurking, as it really changes your position to somewhere unexpected, keeping Defenders guessing."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "B Tower Rendezvous to Lock Down B Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-atk-barcade-bbench-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Use this post plant setup after your team has taken control of B Site and B Tower to help lock down Arcade, and create options for how you can play from inside of Arcade to help your team hold down B Site. "
+        }
+    ]
+}

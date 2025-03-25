@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Start Round Turret For A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-amain-amain-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective Turret to use when looking to take A Main control."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Simple Mid Top Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/8killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Turret to plop down as soon as the barrier drops to see if anyone is pushing Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Post Plant Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/7killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good setup for B Site that can help prevent Defenders from retaking as easily."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Simple B Main Flank Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Turret to watch your flank and aggressors pushing B Main."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Lobby To B Site Default Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-bdefault-blobby-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm is perfect for playing a post plant for default, throw it early and wait for a defusal sound prior to activating. Make sure to push up into B main after to insure the defusal sound is heard."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Main To Market Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-marketdoor-bmain-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm line up is quick and easy to get someone completely off of the market door angle. Combine this with a smoke as you come out B main towards site as they will be able to see you as you cross into lane without it!"
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Front And Left Side Generator Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-frontgenerators-alobby-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm line up is perfect for an afterplant situation for generators, throw it prior to the defending side getting back into site. Then wait for the defusal sound before activating for an easy round win."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Under Rafters To Rafters Hidden Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-heaven-underheaven-nanoswarn.mp4",
+            "difficulty": "easy",
+            "description": "This nanoswarm will do damage to anyone in heaven without them being able to see its position. Allowing you to deny a good amount of time before the defending side can get back into site, while you stay completely safe."
+        }
+    ]
+}

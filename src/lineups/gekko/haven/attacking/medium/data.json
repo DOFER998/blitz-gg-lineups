@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "C Site Post Plant Lineup from C Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-csite-clong-moshpit_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective post plant Mosh Pit lineup for C Site from C Main.\n"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "A Site Post Plant Lineup from A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-csite-clong-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective post plant Mosh Pit lineup for A Site from A Main."
+        }
+    ]
+}

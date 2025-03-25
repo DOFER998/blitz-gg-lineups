@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Simple B Main Gravity Well Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-split-atk-bsite-bmain-gravitywell_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective B Site Gravity Well post plant setup that can be played from B Main."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard A Site Execute Nebula Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-split-atk-asite-amain-nebula_2.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Split Star Placements Through Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-split-atk-bsite-ramen-nebula_2.mp4",
+            "difficulty": "easy",
+            "description": "Place your stars like this when doing a B Split."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard B Site Execute Nebula Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-split-atk-bsite-bmain-nebula_2.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for a B Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        }
+    ]
+}

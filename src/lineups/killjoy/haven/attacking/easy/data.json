@@ -1,0 +1,86 @@
+{
+    "totals": 9,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Haystack Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-mid-haystack-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Place this Turret at the start of the round to spot for any Mid aggression. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Safe Spawn Turret For Garage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-garage-spawn-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "This is a good start round Turret to use to punish any aggressive Defender for overextending. This spots all aggressive pushes, except for Window."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Sewers Lockdown For A Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-asite-sewers-lockdown_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong Lockdown placement that allows for an easy A Site take. There will be two gaps though when using this ult, the right side of Heaven and Hell. Nonetheless, it effectively isolates the Defenders. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Turret + Flank Alarmbot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2killjoy-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good Turret to place to watch both Defender Spawn entrance and A Heaven window with an added Alarmbot to watch flank."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Back A Site Nanoswarm Grenades",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1killjoy-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good set of Nanoswarm grenades to push Defenders out from behind A Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Grass to Garage Doors Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-cgaragedoor-grass-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful for clearing out players playing directly in the corner directly left of the Garage Doors as you come into Garage."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Garden To Front B Site Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-frontbsitebox-agarden-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful post plant, for stopping players from defusing the Spike on the front of B Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "C Long To Left Side of C Default Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-leftdefaultc-clong-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful for stopping players from defusing the Spike on the left side of C Default."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Garden Turret For Attacker Side Spawn ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-agarden-agarden-turret.mp4",
+            "difficulty": "easy",
+            "description": "This turret lineup is useful for alerting you of players flanking from Mid Courtyard, A Lobby, and C Lobby."
+        }
+    ]
+}

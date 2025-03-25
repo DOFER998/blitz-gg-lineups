@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Heaven Rafters Turret Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-bsite-rafters-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this powerful Killjoy turret in combination with your teammate's utility to contest for control of B Heaven. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Start Round Turret for B Main and B Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-bheaven-bsite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "An effective standard Killjoy setup that covers both B Main and B Heaven. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site Turret + Molly Combo for Defender",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-amain-asite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong Killjoy setup that allows you to anchor on the A Site. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site Retake + A Heaven Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-amain-aheaven-alarmbot_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this strong setup to prevent Attackers from rushing A Site successfully, while contesting for A Heaven Control. "
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Nanoswarm Setup For Under B Tower Zipline",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-underbrafters-bsite-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This Nanoswarm setup is useful for breaking up the attacker's push into B Site from the B Tower Zipline, and potentially opening up opportunities to secure picks on players who have come down the B Tower Zipline."
+        }
+    ]
+}

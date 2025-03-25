@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Site Spike Plant Barrier Orb Placement",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-pearl-atk-bsite-bmain-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective way to get the spike down on B Site using a Barrier Orb. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Site Barrier Orb Boost Post Plant Angle from Mid Connector",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-pearl-atk-bsite-midconnector-barrierorb.mp4",
+            "difficulty": "medium",
+            "description": "Here's a unique, and unexpected way to play Post Plant on B Site from Mid Connector."
+        }
+    ]
+}

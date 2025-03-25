@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "B Site Hold / Retake Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-lotus-def-bsite-clink-leer.mp4",
+            "difficulty": "easy",
+            "description": "Use this Leer to either delay the Attacker's push into B Site or retake later in the round. This Leer is ideal for breaking angles in B Main and A Link."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "Unexpected C Main Leer from C Mound",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-lotus-def-cmain-cmain-leer.mp4",
+            "difficulty": "easy",
+            "description": "Use this unexpected C Main Leer to catch Attackers off guard from C Mound."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Front B Site Clear Execute Dart ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-atk-bsite-bsite-dart_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a fast, yet effective way to execute the B Site. This lineup allows you to run with your team as they are scaling, to fight."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Lobby to Courtyard Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-atk-courtyard-blobby-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Recon Bolt lineup to get info on B Market from up high."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Site Drone to Market + Back Site Dart Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-atk-bsite-bsite-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use your drone to clear close site, before lining up a Recon Bolt to get info on back of B Site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Ramp to Close Site Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-atk-asite-aramp-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get info on A Site and behind Generator with this Recon Bolt lineup."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early A Lobby to Link Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-atk-alink-alobby-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this early round Recon Bolt lineup to quickly gain info at A Link."
+        }
+    ]
+}

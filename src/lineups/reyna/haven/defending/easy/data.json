@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "C Site Retake / Site Hold Leer ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-def-haven-csite-csite-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective angle breaking Leer from back C Site for front C Site and C Long. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "reyna",
+            "title": "A Site Retake Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-def-haven-asite-defenderspawn-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective angle breaking Leer from A Short for back A Site."
+        }
+    ]
+}

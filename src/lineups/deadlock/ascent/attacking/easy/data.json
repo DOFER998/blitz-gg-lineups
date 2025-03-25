@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "B Main to Stairs Grav Net Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-atk-stairs-bmain-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Execute the B Site with this powerful Grav Net lineup. This will force any Defender playing Stairs to crouch, making your execute easier."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Main to Generator Grav Net Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-atk-generator-amain-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Execute the A Site with this powerful Grav Net lineup. This will force any Defender playing Generator to crouch, making your execute easier."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Main to Tree Barrier Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-ascent-atk-tree-amain-barrier_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to shut down Defenders playing towards Tree, as they cannot jump over the Barrier. Teammates will still be able to cross from Cat to site if you were to split. "
+        }
+    ]
+}

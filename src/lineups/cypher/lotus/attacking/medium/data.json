@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "C Site Flank Traps for B and A",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-lotus-atk-bmain-alobby-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Use these B and A flank traps when your team wants to take C Site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Lobby Flank Trap + Cyber Cage lineup for A Main Cross",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-lotus-atk-amain-alobby-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Use this Flank Trap Wire + Cyber Cage lineup for the A Main cross to condition the enemy team and make it more difficult for them to have A Main control throughout your attacking half, and / or make it easier for your team to take space in A Main."
+        }
+    ]
+}

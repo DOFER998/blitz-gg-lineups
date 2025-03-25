@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Main Entrance Simple Dart For Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-def-bmain-bmain-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Recon Bolt to grab quick information towards B Main. This will scan Attackers looking for early control of B Main."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Top to Bot Mid Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-sunset-def-topmid-botmid-dart_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this early round lineup to get info on Mid with your Recon Bolt."
+        }
+    ]
+}

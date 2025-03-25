@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "C Lobby to C Site Default Snake Bite Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-lotus-atk-csite-clobby-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Snake Bite that you can throw from C Lobby to delay or deny the spike defuse on C Site Default."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Pillars to B Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-lotus-atk-bsite-bpillar-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective B Site Post Plant Snake Bite from B Pillars."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Simple A Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-lotus-atk-asite-alink-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective post plant Snake Bite lineup for A Site. "
+        }
+    ]
+}

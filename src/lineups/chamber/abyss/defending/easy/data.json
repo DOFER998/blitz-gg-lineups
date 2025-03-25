@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive Bottom Mid Contest Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-def-mid-mid-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Look for an aggressive fight towards Bottom Mid at the start of the round with this Rendezvous lineup."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Standard B Site Hold Trademark + Off-Angle Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-def-bsite-bsite-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this strong off-angle to catch your opponents off guard with a simple trip to play off of."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Standard Defense A Site Trademark and Rendezvous Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-def-asite-asite-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is a simple, yet effective way to hold the A Site with your trip and TP."
+        }
+    ]
+}

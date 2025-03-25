@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Standard A Main Razorvine + Shear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-def-amain-amain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet effective combination of utility to make it difficult for Attackers to enter the A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Sands Door Arc Rose Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-def-door-door-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fight for A Main control early into the round with this lineup. This also enables a teammate playing towards A Main to peek aggressively, as they will not be blinded."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Standard B Main Razorvine + Shear Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-def-bmain-bmain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, but effective combination of utility to prevent Attackers from entering the site easily."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Early Top B Main Arc Rose",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-def-bmain-bmain-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the beginning of the round, use this Arc Rose lineup to assist teammates contesting B Main."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Start Round Arcade Arc Rose",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-def-arcade-arcade-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the beginning of the round, use this Arc Rose lineup to assist teammates contesting towards Arcade."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Early Round A Main Meddle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-def-amain-amain-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, but powerful way to contest for A Main control with a simple Meddle lineup."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Early Round Dish Meddle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-def-dish-dish-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, coordinate a play with a teammate towards Dish to catch Attackers looking to take control of it."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "clove",
+            "title": "B Main Aggressive Ruse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-def-bmain-bmain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an aggressive play towards B Main with this simple Ruse lineup, allowing your team to play a crossfire or setting up an unexpected angle underground."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Aggressive Arcade Ruse Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-fracture-def-arcade-arcade-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an aggressive play towards Arcade with this simple Ruse lineup, allowing your team to play a crossfire or setting up an unexpected angle underground."
+        }
+    ]
+}

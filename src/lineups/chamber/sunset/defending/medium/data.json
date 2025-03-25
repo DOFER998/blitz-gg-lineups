@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive B Main Rendezvous + Trip Off-Angles",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-def-bmain-bmain-tp_2(medium).mp4",
+            "difficulty": "medium",
+            "description": "Catch your enemies off guard with this setup, also allowing for good information on the enemy. If enemies were to chase you, your Trademark will delay them in an unexpected manner as well."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Top Mid Trademark + Rendezvous Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-def-topmid-topmid-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Contest for Mid control, or simply gain information by occupying the space there, with this simple setup."
+        }
+    ]
+}

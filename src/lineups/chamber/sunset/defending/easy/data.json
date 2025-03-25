@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "B Site Off-Angle Top Box Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-def-bsite-bsite-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but powerful off-angle to catch players aggressively scouting the B Site. You can also set your Rendezvous further back towards spawn, to prevent a fast pop. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Top Market Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-def-news-news-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Rendezvous setup gives you height to allow you to cover Market and B Main."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive A Main TP to Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-sunset-def-asite-asite-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Rendezvous setup to allow you to play aggressively off of A Main."
+        }
+    ]
+}

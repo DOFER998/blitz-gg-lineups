@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Shower / Left A Site Trapwire Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-ashower-asite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Use these Trapwires and Cyber Cages to create different variations of Setups to counter the enemy team. Try to be unpredictable, and keep them guessing."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Short Full Utility Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-ashort-frontasite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Here are some useful Trapwire variations, with Cyber Cage placements to match, and a Spy Cam that watches both the Shower and Short chokepoints connecting to Site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Front B Site Trapwire + Cage Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-frontbsite-frontbsite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great full utility Setup for the front of B Site.\n"
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Hookah Delay / Chokepoint Hold Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-hookah-hookah-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Here's a great delay / chokepoint hold setup for Hookah that allows you to play either from inside of Hookah or from anywhere else on the map if you want to hold Hookah more passively. \n"
+        }
+    ]
+}

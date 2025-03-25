@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site Stall / Fast Retake FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-haven-def-bsite-clink-molly_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to stall / retake the B Site with KAY/O molly, as it disrupts the Attackers planning."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Long to A Lobby ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3kayo-haven.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to get info in A Main and potentially delay an A Site push."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Early Round ZERO/POINT to scan A Lobby + A Garden",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-def-haven-alobby-bsite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet very effective ZERO/POINT from B Site that scans most of A Lobby and A Garden. Use this at the very beginning of the round, and then retreat back to cover so that enemy players can't peek you from Mid Window.\n"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Main to A Site Hell Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-ascent-atk-hell-amain-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Attack the A Site with this Gatecrash line up to successfully distract and trick Defenders on the site. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Aggressive Tiles to Spawn Gatecrash ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-ascent-atk-ctspawn-tiles-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this Gatecrash line up to mix up your attacking options, letting you potentially gain a round-winning position."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Mid Top To B Site Paint Shells To Delay Spike Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-bsite-midtop-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful Paint Shells to delay the Spike plant on B Site after B Tunnel gets smoked off, if you're sure you're safe to set this up in Mid Top. This can only work however if you can set it up quickly enough, so it may require some practice in customs before you use it in a real game."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Boom Bot To Stop A Site Push From A Cave",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-deffrontasite-apyramids-boombot.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for breaking up or slowing down the Attackers push into A Site from A Cave. Be careful though since you are in a vulnerable position to players spamming through the smoke seen on-screen, or running up the left side of A Pyramids, and so you will have to carefully pick the situations you can effectively use this without exposing yourself to too much risk."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Early Round Boom Bot For A Shop From A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-ashop-asite-boombot.mp4",
+            "difficulty": "medium",
+            "description": "This is useful at the very beginning of the round for checking A Shop, or forcing lurking players there to wait to push into A Shop. Make sure to immediately get to safety after setting up this boom bot though since you will be exposed to players in A Cave after deploying it. Also be aware that Agents like Jett and Raze can catch you off guard by dashing or moving quickly forward with a blast pack into a position where they can see you in A Cave."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Defender Side Spawn To B Main Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-breeze-def-bmain-defendersidespawn-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for breaking up the Attackers push into B Main, delaying the push entirely to help your teammates hold the Site or get into more Favorable Positions, or doing chip damage to players as they come into B Site."
+        }
+    ]
+}

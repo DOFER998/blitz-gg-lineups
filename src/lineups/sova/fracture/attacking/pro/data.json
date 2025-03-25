@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early Round Cross Map Dart From Tree to Arcade ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-bmain-arcadetower-dart_1.mp4",
+            "difficulty": "pro",
+            "description": "Use this dart to support your teammates taking Arcade control from Tree. This dart scans all of Arcade and any Defenders looking to peek from Tower. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Double Shock Bolt From B Arcade To B Site Corner",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-fracture-atk-barcade-bsite-shockbolt.mp4",
+            "difficulty": "pro",
+            "description": "This is a great anti-defuse Double Shock Bolt for the corner plant spot on B Site. "
+        }
+    ]
+}

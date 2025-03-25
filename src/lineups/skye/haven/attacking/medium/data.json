@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Quick C Long To Right Side C Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-both-csite-clong-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for supporting your teammates as they push into C Site from Garage and C Long, since you can either flash players in some of the commonly held angles on the close right side of C Site, or gather information on whether or not players are/aren't holding angles from those positions."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Safe A Garden To Mid Courtyard ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-atk-midcourtyard-agarden-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This lineup allows you to gather information on Mid Courtyard and potentially inside of B Site safely, without the worry of being wallbanged by players in B Site through the right Mid Window Wall.\n"
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Grass Support/Info Flash Into Garage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-atk-cgarage-middoors-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is primarily useful for gathering information on the inside of Garage, or supporting your teammates push inside. Make sure your team has control of Grass, and that players can't easily lurk into Mid Courtyard and pick you off that way."
+        }
+    ]
+}

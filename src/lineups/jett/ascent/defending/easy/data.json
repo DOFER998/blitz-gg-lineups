@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "jett",
+            "title": "A Rafters Jump For A Main / A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-def-asite-arafters-updraft.mp4",
+            "difficulty": "easy",
+            "description": "This double jump is useful because you can gain information on A Site/A Main, and/or get picks on A Site/A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "jett",
+            "title": "B Site Blade Storm + Updraft To See Inside of B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-ascent-def-bmain-bsite-updraft.mp4",
+            "difficulty": "easy",
+            "description": "This updraft is useful for both getting information inside of B Main from B Site, and potentially getting picks - especially since you can do this twice per round."
+        }
+    ]
+}

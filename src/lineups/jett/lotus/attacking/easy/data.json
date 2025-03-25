@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Aggressive A Main Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-atk-amain-alobby-cloudburst.mp4",
+            "difficulty": "easy",
+            "description": "Use these smokes to cross, control information, and increase your options in key areas inside of A Main when either pushing into A Site - or even just conditioning over the course of the Attacking half with the A Main cross smoke."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "B Site Entry Updraft + Dash Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-atk-bsite-bmain-tailwind.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective B Site Updraft + Dash Entry to open up space on Site for your team to push in and take control."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "C Site Entry  Updraft + Dash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-lotus-atk-csite-cmain-dash.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective C Site Updraft + Dash Entry to open up space on Site for your team to push in and take control."
+        }
+    ]
+}

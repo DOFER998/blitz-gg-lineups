@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "How to Peek Link With FLASH/DRIVE From Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-atk-link-mid-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "To ensure an advantageous fight towards Link, use this flash lineup to peek with it. This will force Defenders to be full blinded as you fight them."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "How to Chain Utility A Main to A Site FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-atk-asite-amain-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's one way to perform an execute on the A Site from the beginning of spawn, but you don't need to throw utility as quick as this. The idea is to take A Main with your flash, and then execute the site with your knife."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Side Spawn Barrier to A/Mid Connector ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-atk-amidcon-amain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round ZERO/POINT from the A Spawn Barrier to the A/Mid Connector. \n"
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "ZERO/POINT to Clear B Main from B Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-pearl-atk-bmain-bramp-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective ZERO/POINT to clear out B Main from B Ramp."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Mid Info / Support Utility",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-pearl-def-mid-aart-haunt.mp4",
+            "difficulty": "easy",
+            "description": "When playing from Art, it is often smart to throw a Haunt into Mid, to contest Defaults, and help your team to poke holes in the enemy team's map control. You can also use Prowlers at any stage of the round to check for players in Mid, and confirm information / reads that your team has."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round A Restaurant Haunt from A Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-pearl-def-aresturaunt-aart-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great early round Haunt from the A Art Spawn Barrier for A Restaurant."
+        }
+    ]
+}

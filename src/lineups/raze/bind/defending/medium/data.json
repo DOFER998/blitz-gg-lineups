@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Hookah Reclear Boom Bot + Paint Shells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-bind-def-hookah-bsite-roomba_3.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, to regain control of Hookah and contest Attackers while they are at a disadvantage. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "raze",
+            "title": "B Long Reclear From Garden",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-bind-def-blong-bsite-paintshells_3.mp4",
+            "difficulty": "medium",
+            "description": "Use this Paint Shells lineup to disrupt Attackers that have taken B Long control, it will force them to teleport or give up the space."
+        }
+    ]
+}

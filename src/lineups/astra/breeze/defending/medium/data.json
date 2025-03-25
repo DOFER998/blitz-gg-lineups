@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": " Front B Site Elbow Close One-Way Smoke Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-frontabackelbow-frontabackelbow-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful setup to hold the Elbow in Back B Site that is close to B Main. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Aggressive Two Person Play To Take A Shop Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-ashop-asite-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This somewhat risky two person play to take the A Shop Orb can make it more difficult for the Attackers to freely play that area of the map, as well as force them to use more resources than they would otherwise if they want to take shop in the future. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Aggressive Early Round Eco Strat For B Elbow / Mid Cannon",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-belbow-bsite-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is a highly aggressive eco strat that's very risky, but has the potential to turn the tide of an eco round in your team's favor. Though, even if your team doesn't manage to win the round - the strat still may be worth the risk if you and your team can manage to do some damage to the enemy team's economy, or force them to use any of their ultimate abilities so that they can guarantee the round. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Front B Site Nebula Lurk Eco Strat ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-frontbsite-frontbsite-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This is a risky but potentially rewarding eco strat, that may be hit or miss depending on how the enemy team responds to this play. This strat can turn the tide of a round in your team's favor, or do damage to the enemy team's economy. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Hall Gravity Well Nova Pulse Combo For Inner A Hall Lurker",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-ametaldoors-ahall-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for pulling players out from the inner A Hall corner on the side of the Attackers."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Nebula One-Way To Peek Mid Pillar From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-midtop-midnest-nebula.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for stopping players from peeking Mid Nest from the side of Mid Pillar that is closest to B Elbow. Be careful when using this though since players can easily peek you from B Elbow if your teammates are not stopping the Attackers from pushing out of B Elbow into Mid Top."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "A Pyramids Anti-Spike Plant Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-apyramids-abridge-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for delaying the Spike Plant on A Site for a short period of time. Make sure to place the Gravity well out of the zone that players can plant the Spike, and getting as much inside of the zone that players can plant the Spike as you are able to."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Gravity Well Nova Pulse Combo For Behind Tall Bricks On Cave Side A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-defbackasite-apyramids-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for forcing players out from behind the tall bricks on Cave side of A Site Post-Plant."
+        }
+    ]
+}

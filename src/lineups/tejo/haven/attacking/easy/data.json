@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Garage to C Site Drone Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-atk-csite-garage-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Drone pathing to gain easy information towards Garage and C Site. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Standard A Site Execute Salvo + Drone",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-atk-asite-along-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates easily with this combination of utility, making it very difficult for Defenders to pick and choose what fights to go for."
+        }
+    ]
+}

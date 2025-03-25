@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "A Site Execute High Tide from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-pearl-atk-asite-backamain-hightide_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to use your High Tide to execute onto A Site with your team."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Execute High Tide from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-pearl-atk-bsite-bmain-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to use your High Tide to execute onto B Site with your team."
+        }
+    ]
+}

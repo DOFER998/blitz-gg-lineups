@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Top Pipes Ruse One Way Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-def-pipes-pipes-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to contest for control towards the A Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Deep B Long One Way Ruse Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-def-blong-blong-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to isolate Garage Attackers from B Long, letting your team apply successful pressure. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Early Lower A Main Meddle Throw to Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-def-amain-generator-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Combine utility, or simply peek lower A Main with this Meddle lineup to take an advantageous fight."
+        }
+    ]
+}

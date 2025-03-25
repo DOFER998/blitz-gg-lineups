@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Art to Market Special Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-def-market-art-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the beginning of the round, use this Special Delivery lineup to combo your utility with a teammate's to get an early round advantage."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "B Long Armageddon + Salvo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-def-blong-blong-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Clear out B Long with this simple Armageddon lineup, alongside a Salvo to catch players looking to avoid it within the B Long pocket. This is best used when retaking the site after the spike has been planted."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Art to A Main Special Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-pearl-def-amain-art-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, use this Special Delivery lineup for an aggressive peek towards Main or to combine utility with a teammate."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Tree To B Tower Support / Info ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-btower-frontbtree-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great support ZERO/POINT lineup for B Tower from B Tree. Unless you have a reason to; try to time the ZERO/POINT so that you gather information with it, and make it more difficult for enemy players in B Tower to help their teammates defend B as your team pushes into Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Dish ZERO/POINT From Attacker Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-adish-agate-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round ZERO/POINT for A Dish from Attacker Bridge."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Hall To A Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-amain-frontahall-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective ZERO/POINT for A Main from A Hall."
+        }
+    ]
+}

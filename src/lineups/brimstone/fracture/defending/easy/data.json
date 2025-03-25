@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Site Hold / Delay Sky Smoke from B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-def-asite-bgenerator-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to assist your teammates on A Site in delaying the Attackers from pushing onto A, when you are playing from Generator on B Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Site Chokepoint Delay Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-def-bsite-defenderspawn-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke + Incendiary setup to delay people from pushing through the B Main chokepoint into B Site."
+        }
+    ]
+}

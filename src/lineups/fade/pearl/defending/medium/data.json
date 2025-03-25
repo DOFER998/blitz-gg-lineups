@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "fade",
+            "title": "B Link to Mid Info / Support Haunt Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-pearl-def-mid-blink-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Use this Haunt to support your teammates as they fight for Mid Control, or to scan for enemy players when your team could benefit from gathering info in Mid."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "fade",
+            "title": "B Site Retake / Site Hold Haunt Lineup from B Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-pearl-def-bsite-blink-haunt_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a very effective B Site retake / site hold Haunt lineup from B Link, that can reveal players behind smokes and in key positions to set your teammates up for easy picks on Site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Mid Doors Prowler + Haunt Combo for Mid and Shops",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-pearl-def-midshops-middoors-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Prowler + Haunt combo that not only gathers important information in Shops for your team, but also creates opportunities for you and your team to get picks in Mid. "
+        }
+    ]
+}

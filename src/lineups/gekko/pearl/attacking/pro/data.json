@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round Art Dizzy from A Main that Returns",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-atk-art-amain-dizzy.mp4",
+            "difficulty": "pro",
+            "description": "Use this to gather information in Art at the beginning of the round. It will travel back to you and so there is very little risk in using this at least the first time it's used. If enemy players start to expect it though, they may shoot it while it's in the window."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "B Site Full Utility Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-pearl-atk-bsite-bmain-dizzy_2.mp4",
+            "difficulty": "pro",
+            "description": "Here's an incredibly effective full utility B Site execute from B Main."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Default B Site Trapwire + Cyber Cage Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-def-bsitedefault-bsite-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Trapwire + Cyber Cage setup Default on B Site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Simple Default A Site Trapwire Variation",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-def-asite-asite-trapwire.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple default A Site / Mid Trapwire setup."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Front A Site Spycam + Cyber Cage Combo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-def-frontasite-asite-spycam.mp4",
+            "difficulty": "medium",
+            "description": "This Spycam is simple to set up, but is often very difficult for enemy players to react to. The camera's placement creates the opportunity for you to tag at least one enemy, and then spray the tagged enemy through the cyber cage while their teammates react to shoot the camera. \n"
+        }
+    ]
+}

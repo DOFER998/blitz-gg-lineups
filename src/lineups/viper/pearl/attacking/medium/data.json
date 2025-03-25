@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Poison Cloud Lurk for Mail From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-atk-mail-amain-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Throw this orb lineup to pressure Defenders at Art, as it threatens and isolates the A Site player from the Art player."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Execute Wall for Art + Orb for Dug Out",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-atk-asite-amain-wall_2.mp4",
+            "difficulty": "medium",
+            "description": "Enable your team to successfully take A Site with this combination of Viper utility, you can choose to position your wall closer or further away to the site."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Heaven Poison Cloud Execute From Shops",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-pearl-atk-bheaven-market-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a powerful lineup you can use to enhance your B Site execute, Defenders cannot peek through the orb. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site Default Post Plant Snakebite from B Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/pearl-viper-atk-bsite-blink-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant Snakebite lineup from B Ramp."
+        }
+    ]
+}

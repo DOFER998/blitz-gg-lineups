@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Market Cage One Way Door ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-sunset-def-market-market-cage_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Attackers towards Mid and Market with this simple one way Cage. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Site And Main Spam Trapwires Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-sunset-def-bsite-bsite-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this setup to prevent your Trapwires from easily getting destroyed, while setting up angles for yourself to kill Attackers as they scale the site."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Standard A Trip + Site Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-sunset-def-asite-asite-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover A with these Trapwires, with Spycam to keep an eye on Site."
+        }
+    ]
+}

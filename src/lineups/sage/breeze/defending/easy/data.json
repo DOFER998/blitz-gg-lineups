@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Half Wall Off Angle Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-halfwall-halfwall-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Watch B Main from Half Wall with this Barrier Orb lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Aggressive A Wall to Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-amain-amain-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Peek attackers pushing from A Main while cutting off their line of attack with this Wall lineup."
+        }
+    ]
+}

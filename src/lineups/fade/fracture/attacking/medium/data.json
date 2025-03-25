@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "How to Split Sands With Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-sands-spawn-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "This Haunt lineup scans all of Sands and a bit into Rafters, your teammates will have an easy time spamming through the door or simply fighting for control of it."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Default Dish Haunt From Barrier ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-dish-dish-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this default Haunt lineup to scan any Defenders playing at Dish."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "B Site Execute Haunt From Arcade ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-bsite-arcade-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your teammates pushing from Arcade or Tree with this Haunt, as it scans most of site and into Generator. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Attacker Default Haunt to Arcade From Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-arcade-arcade-eye_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Haunt during your defaults to gather information on any Defender Arcade, and a bit into Tower."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round B Arcade Haunt from B Bench",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-barcade-bbench-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Haunt from the B Bench spawn barrier for Arcade. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round A Main Haunt to Push Back Oppers ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-fracture-atk-amain-attackerspawn-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Haunt for A Main, that not only gives your team valuable information inside of A Main, but also makes it difficult for enemy oppers holding an angle on the Attacker Spawn entrance into A Main to continue to hold that angle."
+        }
+    ]
+}

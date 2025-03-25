@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Contest Short With This Faultline + Flashpoint Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-short-uhall-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Disrupt the enemy's push with this simple combo, as it'll hit everyone in its path or divide Attackers successfully. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Hookah Reclear Aftershock + Faultline ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-hookah-garden-aftershock_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but powerful combination you can use to reclear Hookah. Attackers will be forced to take a losing fight, or give up the space."
+        }
+    ]
+}

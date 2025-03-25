@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Retake Seize for B Site Spike Planter from B Tunnel",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-bsite-btunnel-seize.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective retake Seize for behind the Pillar at the center of B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front A Site Haunt from A Shop",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-atk-frontasite-ashop-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Haunt for the front of A Site, that can be thrown from A Shop. You should use this when you are confident that you won't be picked off from enemy players playing from close angles on the front side of A site."
+        }
+    ]
+}

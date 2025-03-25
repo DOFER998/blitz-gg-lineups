@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Simple B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-atk-bsite-bmain-wingman.mp4",
+            "difficulty": "medium",
+            "description": "This setup is usually the most useful when you are low on time, are looking to switch up your team's pacing, or are on an eco. This is because the main objective of this setup is to take B control quickly, and then either play post plant or fight inside of B Site for control. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round A Main Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-atk-amain-alobby-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy early in the round to contest control for A Main right away, and then safely pick it up after throwing it if your team is able to take control of Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round Dizzy to Push C Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-lotus-atk-cmain-clobby-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy early in the round to set your team up to push into C Main."
+        }
+    ]
+}

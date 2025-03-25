@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Catwalk Undercut Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-abyss-def-cat-cat-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to contest for mid, when Attackers are going up Catwalk to Vents."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Simple B Lane Undercut Fight ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-abyss-def-bmain-bmain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple lineup to contest Attackers as they try to make it to B Site. "
+        }
+    ]
+}

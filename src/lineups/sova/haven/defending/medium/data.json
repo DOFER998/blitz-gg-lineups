@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Fast C Site Retake Dart From C Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-csite-clink-dart_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this powerful retake dart to allow yourself to scale the site with your teammates."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "C Site Retake Dart From C Link ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-csite-clink-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong retake dart you can use to clear all of site, it also scans a bit into the cubby at C Long. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round Info Dart to C Long From C Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-clong-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart for early information at C Long, or to set up a play from Garage or C Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Default Early Info Dart for A Lobby From A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-alobby-along-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart lineup to gain early information on Attackers on the A side of the map, this will scan a little bit outside the lobby as well. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Shockdart to Harass A Site Bomb Planter",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-abomb-alink-shockdart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, yet effective Shockdart for the A bomb planter at Default. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "C Link To Left B Site Default Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-bsite-clink-shockbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is simple, but effective, Shock Bolt for the left Default Spike plant spot. Make sure you don't use this when you are exposed to enemy players in B Site, unless you are certain they have not pushed far enough into B Site to pose a threat."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Right Side B Site To Mid Window Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-midwindow-backrightbsite-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Recon Bolt for Mid Window that lands quickly, and has an easy setup."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Defender Side Spawn To A Site Reconbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-def-backadefault-alink-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for revealing players under A Tower and the angles within view of the back side of Default."
+        }
+    ]
+}

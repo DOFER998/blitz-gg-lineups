@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Lower Mid Vent To Front Mid Bottom Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-midbottomcubby-lowermidvent-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for scanning players in the Mid Bottom Cubby, and some of Mid Top from Lower Mid Vent."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Vent To Left Side Mid Bottom Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-midbottom-midvent-shockbolt.mp4",
+            "difficulty": "easy",
+            "description": "This simple shock bolt lineup is useful for doing chip damage to players in the left Mid Bottom corner, which can make defending Mid a bit easier, as well as do damage that leads to easier kills later in the round when retaking or defending one of the Sites."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Tower To A Main Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-split-def-alobby-atower-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players in A Lobby, as well as part of A Main, and should maybe be used alongside other similar recon bolts into A Lobby throughout a match so that players have a harder time predicting where it will land. To do this, hug the wall behind you, and follow the lineup on-screen."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "totals": 9,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round B Elbow Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-elbow-tunnel-dart_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup to send Recon Bolt directly into B Elbow early."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Recon Bolt For A Cave From Back A Site Boxes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-acave-defbackasite-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great arrow for gathering information on players in A Cave. Try not to use this arrow in a way that's easy to read, since it lands somewhat slower and enters cave in an unexpected way. Play around with the timing to find the best situations to use it in to make it more difficult for the enemy team to react to it."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round Recon Bolt For B Elbow From Mid Wood Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-belbow-midwooddoors-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great arrow to gather information on players in B Elbow toward the beginning of the round. The arrow is fast and lands in a spot that may be difficult for enemy players there to react to - you can further increase the effectiveness off the arrow by waiting for enemy players to push somewhat into B Elbow.\n"
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Recon Bolt For A Hall From A Bridge",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-ahall-abridge-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is useful for scanning players in A Hall in an unexpected way. You can further increase the odds of the arrow getting a scan off by waiting for players to push into A Hall somewhat after the round starts. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Early Round Recon Bolt For Mid Pillar From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-belbow-midpillar-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful early round Recon Bolt for Mid Pillar. It's primarily useful as a support arrow to give your teammates information to work with if they are making a play in that area of the map, or want to make it more difficult for the enemy team to make a play in that area of the map. \n"
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Front B Site Retake Arrow From Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bsite-midnest-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for assisting your teammates hold on B Site, and opening up potential picks through smokes placed to block vision of the front side of B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Front B Site Retake Arrow From Defender Side Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bsite-defendersidespawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for assisting your teammates hold on B Site, and opening up potential picks through smokes placed to block vision of the front side of B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Wood Doors Recon Bolt To Scan Mid Pillar",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-midwooddoors-midwooddoors-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful toward the beginning of the round to scan players near the Mid Bottom Spawn Barrier / Close Mid Pillar, or later in the round with information that players are not lurking close enough to Mid Wood Doors to pick you off after you shoot your Recon Bolt and are switching back to your gun to scan Mid Bottom and Close Mid Pillar."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Quick A Site Retake Recon Bolt From Defender Side Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-def-defbackasite-defendersidespawn-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for scanning much of the side of A Site that is closest to Cave. This can be especially useful when the enemy team places down smokes to help them push into A Site, since your teammates may be able to shoot through the smokes at the revealed enemy players."
+        }
+    ]
+}

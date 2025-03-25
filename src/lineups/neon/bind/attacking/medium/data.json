@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Full Utility B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-bind-atk-bsite-blong-relaybolt_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this full utility execute to take B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Main to U-Hall Full Utility Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-bind-atk-asite-amain-fastlane_2.mp4",
+            "difficulty": "medium",
+            "description": ""
+        }
+    ]
+}

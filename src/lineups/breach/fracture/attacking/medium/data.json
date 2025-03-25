@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Post Plant Aftershock For Behind B Site Boxes From B Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-atk-bsiteboxes-barcade-aftershock.mp4",
+            "difficulty": "medium",
+            "description": "Here's a post plant Aftershock setup for behind the B Site Boxes from B Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Post Plant Aftershock For Lower A Site From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-atk-lowerasite-amain-aftershock.mp4",
+            "difficulty": "medium",
+            "description": "Here's a post plant Aftershock setup for Lower A Site from A Main."
+        }
+    ]
+}

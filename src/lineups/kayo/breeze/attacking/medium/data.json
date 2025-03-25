@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Main To Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-bdefault-bmain-molly_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Plant spike on B Default for a FRAG/MENT lineup to force defenders off of spike."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Caves to A Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-adefault-caves-molly_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Plant spike on A Default for a FRAG/MENT lineup to force defenders off of spike."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": " A Cave Pop Flash For A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-asite-acave-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FLASH/DRIVE from A Cave to pop flash players holding most of the common angles inside of A Site, except for any close angles directly outside of A Cave on A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Defender Spawn ZERO/POINT From B Back",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-defenderspawncloseb-bback-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT for Defender Spawn from B Back is almost impossible to destroy, and can give you and your teammates valuable information as you try to take control of / hold B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Mid Bottom To Mid Nest ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-midnest-attackerspawnmid-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT lineup is primarily useful for gathering information on Mid Nest / suppressing a player oping there so that they can't use utility to get out of an unfavorable position."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Back ZERO/POINT From Mid Cannon",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-bback-bsite-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT lineup is great for suppressing / gathering information on players in Back B Site, and potentially near the Pillar in the middle of Site as well. Keep in mind however, that this ZERO/POINT lineup does not suppress / scan the close left corner in B Back that you see as you come out of B Main."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Main Curveball For Close Right Cubby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-atk-bmain-bsitecubby-curveball.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for when you want to flash the cubby close right of B Main when pushing into B Site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Main Molly For Mid Market ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-ascent-atk-midmarket-bmain-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This molly is useful when taking B Site because you can stop B Market from peeking you for a brief period of time while you push into the Site. Throw the molly right after you hit your jump key for more consistent effects. "
+        }
+    ]
+}

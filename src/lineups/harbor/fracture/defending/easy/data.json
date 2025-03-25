@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "B Site to B Main Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4harbor-fracture.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove to throw when defusing the spike that forces an enemy to break it or push through it to challenge you."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Drop to A Dish Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3harbor-fracture.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to support your team pushing into A Dish."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Ropes to A Door Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2harbor-fracture.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to use when enemies are pushing up A Main toward A Door."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Rope to B Tree High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1harbor-fracture.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to block enemies pushing up B Tree allowing your team to play around the wall."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "B Site Retake High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-fracture-def-bsite-blink-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Use this High Tide to retake B Site with your team."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Cascade to take Space in A Main at Round Start",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-fracture-def-amain-arope-cascade_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this Cascade at the start of the round to take space in A Main.\n"
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Site Retake High Tide from A Rope",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-fracture-def-asite-arope-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Use this High Tide to retake A Site with your team."
+        }
+    ]
+}

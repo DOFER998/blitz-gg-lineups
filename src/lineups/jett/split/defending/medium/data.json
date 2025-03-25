@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "jett",
+            "title": "High Risk High Reward Early Round B Main Tailwind Setups",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-split-def-bmain-bsite-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to take advantage of your Tailwind to do damage to, or get a pick on an enemy player holding an angle into B Main, or an enemy player pushing into B Main."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "jett",
+            "title": "Early Round Mid Top Tailwind Op Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-split-def-midtop-midvent-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to take advantage of your Tailwind to hold an Op Angle that often catches enemy players peeking Mid Top from Ramen off guard, and then dash back to Safety after taking a Shot."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Default A Site Smoke Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-atk-asite-apipesorbelt-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Default A Site Smoke Placements"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Nest To Close Left Side Corner On A Site Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-both-asitecorner-anest-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "This Incendiary lineup is useful for clearing the close left corner on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Nest To A Site Default Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-icebox-atk-asitedefault-anest-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "This Incendiary lineup is useful for stopping players from defusing the spike when planted on default of A Site."
+        }
+    ]
+}

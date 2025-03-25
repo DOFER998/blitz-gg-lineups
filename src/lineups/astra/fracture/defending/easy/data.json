@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "astra",
+            "title": " A Main Choke Point Control Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-fracture-def-amain-asite-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to delay attackers from pushing through A Main onto A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Early B Arcade Nebula + B Main Choke Point Control Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-fracture-def-barcade-bsite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round B Arcade Nebula setup, alongside a simple B Main chokepoint control Setup to delay attackers in the event of a B Site execute."
+        }
+    ]
+}

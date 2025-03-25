@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Passive B Main Early Info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-atk-bmain-blobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple early round info Spy Cam for B Main, that you should use primarily when playing passive on the side of B Main."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Tiles to Cat Early Round info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-atk-midlink-alobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here is a great Spy Cam for gaining early information on whether or not enemy players are peeking into Mid from the Cat entrance into Tree, or crossing from Tree into the Cat Cubby."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Passive A Main Early Info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-atk-amain-alobby-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple early round info Spy Cam for A Main, that you should use primarily when playing passive on the side of A Main."
+        }
+    ]
+}

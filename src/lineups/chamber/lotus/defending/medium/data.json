@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Hold Deep A Main using B Link Teleport",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-def-alink-amain-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Hold a deep line into A Main using this B Link Rendezvous."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Top Off Angle Teleport from A Stairs",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-def-atop-astairs-rendezvous.mp4",
+            "difficulty": "medium",
+            "description": "Use this A Top off angle Teleport from A Stairs to passively hold / gather information in A Main, and then hold an unexpected angle into A Site after teleporting - once you believe enemy players could have taken space in A Main or A Site. Use this as a reactive setup to enemy players not showing much presence on the side of A Site throughout the half, or enemy players hard hitting A Site consistently. "
+        }
+    ]
+}

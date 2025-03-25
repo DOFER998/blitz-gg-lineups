@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "Standard Mid Drone Pathing",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-atk-mid-mid-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Help your Attackers scale up mid, or get a better idea of the Defenders setup with this simple Drone pathing."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Site Drone And Salvo Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-atk-bsite-bsite-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great and effective way to execute the B Site successfully, pushing back Defenders from holding the immediate chokepoint."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Main Wine Salvo Clear ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-ascent-atk-wine-amain-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When taking A Main space, use this simple but effective Salvo to clear Defenders playing Wine."
+        }
+    ]
+}

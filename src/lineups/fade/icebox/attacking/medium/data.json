@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Simple B Site Post Plant Haunts from B Yellow",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-bsite-byellow.mp4",
+            "difficulty": "medium",
+            "description": "Here are three simple B Site Post Plant Haunts from B Yellow, that can all be thrown from behind B Yellow to scan enemy players both as they are attempting to retake space on Site, and/or to scan them as they attempt to defuse the Spike."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front B Site Post Plant Haunt from B Green",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-frontbsite-bgreen-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great post plant Haunt lineup from B Green, that can allow you to more easily / better take advantage of the Haunt.\n"
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front A Site Execute Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-icebox-atk-apipes-underabelt-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Haunt to clear out many of the commonly held angles in front A Site, while also revealing players in several other commonly held angles deeper into Site."
+        }
+    ]
+}

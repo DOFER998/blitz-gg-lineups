@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "How to Contest A Site From Showers With Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-def-short-showers-molly_1.mp4",
+            "difficulty": "medium",
+            "description": "Properly contest for Showers control, or punish Attackers rushing out Short. Use your molly to isolate either or, as you can use it Showers instead of Short to assist your teammates contesting front site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "How to Play B Long With Smokes + Incendiary ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-def-blong-garden-smoke_1.mp4",
+            "difficulty": "medium",
+            "description": "Properly contest for B Long control with this setup, as Attackers will have a difficult time successfully taking the B Site. Isolate B Long with your molly and take an advantageous fight on Attackers mid jump out of Hookah. Farm orb as much as you can, if not contested."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Standard B Site Hold Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-def-bsite-bsite-skysmoke_2.mp4",
+            "difficulty": "medium",
+            "description": "Use these smokes to delay enemy players from pushing into B Site, or at least make it more difficult for them to push in."
+        }
+    ]
+}

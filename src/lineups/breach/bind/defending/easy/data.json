@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Long Contest Faultline + Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-blong-garden-stun_1.mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility like so, to gain an advantageous fight towards B Long. This will force Attackers to teleport, or to take a losing engagement."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Pipes to A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-pipes-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "A good flash to blind enemies rushing A site and allow your team a few extra seconds to rotate and set up."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Cubby to A Site Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-acubby-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "A good flash that you can throw from A Cubby that hits the entire A Site allowing you to peak and get a kill or stop a push."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Hall to B Site Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-def-bhall-bsite-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to kill your opponent that is planting the bomb in the popular planting spot."
+        }
+    ]
+}

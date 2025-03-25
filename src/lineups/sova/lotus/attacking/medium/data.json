@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Main Execute Owl Drone ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-atk-bmain-bsite-owldrone.mp4",
+            "difficulty": "medium",
+            "description": "Use this to clear close angles in B Main and B Site during a B Site push."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early Round A Main Recon Bolt from A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-atk-amain-alobby-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "Use this early round Recon Bolt for A Main from the A Lobby spawn barrier to check for, or help your team counter A Main aggression from the Defenders."
+        }
+    ]
+}

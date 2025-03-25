@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "B Long to Link Annihilation ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-atk-link-blong-annihilation_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Annihilation line up to force Defenders out of the close pocket in Link. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "A Main to Back A Site Grav Net Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-pearl-atk-asite-amain-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "When executing the A Site, use this Grav Net line up to disrupt Defenders playing back site. This line up is effective, as it allows you to scale to site while it is falling."
+        }
+    ]
+}

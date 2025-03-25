@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sage",
+            "title": "B Site Lever to B Site Entrance Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-def-bmain-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "If you hear a bunch of footsteps B, place wall to give your team time to rotate. Combo this wall with slow orbs if your wall is broken fast. It's important not to shut the market door so your mid player can rotate, unless they have died."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Defense Mid Arch Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-def-midarch-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "This wall will deny attackers from pushing behind your team. Consider jumping on the wall for a crazy pickoff."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "sage",
+            "title": "Defense Catwalk Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-ascent-def-catwalk-barrierorb.mp4",
+            "difficulty": "easy",
+            "description": "Place this wall to stop attackers from controlling A Link. You can use the box to see over the wall and jump on it."
+        }
+    ]
+}

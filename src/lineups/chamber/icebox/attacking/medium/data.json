@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "A Site Trademark + Rendezvous Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-atk-410-410-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up an aggressive A Site lurk with this placement of utility, allowing you to take an aggressive fight early. A teammate can play in a non-committed position towards A Belt and help you contest."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Mid Orange Trademark + Rendezvous Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-atk-mid-mid-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Lurk towards Mid with this combination of utility, allowing you to take an aggressive position on the map to influence the round. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "B Long Trademark + Rendezvous Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-atk-blong-blong-tp_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "To first effectively use this setup, make sure you have information that Yellow is cleared of Defenders. Once you have done so, set up your Rendezvous to take aggressive angles."
+        }
+    ]
+}

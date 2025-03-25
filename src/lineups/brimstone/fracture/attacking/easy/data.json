@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Simple A Site Post Plant from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-lowerasite-amain-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective post plant lineup from A Main for the open corner in lower A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Simple B Boxes Post Plant Lineup from B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsite-btower-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective post plant lineup from B Tower."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard B Site Execute Sky Smokes for Generator and Canteen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsite-bmain-skysmoke_1.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for an A Site execute. Follow how the smokes are placed on screen to best limit the options of enemy players."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Arcade To B Site Corner Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsitecorner-barcade-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great post plant molly from B Arcade to the deep corner in the B Site spike plant zone."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Tree To B Site Boxes Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-bsiteboxes-btree-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great post plant molly from from B Tree to B Site boxes in the B Site spike plant zone."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "A Dish To Lower A Site Default Post Plant Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-atk-lowerasitedefault-adish-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great post plant molly from A Dish for Default in Lower A Site."
+        }
+    ]
+}

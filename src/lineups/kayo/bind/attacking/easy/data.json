@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "FRAG/MENT Elbow Lineup From B Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-elbow-blong-molly_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but powerful lineup you can use to prevent Defenders playing at Elbow from successfully fast retaking the B Site. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Hookah ZERO/POINT From Close B Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-hookah-bshort-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple, but effective ZERO/POINT to clear out / suppress the entirety of Hookah."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "ZERO/POINT To Check For Fake A Teleport ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-bexit-hookah-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT is useful for checking whether or not an enemy player has faked a teleport through the A Teleporter."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Garden / B Long Op Angle FRAG/MENT From B Fountain",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-bgarden-bfountain-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This quick and easy FRAG/MENT makes it more difficult for players to hold top B Long from the op angle on the right side of the top of B Long. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Bath ZERO/POINT From Attacker Spawn ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-abath-attackerspawn-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT lineup is useful for both suppressing and gathering information on players in A Bath with low risk of the ZERO/POINT being destroyed. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the Defender to hold A Bath."
+        }
+    ]
+}

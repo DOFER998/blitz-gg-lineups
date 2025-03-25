@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Simple B Site Hold + Early B Main Info Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-bmain-defenderspawn-spycam.mp4",
+            "difficulty": "easy",
+            "description": "The Spy Cam in this setup is great for gathering early information in and close outside of B Main. This coupled with the rest of this simple setup forces enemy players to interact with your utility if they want to enter Site, even if the Cam is broken. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility A Site Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-asite-asite-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple full utility setup that gives you several options for how you can respond to enemy players pushing into A Site. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "A Site Entrance Hidden Trapwire",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-ascent-def-asiteentrance-asite-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "This trapwire is placed on the inside of the wall making it much harder for the attacking team to destroy."
+        }
+    ]
+}

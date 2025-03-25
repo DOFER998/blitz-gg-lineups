@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Safe Spawn Turret ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-main-spawn-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong Turret to use to spot for any Defender aggression coming from both mains. Place it during the planning phase."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Arcade Turret For Information ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-arcade-spawn-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Place this Turret during planning phase to gain information of any aggressive pushes from Arcade or Dish. Positioning close to the zip allows for an easy escape, while simultaneously obtaining information of a potential crunch. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Retake Lockdown / Nanoswarm Combo For B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-barcade-bsite-lockdown.mp4",
+            "difficulty": "easy",
+            "description": "This is a great Lockdown / Nanoswarm Combo for B Site. This Lockdown used alongside a Nanoswarm for the corner in A Tower that is not effected by the Lockdown can potentially force players to have decide between being picked off by a Nanoswarm, and being detained by the Lockdown to escape the Nanoswarm."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Main Lockdown Placement For A Site / A Drop",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-amain-asite-lockdown.mp4",
+            "difficulty": "easy",
+            "description": "This is a great Lockdown for A Site / A Drop. This Lockdown used alongside default Smokes can create a strong opportunity for you and your teammates to push into A Site. If you and your team coordinate the timing of using this Lockdown - you could potentially pinch players who have to rotate out of inner A drop into A Dish."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Drop Lockdown Placement For All Of A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-asite-adrop-lockdown.mp4",
+            "difficulty": "easy",
+            "description": "This is a great Lockdown for all of A Site. This Lockdown used alongside default Smokes can create a strong opportunity for you and your teammates to push into A Site. If you and your team coordinate the timing of using this Lockdown - you could potentially pinch players who have to rotate out of inner A Site into A Main."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Corner Plant Post Plant Nanoswarm From B Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-atk-bsite-barcade-nanoswarm.mp4",
+            "difficulty": "easy",
+            "description": "This is a great post plant Nanoswarm lineup from B Arcade."
+        }
+    ]
+}

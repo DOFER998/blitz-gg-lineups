@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Garage Doors Utility Clear Peek Decoy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)yoru-haven-atk-cgarage-middoors-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good fakeout to trigger utility towards Garage, allowing you to also peek and fight whoever is looking to contest."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Sewers to A Site Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)yoru-haven-atk-asite-asewers-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good flash to blind anyone playing Graffiti, A Site and A Heaven."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Default A Lobby to A Long Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-haven-atk-along-along-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This is a good blindside for pushing A Long. This will allow you to blind enemies peaking you from A Long with an op or holding the angle with a rifle."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "skye",
+            "title": "How to Contest B Long With Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-def-blong-blong-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but powerful popflash to contest B Long with. Coordinate with your teammate who can spot Attackers pushing up, or listen for footsteps and find a timing to pop your flash. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "skye",
+            "title": "A Site Retake Flash from A Flowers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-def-asite-aflowers-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Guiding Light for A Site from A Flowers."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Support Flash from B Link for B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-pearl-def-bmain-blink-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great flash from B Link for B Main that can be used to briefly delay the Attacker's push through B Main into B Site, or to create opportunities for your teammates to get picks on players pushing up through B Main."
+        }
+    ]
+}

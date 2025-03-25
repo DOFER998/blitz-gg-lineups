@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "A Drop To Upper A Site Dash / Cloudburst Entry",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-fracture-atk-upperasite-adrop-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Dash / Cloudburst Entry for Upper A Site, coupled with a cloudburst for Defender spawn after you safely make it on top of Upper A Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "jett",
+            "title": " A Main To Upper A Site Dash / Updraft / Cloudburst Entry",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-fracture-atk-asite-amain-updraft.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Dash / Updraft / Cloudburst combo to entry into upper A Site from A Main."
+        }
+    ]
+}

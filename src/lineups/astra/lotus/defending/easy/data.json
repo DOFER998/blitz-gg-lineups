@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Early Round A Main Nebula + Gravity Well Combo to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-amain-asite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use this early round Nebula + Gravity Well combo to contest space in A Main."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Delay Nebula + Gravity Well for C Bend",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-cbend-chall-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Use this delay Nebula + Gravity Well combo to make it more difficult for enemy players to push through Bend into C Site, or plant the Spike. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site Chokepoint Delay Nebula + Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-bsite-bmain-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective, B Site chokepoint delay setup. "
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "astra",
+            "title": "C Site Chokepoint Delay Nebula + Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-lotus-def-csite-csite-nebula.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective, C Site chokepoint delay setup. "
+        }
+    ]
+}

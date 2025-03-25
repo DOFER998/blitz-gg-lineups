@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Site Nebula Door and Heaven Execute + Pull",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-atk-asite-asite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is the standard combination of stars you can use to execute the A Site. The Gravity Well towards Heaven is a great way to make it difficult for rotating Defenders to assist their teammates easily on site. You may also use the Gravity Well behind Generator or Green Box. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Default Lurk / Control For A Main Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-atk-amain-amain-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Keep Defenders guessing, or simply force them to use utility to gain information towards A Main, with this default Nebula. This allows you to also play in Wine if you choose to cross over. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Standard B Site Execute Nebula Smokes + Stairs Pull",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-atk-bsite-bsite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are the default smokes for a B Site execute. Follow how the smokes are placed on screen to best limit the Defender's options."
+        }
+    ]
+}

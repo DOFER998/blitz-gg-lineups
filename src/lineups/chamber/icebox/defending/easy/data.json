@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Mid Line Rendezvous Fight ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-def-mid-mid-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get the Mid line with this easy, yet powerful Rendezvous lineup. This allows you to easily fall back into cover after a pick."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Mid Tube Trademark Variations",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-def-mid-mid-trademark_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default this simple, but effective Trademark lineups to prevent lurkers from taking Mid space easily."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Top Yellow Rendezvous Off-Angle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-def-yellow-yellow-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an aggressive, early round fight towards B Long with this Rendezvous lineup. This essentially forces Attackers to use more resources to take control of it or run the risk of getting picked."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Top Screens Rendezvous Off-Angle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-def-screens-screens-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Aggressively set up these different off-angles to keep Attackers guessing, allowing for more potential on picks."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Screen Rendezvous for Mid A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-icebox-def-ascreens-amidsite-rendezvous.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective A Screens Rendezvous for Mid A Site."
+        }
+    ]
+}

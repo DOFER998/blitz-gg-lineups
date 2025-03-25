@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default Lurk Bottom Mid Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-atk-bottommid-mid-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Default this Rendezvous when looking to lurk, or pressure Mid."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default Outside A Trademark + Mid Rendezvous",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-atk-mid-mid-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a standard Attacker setup you can use as Chamber."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default Outside B Main Trademarks",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-abyss-atk-bmain-bmain-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are two variations you can use for your Trademark at B Main."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "C Site Execute High Tide from C Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-lotus-atk-csite-cmain-hightide.mp4",
+            "difficulty": "medium",
+            "description": "Use this High Tide when executing into C Site from C Main."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "harbor",
+            "title": "B Site Execute High Tide from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-lotus-atk-bsite-bmain-hightide.mp4",
+            "difficulty": "medium",
+            "description": "Use this High Tide when executing into B Site from B Main."
+        }
+    ]
+}

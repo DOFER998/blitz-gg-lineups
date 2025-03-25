@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "B Backsite Grav Net Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-sunset-atk-bsite-bsite-gravnet_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the B Site, use this Grav Net lineup to capture any Defenders rotating to and from spawn, or any player towards back site. "
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "deadlock",
+            "title": "Early Mid to B Main GravNet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-sunset-atk-bmain-mid-gravnet_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this Mid GravNet lineup to ensnare aggressive B Site defenders."
+        }
+    ]
+}

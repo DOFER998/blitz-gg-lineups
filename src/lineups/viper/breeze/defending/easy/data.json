@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Mid Wooden Doors to Bottom Mid Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)viper-breeze-def-midbottom-midbottom-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This is a good toxic screen to create a full wall blocking Bottom Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "viper",
+            "title": "B Site to Top Mid Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)viper-breeze-def-midtop-bsite-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This is a good toxic screen to block both the entrance to B Site and Top Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Mid Wooden Doors Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)viper-breeze-def-midwooddoors-midwooddoors-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This is a good poison cloud to create a one-way smoke at Mid Wooden Doors."
+        }
+    ]
+}

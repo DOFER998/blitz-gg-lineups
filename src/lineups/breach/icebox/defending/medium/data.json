@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Flashpoint From Mid Ramp Lower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iceboxbreachmiddleflashdeep.mp4",
+            "difficulty": "medium",
+            "description": "This flashpoint not only blinds everyone peeking ramp but as well as the deepest angle that can see into the hallway of mid. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Site Railing Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iceboxbreachblongflash.mp4",
+            "difficulty": "medium",
+            "description": "This flashing point is fantastic as it lands in a spot the enemy will not be ready for making it a lot harder to dodge. As well as allowing you to fully peek without worrying about being blind from your own flash!"
+        }
+    ]
+}

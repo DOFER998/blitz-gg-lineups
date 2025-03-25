@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Aggressive Showers to Short Lurk Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-atk-short-showers-tp_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Play forward towards Showers primarily, as it lets you quickly rotate from there to Short. It is recommended to take Showers control with at least one teammate to set this up successfully. You can also play towards Short with this Rendezvous lineup. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Outside Hookah Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-bind-atk-hookah-hookah-tp_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to lurk and cut rotations for Defenders moving between B Site and Spawn. You can also use this setup to contest for Hookah. "
+        }
+    ]
+}

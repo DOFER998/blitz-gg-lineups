@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility A Site Hold Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-def-aboveadrop-asite-trapwire.mp4",
+            "difficulty": "pro",
+            "description": "Here's a very effective full utility A Site Hold Setup."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Site Passive Full Utility Site Hold Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-def-frontbsite-bsite-spycam.mp4",
+            "difficulty": "pro",
+            "description": "This is a great passive full utility Site hold setup, that allows you to hold the B Arcade cross, and catch players pushing into both of the most open chokepoints on B Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Full Utility B Tower Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-def-bsiteandarcade-bsite-spycam.mp4",
+            "difficulty": "pro",
+            "description": "This full utility setup gives you many options from within B Tower for how you can respond to attackers pushing into B."
+        }
+    ]
+}

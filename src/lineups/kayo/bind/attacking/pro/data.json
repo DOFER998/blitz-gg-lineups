@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lamps ZERO/POINT From A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-alamps-leftalobbyspawnbarrier-zeropoint.mp4",
+            "difficulty": "pro",
+            "description": "This ZERO/POINT lineup is useful for both suppressing and gathering information on players in Lamps with low risk of the ZERO/POINT being destroyed. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the Defenders to hold Lamps."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Garden ZERO/POINT From Behind Fountain Spawn Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-bgarden-fountainspawnbarrier-zerpoint.mp4",
+            "difficulty": "pro",
+            "description": "This ZERO/POINT for B Garden from behind the Fountain Spawn Barrier is difficult to destroy / react to. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the defenders to hold B Garden / B Long."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Hookah ZERO/POINT From Behind Fountain Spawn Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-hookah-fountainspawnbarrier-zeropoint.mp4",
+            "difficulty": "pro",
+            "description": "This ZERO/POINT lineup is useful for both suppressing and gathering information on players in Hookah, with low risk of the ZERO/POINT being destroyed. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the defenders to hold Hookah, or hard clear Hookah for you and your team."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Hookah ZERO/POINT From B Side Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-hookah-market-zeropoint.mp4",
+            "difficulty": "pro",
+            "description": "This ZERO/POINT lineup is useful for both suppressing and gathering information on players in Hookah with low risk of the ZERO/POINT being destroyed. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the Defenders to hold Hookah, or hard clear hookah for you and your team."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "ZERO/POINT For A Lamps From A Side Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-atk-alamps-alink-zeropoint.mp4",
+            "difficulty": "pro",
+            "description": "This ZERO/POINT lineup is useful for both suppressing and gathering information on players in Lamps with low risk of the ZERO/POINT being destroyed. The travel time of the ZERO/POINT is high, but when timed well it can make it more difficult for the Defenders to hold Lamps."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Site Execute ZERO/POINT From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-asite-tree-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective knife lineup that allows you to scale site with it. A great knife to use when planning on using other utility while you execute the site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Fast Arcade Knife for Information ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-arcade-spawn-knife_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup at the start of the round to gain information on Defenders, and deny control more effectively towards Arcade."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Back B Bench To B Tower ZERO/POINT ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-fracture-atk-bbench-btower-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great ZERO/POINT lineup from B Bench for B Tower. This ZERO/POINT suppresses the entirety of B Tower, and is not able to be broken by Defenders who have pushed into Arcade.\n"
+        }
+    ]
+}

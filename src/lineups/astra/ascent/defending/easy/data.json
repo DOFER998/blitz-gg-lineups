@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "astra",
+            "title": "One Way Towards A Main Nebula + Gravity Well Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-def-amain-amain-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this standard and simple setup towards A Main to make it difficult for Attackers to easily take control. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Early B Main Gravity Well Combo Utility Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-def-bmain-bmain-well_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, coordinate with your teammate to send damaging utility on your ping towards B Main with your Gravity Well. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Full A Site Nebula Hold + Stun For Switch",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-def-amain-amain-nebula_2(medium).mp4",
+            "difficulty": "easy",
+            "description": "Follow this setup to lock down the A Site, allowing you to allocate more resources and teammates towards the other parts of the map. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Early Round Support in Mid for Duelists with Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-def-mid-mid-nebula_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use one of these Nebula variations to support your team's efforts to hold deeper sightlines into Mid and look for picks on Attackers peeking into Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Site Chokepoint Hold Using Only Gravity Well ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-def-bmain-bmain-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use all of your standard pieces of utility to hold down the B Main chokepoint, or at least break up the Attackers push into B Site."
+        }
+    ]
+}

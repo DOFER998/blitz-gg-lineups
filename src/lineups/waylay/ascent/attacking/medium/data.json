@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Generator Light Speed + Refract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-ascent-atk-generator-generator-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the A Site, entry out towards Generator as shown in the video and use your Refract when deemed necessary. You can also dash on top of Generator, however you will not have a smoke to cover you and Defenders may shoot you as you do so."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Boat Clear Light Speed + Refract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-ascent-atk-bmain-bmain-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Aggressively dash out to Market with your Refract active to seek out a difficult fight for Defenders to take, as well as clearing important angles for your team to execute."
+        }
+    ]
+}

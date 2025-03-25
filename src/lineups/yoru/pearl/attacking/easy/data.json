@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Site Execute Blindside from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-pearl-atk-asite-frontamain-blindside.mp4",
+            "difficulty": "easy",
+            "description": "Here's a very effective Blindside for executing onto A Site from A Main. Combo'ing this with a Fakeout can be especially useful. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "A Hall Gatecrash + Blindside Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-pearl-atk-bhall-bmain-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "Here's a very effective Gatecrash + Blindside Combo from B Main, that allows you to challenge B Hall. Just be careful of enemy players playing a close angle in B Hall."
+        }
+    ]
+}

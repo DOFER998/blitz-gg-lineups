@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Start Round Default Mid Arch Fault Line From Tiles",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-atk-mid-tiles-faultline_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet powerful way to prevent Defenders from successfully taking Mid control at the start of the round. This is great in setting up your teammates in taking Mid Control, as the flash blinds every angle besides Pizza."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Start Round Default B Main Fault Line From Hut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-atk-bmain-hut-faultline_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet powerful way to prevent Defenders from successfully taking B Main control at the start of the round."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Start Round Default A Main Fault Line ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-atk-amain-amain-faultline_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet powerful way to prevent Defenders from successfully taking A Main control at the start of the round."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Top Mid Attack Flash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-attack-topmid-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a great flash to peek straight down mid with. It pops really low, where most players won't expect it and won't have time to react."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Link to A Window Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-attack-alink-awindow-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This flash is pretty hard to unpeek as a window player without giving up control. If you made it up A this far with a flash left over, this is a great one to seal out the round."
+        }
+    ]
+}

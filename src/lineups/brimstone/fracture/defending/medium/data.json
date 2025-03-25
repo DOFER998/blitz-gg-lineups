@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Site Retake Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-def-asite-defenderspawn-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Here are two effective smokes either on their own or combo'd with each other, depending on the situation, that are essential to know if you want to effectively retake A Site, alongside a simple Incendiary linup that you can use to prevent enemy players from pushing out of A Main to help their teammates on A Site.\n\n"
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Site Positioning to Both Delay B Main Push, and Support A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-fracture-def-bsite-bgenerator-skysmoke.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to set yourself up on B Site, to not only be able to delay the B Main push, but also to support your teammates on A Site with a delay Smoke if needed."
+        }
+    ]
+}

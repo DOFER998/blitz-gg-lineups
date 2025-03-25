@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Dark Cover Post Plant One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Boost your chances of winning the post plant scenario with this Dark Cover. You can also plant on the other side of the site, with the smoke placed above."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Attack Side A Long Default Dark Cover ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-along-along-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Defender's line of sight towards A Long with this simple lineup. You can setup a lurk towards Short, or scale towards Long easier."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "C Site Box One Way Dark Cover Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-csite-csite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Boost your chances of winning the post plant scenario with this Dark Cover."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "C Site / C Garage Dark Cover Execute Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-cgarage-clong-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "Here are the default Dark Cover placements for a C Site split."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard B Site Execute Dark Cover Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-bsite-bsite-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are the default Dark Cover placements for an B Site Execute."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard C Site Execute Dark Cover Placements",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-haven-atk-csite-csite-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are the default Dark Cover placements for an C Site Execute."
+        }
+    ]
+}

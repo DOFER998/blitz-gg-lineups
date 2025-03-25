@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Tower To A Main Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-def-amain-atower-nanoswarm_1.mp4",
+            "difficulty": "easy",
+            "description": "This Nanoswarm lineup is useful for breaking up the Attacker's push out of A Main onto A Site, or delaying it entirely."
+        }
+    ]
+}

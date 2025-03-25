@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "A Main to Sands Door Razorvine",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-atk-doors-amain-razorvine_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Prevent Defenders from taking aggressive peeks and fights towards the Sands Door early into the round with this lineup."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Site Razorvine And Arc Rose Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-fracture-atk-bsite-bsite-arcrose_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective combination of utility to execute the B Site. Defenders playing behind the boxes will be forced to fight or take damage, as well as getting flashed if they are looking at Attackers scaling up."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Full B Site Utility Shear Razorvine + Arc Rose ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-abyss-def-bsite-bsite-arcrose_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Lock down the B Site with this simple, but effective setup."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Full A Site Shear Razorvine + Arc Rose Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-abyss-def-asite-asite-arcrose_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Lock down the A Site with this simple, but effective setup."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "C Site Execute Delivery + Salvo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-atk-csite-clong-salvo_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's an easy, yet effective way to execute the C Site. Make sure to time your utility properly so your team has an easier time taking the site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Site Execute Delivery + Salvo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-haven-atk-bsite-bsite-salvo_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Take control of backsite on B with this combination of utility, allowing your team to scale up easier."
+        }
+    ]
+}

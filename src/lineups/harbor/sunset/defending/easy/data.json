@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Top to Bottom Mid Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-def-bottommid-topmid-cascade_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Cascade lineup to take control of Mid, forcing attackers to the side."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Early B Main Stairs Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-def-bmain-bmain-cascade_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Block off attackers from B Main, allowing you to grab orb and set up for an aggressive defense."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Early A Main Cascade Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-sunset-def-amain-asite-cascade_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Quickly take control of A Main, setting you up to take orb and blocking off attackers with this Cascade lineup."
+        }
+    ]
+}

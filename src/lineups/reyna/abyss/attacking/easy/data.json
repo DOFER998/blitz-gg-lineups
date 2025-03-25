@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Simple B Site Leer Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-abyss-atk-bsite-bsite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is the standard Leer to throw when executing the B Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Front A Site Leer Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-abyss-atk-asite-asite-leer_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here is the standard Leer to throw when executing the A Site."
+        }
+    ]
+}

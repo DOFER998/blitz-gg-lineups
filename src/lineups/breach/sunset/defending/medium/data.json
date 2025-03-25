@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Site to A Main Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-sunset-def-amain-asite-stun_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use your Fault Line to push attackers back on A Site, while cutting off their escape with Aftershock."
+        }
+    ]
+}

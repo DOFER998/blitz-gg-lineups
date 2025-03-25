@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Flame Wall to Mid Doors Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-breeze-atk-mid-mid-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover your team's approach to A Doors with this Blaze lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "Flame Wall to Flash B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-breeze-atk-bsite-bsite-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Quickly push onto B Site before flashing Tunnels with this Blaze + Curveball combo."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Main to B Site Blaze",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)phoenix-breeze-atk-bsite-bmain-blaze.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Blaze to cut off vision and allow your team to execute onto B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Cave to Right A Pyramid Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)phoenix-breeze-atk-rightapyramid-acave-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Hot Hands to damage enemies behind A Pyramid and push them out for an easy kill."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Cave to A Site Box Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)phoenix-breeze-atk-leftasitebox-acave-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good hot hands to damage enemies in the corner of the front A Site Box and get them out of position for an easy kill."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Main To B Default Hothands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-breeze-atk-bdefault-bmain-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This Hothands lineup is useful for stopping enemy players from defusing the Spike on B Default."
+        }
+    ]
+}

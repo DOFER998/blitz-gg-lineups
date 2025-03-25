@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Aggressive Short to TP Meddle Hookah ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-def-tp-tp-meddle_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this aggressive lineup to catch your opponents off guard."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Early Right Side Short Meddle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-def-short-asite-meddle_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Combine your Meddle with another piece of utility from your teammates to damage your enemies at Short."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "clove",
+            "title": "B Long Ruse + Meddle Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-def-blong-garden-meddle_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but powerful way to contest B Long."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Aggressive Turret For Mid Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-def-mid-mid-turret_2.mp4",
+            "difficulty": "medium",
+            "description": "This is an aggressive placement of utility that allows you to shift off of the B Site and fight for Mid with an extra crossfire. It is recommended to use this set up when fighting with a teammate. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility B Site Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-def-bsite-bsite-turret_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this powerful setup to anchor the B Site with relative ease, as you have a kill set up for Lane and a Turret that spots for information."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Alarmbot For Ascent A Door",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-def-asite-asite-alarmbot_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this strong kill set up to punish Attackers for trying to close the door, or players attacking the site from Tree. "
+        }
+    ]
+}

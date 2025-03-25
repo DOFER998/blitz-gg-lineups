@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Right A Pyramid Post Plant Nanoswarm ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-atk-apyramid-alobby-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This is a useful post plant Nanoswarm for the corner on the far right side of the A Pyramids on the side of A Cave. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Default Post Plant Nanoswarm ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-atk-asite-attackersidespawn-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This is a simple, but useful post plant Nanoswarm lineup from just outside of Mid Cannon near the B Window Stairs. "
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "totals": 10,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Nest to A Default Cosmic Divide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(20)astra-icebox-atk-adefault-anest-cosmicdivide.mp4",
+            "difficulty": "easy",
+            "description": "This is a good cosmic divide to cut off the front of A Site from the back of A Site allowing your teammate to plant the bomb."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Site Cosmic Divide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(19)astra-icebox-atk-bsite-bsite-cosmicdivide.mp4",
+            "difficulty": "easy",
+            "description": "This is a good cosmic divide to separate the front of B Site and the back of B Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Nest to A Site Corner Nova Pulse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(18)astra-icebox-atk-asitecorner-anest-novapulse.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nova pulse to concuss enemies playing in A Ramp Corner allowing you to swing and get a frag."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Green to B Site Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(17)astra-icebox-atk-bsite-bgreen-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula combo to block off all angles on B Site allowing your teammate to plant the bomb without being seen."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Nest to A Pipes Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)astra-icebox-atk-apipes-anest-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to block a common angle that people like to op. Placing your smoke ontop of A Pipes allow you to block the angle and push up with your team and execute the site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Green Dissipate Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)astra-icebox-atk-byellow-bgreen-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to dissipate to sneak up B Green and allow you to successfully get a flank off."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "B Green Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)astra-icebox-atk-bgreen-bgreen-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well lineup to clear both of the corners at the box of B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Mid Blue to Mid Boiler Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)astra-icebox-atk-midboiler-midblue-nebula.mp4",
+            "difficulty": "easy",
+            "description": "This is a good nebula to block off mid boiler and allow your team to take control of middle."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Site Nova Pulse",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)astra-icebox-atk-asite-asite-novapulse.mp4",
+            "difficulty": "easy",
+            "description": "This a good nova pulse to concuss an enemy playing on A Site allowing you to get a pick and take A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "A Nest to A Generator Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)astra-icebox-atk-agenerator-anest-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is a good gravity well to pull enemies out of the generator corner of A Site and allow you to get a quick and easy kill."
+        }
+    ]
+}

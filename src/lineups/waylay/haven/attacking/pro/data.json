@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Top A Site Dash Refract Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-haven-atk-asite-asite-dash_1(hard).mp4",
+            "difficulty": "pro",
+            "description": "Use this unpredictable, yet effective Light Speed lineup to catch any Defenders on site off-guard. This is a great way to execute after your Initiators have provided you information on the enemy's positioning."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Top C Site Dash + Long Refract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-haven-atk-csite-csite-dash_1(hard).mp4",
+            "difficulty": "pro",
+            "description": "Quickly entry onto the site with this Light Speed lineup to make yourself unpredictable to Defenders playing Default. This also allows you to seek an early off-angle engagement to rewind back to C Long safely."
+        }
+    ]
+}

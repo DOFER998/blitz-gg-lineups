@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Support Dizzy to Disrupt A Site Push",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-def-asite-defenderspawn-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dizzy to safely disrupt the Attacker's push into A Site / break up their push into Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early Round A Dish Push with Dizzy + Your Team",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-def-adish-adish-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this to take control of A Dish at the very start of the round with 1 or more teammates."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Safely Defend B Site From Generator",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-def-bsite-bgenerator-moshpit.mp4",
+            "difficulty": "medium",
+            "description": "This is a great way to safely defend B Site from Generator, giving your team time to rotate and get into position to retake B Site, while also breaking up the enemy team's push into Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Safe Early Round Support Dizzies for B Bench / A Main Push ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-fracture-def-bbench-bsite-dizzy.mp4",
+            "difficulty": "medium",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Tiles Turret ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-mid-tiles-turret_2.mp4",
+            "difficulty": "medium",
+            "description": "Place this Turret on top of the left Tiles wall to ensure any information of an aggressive push at Mid. This Turret also spots deep Top Mid, in between Defenders Spawn and Market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Ascent B Site Lockdown",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-bsite-bmain-lockdown_2.mp4",
+            "difficulty": "medium",
+            "description": "A strong combination of Killjoy's Lockdown and Turret allow for an easier take on the B Site. The ultimate ability clears all of site, except for the back right."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Ascent A Main Lockdown",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-atk-asite-amain-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "A strong combination of Killjoy's Lockdown and Turret allow for an easier take on the A Site. The ultimate ability clears all of tree, but the only gaps from this ultimate is both the right side of of Heaven and Hell. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Aggressive Nanoswarm & Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5killjoy-ascent.mp4",
+            "difficulty": "medium",
+            "description": "A good Nanoswarm and Turret combo that helps with your A Site execute while also having an Alarmbot watching your flank."
+        }
+    ]
+}

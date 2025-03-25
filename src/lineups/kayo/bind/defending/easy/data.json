@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Short / A Cubby ZERO/POINT From A Lamps",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-ashort-alamps-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This quick and easy ZERO/POINT will both suppress and gather information on A Short and A Cubby. It's especially useful if you can suppress several Attackers pushing up A Short. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": " A Garden / Top B Long ZERO/POINT From Back B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-bgarden-backbsite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This quick and easy ZERO/POINT will both suppress and gather information on B Garden, and almost the entirety of the top of B Long with only a small area in front of the B Teleporter unaffected."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Hookah / A Garden ZERO/POINT From Back B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-bind-def-hookah-backbsite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This quick and easy ZERO/POINT will both suppress and gather information on players in B Garden and in almost the entirety of Hookah with only a small area in the back side of Hookah unaffected."
+        }
+    ]
+}

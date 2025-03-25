@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Full B Site Exec Util Stun",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-atk-bsite-bsite-stun_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Close off angles with Aftershock and Fault Line while Flashpoint prepares you for an aggressive push."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Full A Site Exec Util Stun",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-atk-asite-amain-stun_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Stun the left side of A Site with Fault Line while taking control of the right with Flashpoint and Aftershock."
+        }
+    ]
+}

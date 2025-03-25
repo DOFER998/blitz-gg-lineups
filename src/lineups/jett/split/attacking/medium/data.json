@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "B Site Cloudburst + Tailwind Entry from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-split-atk-bsite-bmain-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a very common way to entry into B Site, that can be applied in one of many ways depending on the context of the round."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Early Round A Ramps Tailwind + Utility Combo from A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-split-atk-ramps-amain-tailwind.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to aggressively push into A Ramps at the beginning of the round."
+        }
+    ]
+}

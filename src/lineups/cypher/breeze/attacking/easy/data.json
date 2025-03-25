@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Default Trip + Cam Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-atk-mid-spawn-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Protect your team from flanking enemies with your Trapwire while Spycam gives you vision up Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Side Default Attacker Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-atk-halls-spawn-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get an early look down Halls with this Spycam placement."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Cannon to Mid Window Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3cypher-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good early round Spycam to see into Mid Window and get a good vantage point of any potential Ops early into the round."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Lobby to Hall Spycam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4cypher-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good early round Spycam to see enemies peeking Hall."
+        }
+    ]
+}

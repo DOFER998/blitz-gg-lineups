@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "B Site Safe Post Plant Mosh Pit From Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-sunset-atk-bsite-bsite-mosh_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Defenders defusing the spike towards the safe plant spot with this easy, yet effective Mosh Pit lineup."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Simple Mid to Tiles Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-sunset-atk-tiles-mid-dizzy_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Dizzy to provide coverage against defenders in Market and Mid."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "A Main to Default Mosh Pit",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-sunset-atk-default-amain-moshpit_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use Mosh Pit to leave A Default off limits to defenders from A Main."
+        }
+    ]
+}

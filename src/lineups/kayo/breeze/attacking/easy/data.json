@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Site Knife + Flash Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-bsite-bmain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Suppress left side of B Site with a FLASH/DRIVE and ZERO/POINT combo to take control of a push."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Early Default A Flash Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-amain-amain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Blind defenders watching A Default with this FLASH/DRIVE lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lobby to A Shop ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5kayo-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to suppress enemies pushing into A Shop and get info if enemies are close and if not, allowing you to get the orb."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Main to B Site ZERO/POINT + FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4kayo-breeze.mp4",
+            "difficulty": "easy",
+            "description": "A good combo of ZERO/POINT and FRAG/MENT to suppress and push enemies out of the back of B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Close Left B Back ZERO/POINT From B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-atk-bback-bmain-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This ZERO/POINT is useful for suppressing / checking the close left corner in Back B Site that you see as you push out of B Main."
+        }
+    ]
+}

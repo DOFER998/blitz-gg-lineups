@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "A Site Retake Dizzy from Screens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-def-asite-ascreens-dizzy_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple but effective A Site retake Dizzy from Screens that allows you to clear out the area close in front of A Screens."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "gekko",
+            "title": "Early Round Mid Support ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-split-def-mid-btower-dizzy.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to support your team early, and then be ready to delay the enemy team's push through B Main with your Mosh Pit if the info your team gets leads you to that."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full B Site Hold Turret + Molly",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-def-bsite-bsite-turret_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use your turret to cover B Tunnel and Main with Alarmbot and Nanoswarm to deal with the attacking team's push."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Turret For B Tunnel / B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-def-bsite-bsite-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple, but effective Turret that watches both B Tunnel and B Main. "
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Wall Turret ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-breeze-def-bmain-bsite-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple, but useful Turret that watches B Main and B Tunnel from an awkward angle for players coming out of B Main. Make sure to angle the turret so that it can see every angle in B Back though, since this turret can still be useful once the Attacker's have taken Site after a viper wall, or any other smokes / utility no longer give the Attackers cover on Site."
+        }
+    ]
+}

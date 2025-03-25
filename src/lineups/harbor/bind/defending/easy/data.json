@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "B Side Defender Spawn to B Site High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3harbor-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to retake onto B Site with."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Site to A Main One-Way Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1harbor-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove to create a one-way smoke for A Short."
+        }
+    ]
+}

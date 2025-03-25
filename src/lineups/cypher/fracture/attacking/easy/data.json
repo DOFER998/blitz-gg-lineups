@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Main Spawn Barrier Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracture-cypher-atk-amain-attackerspawn-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Spy Cam that allows you to safely spot and tag enemy players peeking out of A Main toward the start of the round, while also leaving a Spy Cam that can be used to watch the flank. "
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive B Main Spawn Barrier Spy Cam ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fracutre-cypher-atk-btree-attackerspawn-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Spy Cam that allows you to safely spot and tag enemy players peeking out of B Main toward the start of the round, while also leaving a Spy Cam that can be used to watch the flank. "
+        }
+    ]
+}

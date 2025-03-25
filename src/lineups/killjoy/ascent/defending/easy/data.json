@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Link Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good setup to detect and protect against enemy players pushing toward A Link."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Main Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good setup to keep sightlines into B Main while also keeping tabs on Mid Pizza."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good B Site setup that also allows you to watch Mid Pizza."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Site + A Link Default Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1killjoy-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good setup that allows you to keep tabs on Mid Pizza while watching both A Main and A Link."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Defender Spawn to B Main Turret",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-ascent-def-ct-bmain-turret.mp4",
+            "difficulty": "easy",
+            "description": "This turret is great to play off of when attempting to hold B Main, playing inside of Mid Market and waiting for your turret to get contact prior to peeking is an easy way to shut down B executes."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "totals": 12,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Site to A Belt ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to use early in the round to suppress enemies pushing A Belt."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Screens to A Pipes ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to get info on enemies pushing toward A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Green to B Garage ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to get info and suppress enemies pushing toward B Green."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site to B Yellow ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1kayo-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to prevent enemies from pushing up and gauging how close the enemies are."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Site to A Nest FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(20)kayo-icebox-def-anest-asite-flashdrive.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FLASH/DRIVE to peek A Nest from A Site or to delay a push and re-position."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Screens to A Pipes FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(19)kayo-icebox-def-apipes-ascreens-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT to delay a push into A Site from A Screens."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Site to A Belt ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(12)kayo-icebox-def-abelt-asite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Belt from A Site to suppress your opponents."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Site to A Nest ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)kayo-icebox-def-anest-asite-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Nest from A Site to suppress your opponents."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Snowman to B Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)kayo-icebox-both-bdefault-bsnowman-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for B Default post plant from B Snowman and is also useful to stop a planter."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Screens to A Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)kayo-icebox-def-adefault-ascreens-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for A Default from A Screens."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Site to B Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)kayo-icebox-bdefault-bsite-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for B Site to stop a plant."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid Boiler to B Green ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)kayo-icebox-def-bgreen-midboiler-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for B Green"
+        }
+    ]
+}

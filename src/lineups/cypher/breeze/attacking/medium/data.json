@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Attack Mid Cage",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-breeze-atk-mid-mid-cage_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "This Cage lineup allows you to shut down the defenders' vision through Mid."
+        }
+    ]
+}

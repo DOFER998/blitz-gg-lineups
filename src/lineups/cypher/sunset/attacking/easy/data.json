@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "B Window Cam + Trips Default",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-sunset-atk-bwindow-spawn-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Spot defenders pushing into B Main with this early round Spycam setup."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Window Cam + Trips Default",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-sunset-atk-awindow-spawn-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Get early round info on A Site defenders with this Spycam setup."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "C Long Leer for Front C Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-atk-haven-csite-clong-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective angle breaking Leer from C Long for front C Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Front B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-atk-haven-bsite-mid-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective angle breaking Leer from Mid for B Site."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "B Long Hold With Shear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-def-blong-blong-shear_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Ensnare or delay Attackers with this simple lineup towards B Long. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Art Shear + Razorvine Combo Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-def-art-art-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but powerful combination of utility to contest for Art control."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Aggressive Mid Arc Rose Contest ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-pearl-def-mid-mid-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Arc Rose lineup to contest Mid. This also enables your teammates at Art. "
+        }
+    ]
+}

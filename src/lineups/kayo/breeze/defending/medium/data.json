@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Right A Pyramid Pop Flash For A Cave Choke Point",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-apyramids-apyramids-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FLASH/DRIVE from behind the right A Pyramid to pop flash players as they push out of A Cave into A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Hall Pop Flash From A Metal Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-ahall-defenderspawn-flashdrive.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FLASH/DRIVE from the A Metal Doors to pop flash players peeking into A Hall."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Elbow ZERO/POINT From A Pyramids",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-belbow-apyramids-zeropoint.mp4",
+            "difficulty": "medium",
+            "description": "This ZERO/POINT for B Elbow from behind the right A Pyramid is easy to set up, and almost impossible to destroy."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Middle Of A Pyramids FRAG/MENT To Delay Spike Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-breeze-def-apyramids-apyramids-fragment.mp4",
+            "difficulty": "medium",
+            "description": "This is a great FRAG/MENT to delay the Attackers from planting the Spike in the center of the A Pyramids, or at least do damage to them if they attempt to plant the Spike there while potentially forcing them to plant the Spike elsewhere."
+        }
+    ]
+}

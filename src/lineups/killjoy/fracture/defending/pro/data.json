@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Start Round Alarmbot For Arcade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-arcade-tower-alarmbot_1.mp4",
+            "difficulty": "pro",
+            "description": "Isolate Attacker's executes by using this setup. Use your Mollies to stall B Main Attackers and focus your resources towards Arcade. Since your Alarmbot and Turret prevents any lurks from occurring on the B Site, this allows for your teammate to have more freedom to rotate and have an easier time contesting Arcade with you."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Simple Counter To B Tunnel Lockdown ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-bsite-btunnel-lockdown.mp4",
+            "difficulty": "pro",
+            "description": "Here's a simple way to counter a Lockdown placed in a vulnerable position in B Tunnel."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Retake Lockdown / Nanoswarm Combo For B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-bgenerator-bsite-lockdown.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Lockdown / Nanoswarm Combo for B Site. This Lockdown used alongside a Nanoswarm for the corner in A Tower that is not effected by the Lockdown can potentially force players to have decide between being picked off by a Nanoswarm, and being detained by the Lockdown to escape the Nanoswarm."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Full Utility Setup For A Main / A Site Choke Point",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-fracture-def-asite-asite-nanoswarm.mp4",
+            "difficulty": "pro",
+            "description": "This is a great Full Utility Setup for the A Main / A Site Chokepoint that makes it very difficult for players to push into A Site from A Main, doing a lot of damage to players attempting to push into A Site in the process - or at least buying some time for your team to rotate to A to help defend A. One added benefit of this setup is that the Turret will react to players pushing out of A Main, players jumping down from A Drop, and players who have pushed far enough through A Ropes."
+        }
+    ]
+}

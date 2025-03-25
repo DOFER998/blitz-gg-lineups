@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Site to B Green Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-bsite-bgreen-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good one way smoke to defend B Site from B Green. This will allow you to prevent a push and also allow you to get a pick on anyone lurking up past your smoke."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Oranges to B Tube Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-boranges-btube-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good one way smoke to get an advantageous angle on your enemy as they are pouring through under B Tube."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site to A Pipes Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-asite-apipes-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good one way smoke to prevent an A Site push and also to get a quick kill on someone approaching your smoke."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Rafter to A Pipes Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-arafter-apipes-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good one way smoke to prevent the attackers from executing on A Site and also allowing you to get a pick on someone slow peaking from A pipes."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Orange to Mid Blue Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-borange-midblue-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good paranoia to get a quick pick or valuable information from middle."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site to A Pipes Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-def-asite-apipes-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good paranoia to blind your opponent and take an aggressive peak on them or to stop an immediate rush."
+        }
+    ]
+}

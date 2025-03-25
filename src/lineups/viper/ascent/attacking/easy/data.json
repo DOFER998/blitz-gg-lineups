@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Main to B Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5viper-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Snake Bite lineup to play post plant and delay the defuse."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Main to A Site Post Plant Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4viper-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Snake Bite lineup to use during post plant and when enemies tap the Spike."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site One Way Smoke for Defender Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-ascent-offense-bSite-bSiteCT-oneWaySmoke.mp4",
+            "difficulty": "easy",
+            "description": "This smoke allows you to see the feet of anyone pushing through the CT door to B Site."
+        }
+    ]
+}

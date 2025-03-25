@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Site Retake Blindside from C Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-lotus-def-bsite-bsite-blindside.mp4",
+            "difficulty": "easy",
+            "description": "Use this Blindside when retaking space on B Site, if enemy players are holding mostly far angles from you, or are pushing into Site through the B Main or A Link chokepoints that connect with B Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "C Main Blindside to Peek from C Site Arches",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-lotus-def-cmain-cmain-blindside.mp4",
+            "difficulty": "easy",
+            "description": "Use this Blindside to flash enemy players pushing through C Main toward C Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Pre-Round A / B Gatecrash Lineup from C",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-lotus-def-defenderspawn-cgravel-gatecrash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective pre-round A / B Side Gatecrash lineup from C."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Pre-Round C Gravel Gatecrash Lineup from A / B ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-lotus-def-defenderspawn-cgravel-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective pre-round C Gravel Gatecrash lineup from A / B."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "totals": 7,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Market to Mid Pop FLASH/DRIVE ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-def-mid-market-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Contest Mid with this powerful pop flash, it will blind Attackers looking to take control. Coordinate a peek with your teammates at Cat, they'll be able to pop out of the smoke to fight."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Main to A Lobby ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3kayo-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to use early for A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid Cubby to Mid Link ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2kayo-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good early round ZERO/POINT to get info on enemies near Mid Link."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Mid Market to B Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1kayo-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to stop a rush or get info of players entering B Main."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Defender Spawn to B Site FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(17)kayo-ascent-def-bdefault-ctspawn-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for B Site from Defender Spawn to stop a plant or kill a planter if they continue to stick it."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Lane to B Main FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)kayo-ascent-def-bmain-blane-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT to disable a Killjoy Ultimate in B Main and prevent a push."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "A Garden to A Cat Walk ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)kayo-ascent-def-acatwalk-agarden-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Cat Walk from A Garden."
+        }
+    ]
+}

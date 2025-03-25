@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "B Site Curveball Site Hold Setups",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-pearl-def-bsite-bsite-curveball.mp4",
+            "difficulty": "easy",
+            "description": "Here are several simple, but effective Curveball setups to defend against the Attackers push into B Site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "A Link Curveball Setup for Attackers Pushing Through Art",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-pearl-def-aart-alink-curveball.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Curveball setup to hold the push from enemy players pushing through Art from A Link."
+        }
+    ]
+}

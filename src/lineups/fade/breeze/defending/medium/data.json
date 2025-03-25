@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Back A Site Hold / Retake Haunt from A Yellow",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-backasite-ayellow-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Site hold / Retake Haunt from Yellow for the back side of A Site. This not only scans enemy players on the back side of the left A Pyramid, but also makes it for difficult for enemy players who are aggressive peeking out from behind the left Pyramid to avoid being scanned."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Front A Site Hold / Retake Haunt from A Pyramids",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-frontasite-apyramids-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Site Hold / Retake Haunt from A Pyramids for the front side A Site. This Haunt lands at an awkward angle for enemy players as they are pushing into the Site, increasing the chances of even briefly scanning enemy players, which trails them and opens them up to be picked off through their team's own Viper wall."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round Elbow / Bottom Mid Haunt from Mid Nest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-breeze-def-midtop-midnest-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a early round Haunt for Elbow and Bottom Mid, that should be used immediately after the spawn barrier goes down."
+        }
+    ]
+}

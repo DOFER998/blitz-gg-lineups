@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Ropes to Market Special Delivery Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-split-def-market-ropes-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, use this Special Delivery lineup and coordinate an aggressive play towards Attackers at Market."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Full B Main Armageddon Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-split-def-bmain-bmain-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Armageddon when Attackers have taken control of B Main, or looking to take the ultimate orb for a more successful Armageddon play. "
+        }
+    ]
+}

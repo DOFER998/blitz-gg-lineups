@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Simple Mid Box Flash Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-breeze-def-mid-middoors-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Flash off of Boxes outside of Mid Doors to allow you to aggressively peek Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Flash Pyramid to Hold A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-breeze-def-asite-asite-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Blindside enemies off of Pyramids to allow you to hold A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Site to Attacker Spawn Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)yoru-breeze-def-tspawn-bsite-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Gatecrash to go from B Site to Attacker Spawn. This allows you to flank Mid and both bomb sites."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Tunnel to B Wall Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)yoru-breeze-def-bwall-atunnel-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "This is an incredible Gatecrash to rotate to B Site from A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Pyramid to A Cave Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)yoru-breeze-def-asite-apyramid-blindside.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Blindside to flash enemies pushing onto A Site or to blind enemies playing in A Cave delaying a push."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Hall to Attacker Spawn Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)yoru-breeze-def-tspawn-ahall-gatecrash.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Gatecrash to get into Attacker Spawn and flank Bottom Mid along with both A Site and B Site."
+        }
+    ]
+}

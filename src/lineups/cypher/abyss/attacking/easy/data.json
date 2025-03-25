@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Default Middle Cam For Information",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-abyss-atk-mid-mid-cam_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, but powerful way to gather information at mid. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-abyss-atk-bside-aside-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here are simple, yet effective Trapwires you can use every round. Defenders are able to jump over the A Trapwire, however."
+        }
+    ]
+}

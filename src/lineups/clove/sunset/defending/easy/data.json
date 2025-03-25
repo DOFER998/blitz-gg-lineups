@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Stairs B Main Meddle Play ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-def-bmain-bmain-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to set up a favorable fight towards B Main with added utility from your teammates."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Left Mid Box One Way Ruse Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-def-mid-mid-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this one way lineup to contest for Mid control, early into the round. Teammates from Market can also hold and contest the one way from their angle."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Aggressive Stairs B Main Ruse Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-def-bmain-bmain-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Aggressively fight for B Main control with this standard Ruse, making it easier for you and your team to contest Attackers."
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Default A Main Hold One Way Ruse ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-sunset-def-amain-amain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but strong one way smoke to pressure Attackers early into the round."
+        }
+    ]
+}

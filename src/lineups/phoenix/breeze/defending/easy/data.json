@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "B Tunnel to B Main Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)phoenix-breeze-def-bmain-btunnel-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Hot Hands to burn enemies pushing onto B Site and to also delay a push onto B Site by blocking the entrance in flames."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "phoenix",
+            "title": "A Pyramid to A Cave Curveball",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)phoenix-breeze-def-asite-leftapyramid-curveball.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Curveball to blind enemies pushing onto A Site or to blind enemies in A Cave to delay a push or to swing onto."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Aggressive Cyber Cage to Push Through B Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-split-atk-btower-midmail-cybercage.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Cyber Cage that can be used to push through, and / or take control of B Tower."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Early Round A Main Info Spycam + A Lobby Flank Trapwire",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-split-atk-amain-alobby-spycam.mp4",
+            "difficulty": "medium",
+            "description": "This combination of a Spycam and Flank Trapwire makes it much harder for Defenders to flank via this part of the map while also providing you with valuable information at the start of the round + the rest of the round as needed.\n"
+        }
+    ]
+}

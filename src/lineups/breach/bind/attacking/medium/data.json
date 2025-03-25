@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Full Utility B Site Execute Stun ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-bsite-blong-stun_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, in order to successfully shut down Defenders playing on the B Site. Your Aftershock will prevent Defenders at Elbow from helping their teammates on site. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Full Utility A Site Execute + Stun U-Hall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-uhall-short-stun_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, to successfully shut down Defenders playing in U-Hall. This flash will blind Defenders playing back site, it will not blind your teammates scaling the site. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "A Site Post Plant Aftershock + Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-bind-atk-asite-uhall-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Combo your utility like so, to disrupt Defenders from retaking the site successfully. You can peek out of U-Hall with just the Aftershock and fight Defenders dropping from Heaven without the flash."
+        }
+    ]
+}

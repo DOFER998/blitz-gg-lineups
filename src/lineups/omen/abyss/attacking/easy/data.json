@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Heaven + Spawn Execute Dark Cover ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-atk-asite-asite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective combination of utility to scale the A Site."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Default Top Mid Smoke + Door Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-atk-topmid-topmid-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This is a great smoke to default, as it isolates only one angle to contest from for Defenders. Use it to set up a potential lurk play towards the door."
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Standard B Site Heaven and Spawn Dark Cover + Paranoia ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-abyss-atk-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to enable your team when executing the B Site."
+        }
+    ]
+}

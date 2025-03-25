@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "A Truck Post Plant One Way Ruse ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-atk-truck-truck-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "For post plant, use this one way at truck for a strong advantage."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "B Default Post Plant One Way Ruse ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-bind-atk-bsite-bsite-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "During the post plant, use this one way to gain an advatange over the Defenders."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "B Green to B Site Default Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/phoenix-icebox-atk-bsite-bgreen-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good hot hands to stop the defuser from defusing the bomb."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Nest to A Pipes Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)phoenix-icebox-atk-backapipes-anest-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good hot hands to push people out of A Pipes and get a quick frag."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Pipes to A Site Curveball",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)phoenix-icebox-atk-asite-apipes-curveball.mp4",
+            "difficulty": "easy",
+            "description": "This is a good curveball to blind the entirety of A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Nest to A Site Nest Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)phoenix-icebox-atk-atower-anest-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good hot hands to prevent enemies from defusing a bomb or to prevent enemies from peaking if they are inside A Site Nest."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "phoenix",
+            "title": "A Nest to A Site Hot Hands",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)phoenix-icebox-atk-asitedefault-anest-hothands.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Molotov to stop the defenders from defusing the bomb during post plant."
+        }
+    ]
+}

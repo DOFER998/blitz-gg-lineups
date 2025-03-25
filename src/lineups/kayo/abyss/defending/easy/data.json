@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Unbreakable Early Mid Information ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-abyss-def-mid-mid-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, yet powerful way to gain information early into the round towards mid."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "B Main Info Knife From Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-abyss-def-bmain-bsite-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective way to get early information towards B Main."
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "kayo",
+            "title": "Start Round Unbreakable A Main Info ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-abyss-def-amain-asite-knife_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Either at the start of the round, or early into it, throw this knife for easy information towards the A side of the map. "
+        }
+    ]
+}

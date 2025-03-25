@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Dish Guiding Light For Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-spawn-dish-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, yet effective info flash you can use to confirm information on any Attackers towards the second spawn. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Aggressive Sands Guiding Light Through Door",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-def-amain-sands-flash_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this pop flash to enable yourself a favorable fight towards A Main. In addition, your teammates from deep A Main can fight off this play."
+        }
+    ]
+}

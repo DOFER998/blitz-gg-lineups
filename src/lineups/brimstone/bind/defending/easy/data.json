@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "Standard A Delay Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-bind-def-asite-asite-skysmoke_2.mp4",
+            "difficulty": "easy",
+            "description": "Use these smokes to delay Attacker's attempting to push into A Site / deny information from them as they group up to push into Site."
+        }
+    ]
+}

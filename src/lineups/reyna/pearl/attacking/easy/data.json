@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Ramp Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4reyna-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "A good Leer to approach this angle though be wary of enemies holding from Back B Site as this Leer will not affect the common Operator angle."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Mid Doors Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3reyna-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "A good Leer to advance through and take control of Mid Doors."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Main to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1reyna-pearlr.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Leer to throw when taking control of A Main to peek the front A Site angle."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive A Site to A Lobby Grav Net Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-haven-def-alobby-asite-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this Grav Net lineup to contest for A Lobby at the start of the round. You can contest from both Long or Short, but it is recommended to fight with teammates."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Garage Door Grav Net + Sensor Hold Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-haven-def-garagedoor-garage-gravnet_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to contest for Garage control. Off contact, throw your Grav Net like so, to shut down the Attackers' push. "
+        }
+    ]
+}

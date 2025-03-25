@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Mid Cannon to B Site Poison Cloud",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)viper-breeze-atk-bsite-midcannon-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This is a good poison cloud for B Site from Mid Cannon."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Mid Cannon to B Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)viper-breeze-atk-bsite-midcannon-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This is a good wall for a B Site execute from Mid Cannon."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Lobby to A Hall Snake Bite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)viper-breeze-atk-ahall-alobby-snakebite.mp4",
+            "difficulty": "easy",
+            "description": "This is a good snake bite to clear the corner in A Hall forcing an enemy out or getting a kill."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Lobby to A Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(2)viper-breeze-atk-asite-alobby-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This is a good toxic screen to cut A Site in half and allow you to plant the bomb."
+        }
+    ]
+}

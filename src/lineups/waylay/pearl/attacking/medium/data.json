@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Attack A Main Saturate Dash Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-atk-amain-amain-saturate_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "At the start of the round, throw your Saturate to deny Defenders from getting an early angle towards A Main and capitalize on the utility with your dash for a favorable fight."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "B Backsite Dash + Refract Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-atk-bsite-bsite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Quickly contest Defenders towards backsite with this setup, allowing you to also clear anyone playing behind Screens."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Art to A Dash Refract Split",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-atk-asite-asite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When splitting the A Site, use this setup to blitz your way into a fast angle and take the site. "
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "A Site to Pit Dash Refract Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-pearl-atk-asite-asite-dash_2(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but effective Light Speed lineup to contest Defenders from an aggressive angle behind them."
+        }
+    ]
+}

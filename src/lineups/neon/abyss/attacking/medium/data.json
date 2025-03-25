@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "B Site Fast Lane + Stun and Slide Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-abyss-atk-bsite-bsite-lane_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Entry the B Site like so, and isolate any potential Defenders playing towards back site. "
+        },
+        {
+            "map": "abyss",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Site Fast Lane + Slide and Stun Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-abyss-atk-asite-asite-lane_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Entry the A Site like so, to clear out the left side of the site. "
+        }
+    ]
+}

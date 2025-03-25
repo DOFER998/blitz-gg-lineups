@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Early Round A Main One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-def-amain-asite-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round A Main one way smoke that is typically used to support your teammate's efforts to control A Main. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Main Paranoia ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5omen-ascent.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Paranoia to use when your teammates want to get aggressive in A Main."
+        }
+    ]
+}

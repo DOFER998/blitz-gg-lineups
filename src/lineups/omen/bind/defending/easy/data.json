@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "omen",
+            "title": "One Way for Deep Showers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-def-showers-showers-smoke_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective one way smoke to make it difficult for Attackers to successfully take control of."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Reclear B Long With Paranoia + Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-def-blong-wood-paranoia_2.mp4",
+            "difficulty": "easy",
+            "description": "Place your smoke at the end of B Long, and flash like so for a strong and simple way to reclear. However, waste no time smoking if you have the timing to throw your flash."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Standard A Site Delay Dark Covers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-def-asite-amain-darkcover_2.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard Dark Covers to delay enemy players from pushing into A site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Hookah to Ramp Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5omen-bind.mp4",
+            "difficulty": "easy",
+            "description": "A good Paranoia to peek Ramp from Hookah."
+        }
+    ]
+}

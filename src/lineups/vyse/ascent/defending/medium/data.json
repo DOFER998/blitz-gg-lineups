@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Aggressive Tree / Door Hold Shear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-def-door-tree-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here's an aggressive setup that enables you to take a more favorable fight when Attackers execute the A Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "vyse",
+            "title": "Defender Lane Razorvine + Shear Combo ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-ascent-def-lane-lane-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use this simple, but powerful combination of utility to catch Attackers off guard."
+        }
+    ]
+}

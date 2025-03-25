@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Bricks Wall to Peek A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-bricks-bricks-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use your wall to peek up over Bricks and cover your team's approach onto A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Simple B Tunnel Slow Orbs From B Back",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-bback-btunnel-sloworb.mp4",
+            "difficulty": "easy",
+            "description": "These lineups are both easy to do and land a Slow Orb in the same spot from both sides of B Back."
+        }
+    ]
+}

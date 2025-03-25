@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round Mid Push Info Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-mid-attackerspawn-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Use this to make it much more difficult for enemy players to take control of Mid early in the round. If the enemy team pushes Mid a lot though, be aware of the Dizzy potentially being shot."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round A Long Dizzy Variations (Default / Fast Push)",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-along-alobby-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Use one of these early round Dizzy variations for A Long at the very start of the round for either taking fast control of A Long, or safely gathering info in a Default."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Simple Full Utility B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-haven-atk-bsite-mid-wingman.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple, but effective full utility B Site execute. "
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round Haunt to Clear out Close A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-asite-amain-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Haunt to reveal players playing from close left under Rafters , players pushing up close right after the Spawn Barrier goes down, and several other commonly held positions deeper into Site that the Haunt has vision of."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Simple Prowler to Clear out Top Mid and Mid Mail",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-split-atk-midtop-ramen-prowler.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to clear out some of the positions that players will commonly play from in Mid Top and Mid Mail."
+        }
+    ]
+}

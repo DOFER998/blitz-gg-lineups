@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "B Long + Garage Armageddon Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-def-blong-blong-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Attackers to give up B Long control or fight in an unfavorable scenario with this simple Armageddon lineup."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Start Round B Long Special Delivery",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-def-blong-blong-delivery_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, delay and look for a play towards B Long with your teammates using this Delivery lineup."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "tejo",
+            "title": "Default Nest Salvo Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-icebox-def-nest-nest-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Push Attackers away from the Nest angle when they are contesting for A control, or simply use this lineup to force Initiators off utility and into an unfavorable spot."
+        }
+    ]
+}

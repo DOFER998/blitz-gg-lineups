@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Aggressive Garage Turret ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-garage-garage-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Make sure to place your molly at the entrance of Garage when the barrier drops for a strong set piece, which lets you fight for Garage more convincingly. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "C Site Retake Lockdown ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-csite-garage-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to retake the C Site with your Lockdown. It clears all of site, except for back Platform, and pushes Attackers back into deep C Long."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "B Site Turret + Garage Alarmbot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-bsite-bsite-turret_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, yet effective Killjoy setup to cover Mid on Haven."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "A Link To Front Side Of A Default Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-frontadefault-alink-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This nanoswarm lineup is useful for potentially stopping players from planting the Spike on the front side of Default on A Site, and even if it doesn't it has the potential to do some serious damage and open up some opportunities for your teammates to retake A Site."
+        }
+    ]
+}

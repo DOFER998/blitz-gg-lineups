@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "clove",
+            "title": "C Main One Way + Mound Meddle Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-lotus-def-cmound-cmain-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to contest for C Main control."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "clove",
+            "title": "Start Round A Main Meddle Utility",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-lotus-def-amain-asite-meddle_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, use this Meddle lineup for contesting A Main control."
+        }
+    ]
+}

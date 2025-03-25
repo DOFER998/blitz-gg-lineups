@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Wall + Orb Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-bind-atk-bsite-bshort-poisonorb_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup when executing into A Site with your team, or faking for your team on the other side of the map."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Site Execute Poison Orb + Mollies",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-bind-atk-bsite-bshort-poisioncloud_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to execute onto B Site. "
+        }
+    ]
+}

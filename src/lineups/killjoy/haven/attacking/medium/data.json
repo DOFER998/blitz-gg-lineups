@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Nanoswarm Lineup For C Site Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-csite-clong-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this molly lineup to punish Defenders from rotating from C Link to C Site, and flushes anyone sitting in the spawn smoke during your C execute."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Long To A Tower Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-atk-aheaven-along-nanosawrm.mp4",
+            "difficulty": "medium",
+            "description": "This Nanoswarm lineup is useful for stopping players from peeking from A Tower while your teammates are pushing into A Site."
+        }
+    ]
+}

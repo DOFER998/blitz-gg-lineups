@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Site Stealth Drone + Salvo Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-atk-asite-asite-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Clear the right side of A Site and Tree with this Drone, and then follow up with a Guided Salvo to flush out Defenders playing the site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "C Site Drone + Salvo Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-lotus-atk-csite-csite-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Successfully support your team with this combination of utility towards the C Site, making it difficult for Defenders to play on site."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Full Utility B Site Hold / Delay Setup from A Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-split-def-bsite-bheaven-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great full utility Site Hold for B Site from B Heaven, that effectively delays the Attackers push out onto Site. You can also use this from under Heaven, but that is much more risky."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Full Utility A Site Site Hold / Delay Setup from A Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-split-def-asite-aheaven-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great full utility Site Hold for A Site from A Heaven, that effectively delays the Attackers push out onto Site."
+        }
+    ]
+}

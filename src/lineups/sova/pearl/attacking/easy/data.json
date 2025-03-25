@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Main to A Site Double Shock Dart Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6sova-pearl.mp4",
+            "difficulty": "easy",
+            "description": "This is a good spot to shoot two Shock Darts to kill anyone defusing the spike during post plant."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Restaurant to A Art Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5sova-pearl-rerender.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Recon Bolt to scan A Art and get a pick on enemies pushing into A Art."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Shops to Mid Doors Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4sova-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Recon Bolt to scan behind Mid Doors from Mid Shops allowing your team to take control of the area."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Attacker Side Spawn to Mid Doors Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/3sova-pearl.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Recon Bolt to assist your team going into Mid Doors and also allowing you to peek from Mid Window or hold for an A Main push."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Main to A Site Owl Drone & A Main Recon Dart",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/2sova-pearl-rerender.mp4",
+            "difficulty": "easy",
+            "description": "This is a good combo to effectively use your utility as Sova to gain control of A Main and then clear the common corners on A Site for when your team begins to execute."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Attacker Side Spawn to Back B Site Recon Arrow",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/1sova-pearl.mov",
+            "difficulty": "easy",
+            "description": "A good recon arrow from Attacker Side Spawn that lands at the back of B Site allowing you to scan a majority of the common angles on the site."
+        }
+    ]
+}

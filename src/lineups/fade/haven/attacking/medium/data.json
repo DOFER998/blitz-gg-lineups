@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Post Plant Back C Site Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-atk-backcsite-csitedefault-haunt-RE.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Haunt to reveal players in back C Site as they try to retake Site post plant. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Front A Site + A Short Haunt from A Short Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-atk-ashort-ashort-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a Haunt that clears out the front side of A Site, and Short."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round Mid Aggression from Mid Window",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-atk-midcourtyard-midwindow-prowler.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective way to stop enemy players from pushing into Mid Courtyard at the very beginning of the round, and then capitalize on that after taking space in Mid to then throw a Haunt deep into back B Site. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "fade",
+            "title": "Early Round Haunt A Long Haunt To Clear Opper",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-haven-atk-along-agarden-haunt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great early round Haunt that can be use to clear out a potential opper at the bottom of A Long."
+        }
+    ]
+}

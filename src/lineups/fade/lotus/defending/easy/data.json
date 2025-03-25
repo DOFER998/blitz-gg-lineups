@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "fade",
+            "title": "A Main Seize + Raze Paint Shells Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-lotus-def-bsitepaintshells-bmain-bsite-seize.mp4",
+            "difficulty": "easy",
+            "description": "Use this early round A Main Seize + Paint Shells combo to get picks early in the round by catching enemy players who attempt to push through A Main quickly off guard, while also creating a window of opportunity that your team can use to gain an advantage when contesting A Main. You can also combo this with other utility that can work in combination with your Seize ability."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "fade",
+            "title": "C Site Chokepoint Delay / Site Hold Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-lotus-def-csite-chall-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Use this Chokepoint Delay / Site Hold Haunt to defend C Site from Attackers pushing through the C Main / C Site Chokepoint."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round A Main Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-lotus-def-amain-amain-haunt.mp4",
+            "difficulty": "easy",
+            "description": ".Here's a simple, but effective early round A Main Haunt."
+        }
+    ]
+}

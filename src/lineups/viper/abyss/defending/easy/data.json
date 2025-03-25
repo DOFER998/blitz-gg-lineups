@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Default Mid and B Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-abyss-def-mid-bsite-wall_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Toxic Screen to provide a lot of value for you and your team. "
+        },
+        {
+            "map": "abyss",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Main One Way Poison Cloud Hold ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-abyss-def-amain-asite-orb_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's a strong, and simple Poison Cloud one way to pressure A Main."
+        }
+    ]
+}

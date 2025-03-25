@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Aggressive 410 to Nest Dash Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-icebox-def-nest-410-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Early into the round, use this Light Speed lineup to quickly seek a play towards lower A Main. "
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Refract to Top Screens",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-icebox-def-generator-generator-refract_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Set up your Refract top Screens like so, to play multiple aggressive angles and take unpredictable fights."
+        }
+    ]
+}

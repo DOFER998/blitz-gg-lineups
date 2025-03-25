@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "neon",
+            "title": "C Site Retake Fast Lane for Back Plat",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-haven-def-csite-cplatform-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Fast Lane to retake Back Plat on C Site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Full Utility B Site Site Hold / Delay Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-haven-def-bsite-alink-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great full utility Site Hold for B Site, that effectively delays the attackers pushing out onto Site. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "neon",
+            "title": "C Garage High Gear Jiggle Peek ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-haven-def-cgarage-cgarage-highgear.mp4",
+            "difficulty": "medium",
+            "description": "Here's an effective, but sometimes risky way to gather information on players peeking into Grass at the beginning of the round. Try not to use this too much throughout a match however, since players will start to counter this the more often you do it throughout the Defending half."
+        }
+    ]
+}

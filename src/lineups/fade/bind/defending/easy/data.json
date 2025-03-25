@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Aggressive TP Seize to Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-def-hookah-short-seize_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Seize lineup to fight Attackers taking Hookah. It is recommended to coordinate utility with your teammates to ensure a successful crunch."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "fade",
+            "title": "A Site Retake Haunt + Prowler Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-def-asite-asite-haunt_4.mp4",
+            "difficulty": "easy",
+            "description": "Combo your utility as shown in the video for a simple way to retake the A Site. Attackers scanned by the Haunt will be tracked down by your Prowlers."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round Top B Long to B Fountain Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-atk-bfountain-bgarden-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's a Haunt lineup for B Fountain from Top B Long that has to be used at the very beginning of the round."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round Hookah to Fountain Haunt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-def-bfountain-bhookah-haunt.mp4",
+            "difficulty": "easy",
+            "description": "Here's an early round Haunt lineup for B Fountain from Hookah. You may want to wait a couple of seconds into the round to throw this Haunt, to lower the chances that players will be able to dodge it.\n"
+        }
+    ]
+}

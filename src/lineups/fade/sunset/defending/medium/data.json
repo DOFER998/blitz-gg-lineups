@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early B Main Seize Play to Stairs",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-sunset-def-bmain-link-seize_1(hard).mp4",
+            "difficulty": "medium",
+            "description": "Aggressively play towards B Main with this Seize lineup, coordinating utility with your teammates for a favorable fight. "
+        },
+        {
+            "map": "sunset",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early A Main Haunt for Info",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-sunset-def-amain-amain-haunt_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Gain info on attackers pushing through A Main with this early round Haunt lineup."
+        }
+    ]
+}

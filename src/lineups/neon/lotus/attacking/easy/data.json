@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Aggressive A Door Relay Bolt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-lotus-atk-adoor-amain-relaybolt.mp4",
+            "difficulty": "easy",
+            "description": "Use this Relay bolt to clear out commonly held positions in A Door, to reduce the amount of resistance your team faces when pushing into A Door from A Main.\n"
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Aggressive Early Round A Main Relay Bolt to Contest Space",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-lotus-atk-amain-alobby-relaybolt.mp4",
+            "difficulty": "easy",
+            "description": "Use this aggressive early round Relay Bolt to contest space in A Main."
+        }
+    ]
+}

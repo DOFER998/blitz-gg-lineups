@@ -1,0 +1,86 @@
+{
+    "totals": 9,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Gatecrash TP Hookah Play ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-tp-short-decoy_1.mp4",
+            "difficulty": "medium",
+            "description": "Confuse your opponents with this combination of utility, as you'll be able to essentially pressure two parts of the map at once. You can mix up the timing and choose to take activate your Gatecrash early or late, meaning that your opponents will not be able to successfully tell where you are. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Contest B Long With This Blindside Lineup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-blong-hookah-blindside_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's an extremely powerful popflash you can use to contest Attackers at B Long, as it will blind anyone down the lane and towards the teleporter. As shown in the video, you can use this to support your teammates or set yourself up for a play."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Gatecrash Lineup From B Hall To Back Left A Site Cubby ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-backleftasite-bhall-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This Gatecrash lineup allows you to hold B, while preparing to rotate to the back left A Site Cubby, or anywhere else on the Gatecrash's path to the back left A Site Cubby. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Tower To B Elbow Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-belbow-atower-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This Gatecrash lineup allows you to play inside of A Tower while preparing to rotate to either B Elbow, or anywhere along the Gatecrash's path to B Elbow. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "A Short Pop Flash From Outside Of A Lamps",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-ashort-outisdelamps-blindside.mp4",
+            "difficulty": "medium",
+            "description": "This pop flash can be useful, since the only indicator of where the flash will appear before they visually see it is the sound queue of the flash bouncing off of the wall it's been thrown at, and so players may not react to it as quickly as if they saw the exact spot the flash was bouncing off. Try to isolate 1v1's on players pushing up and expose as little of yourself as possible when using this pop flash though, since a player playing anti-flash could easily pick you off if you were to peek poorly, and they got the timing right when avoiding the flash."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Early Round A Tower Gatecrash To Rotate From B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-atower-bsite-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for rotating to A Site quickly, typically toward the beginning of the round - but should be done with some caution, since enemy players could try to get you to teleport from B Site, just to make B Site easier to take."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Early Round B Hall Gatecrash To Rotate From A Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-bhall-defendersidespawn-gatecrash.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for rotating to B Site quickly, typically toward the beginning of the round, but should be done with some caution - since enemy players could try to get you to teleport from A Site, just to make A Site easier to take. However you could throw this back at them by having one teammate play B Site, teleporting early in the round, and leaving your normal setup on A Site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Defender Spawn Dimentional Drift To Retake Right Side Of A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-asite-defendersidespawn-dimentionaldrift.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for gaining information on B Site safely, but should be done with some caution, since players could chase you into the A Teleporter, or wait for you to teleport back to your Gatecrash."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Hall Dimentional Drift To Retake B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-bhall-defendersidespawn-dimentionaldrift.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for gaining information on B Site safely, but should be done with some caution, since players could chase you into elbow, or wait for you to teleport back to your Gatecrash."
+        }
+    ]
+}

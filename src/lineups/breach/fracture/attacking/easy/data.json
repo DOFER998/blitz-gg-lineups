@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Post Plant Aftershock For B Site Corner From B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-atk-bsite-btree-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "Here's a post plant Aftershock setup for the B Site Corner from B Tree."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "B Site / B Tower Rolling Thunder From B Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-atk-bsite-frontbtree-rollingthunder.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great Rolling Thunder from B Tree For B Site / B Tower."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "breach",
+            "title": "Support Flashpoint For A Main ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-fracture-atk-amain-attackerspawn-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "Here's an early round Flashpoint to support your teammates as they peek into A Main from A Hall."
+        }
+    ]
+}

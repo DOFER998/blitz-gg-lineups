@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Early Round Paint Shells to Garage From Yellow",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-garage-yellow-paintshells_1.mp4",
+            "difficulty": "easy",
+            "description": "Start your round with this Paint Shells lineup to isolate Attackers looking to take B Long control. You can also use this to take Initiators off their utility, or potentially kill them."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "raze",
+            "title": "A Site To A Nest Tower Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-asite-anesttower-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for either doing damage to players in the tower in A Nest, or potentially getting a pick there, especially if a player there is low."
+        }
+    ]
+}

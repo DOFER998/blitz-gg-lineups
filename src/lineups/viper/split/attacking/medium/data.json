@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Wall + Orb for Rafters B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-rafters-market-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Enable your team with this combination of Viper utility, as it blocks off any B Heaven player's field of vision. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Market Snakebite to B Site Pillar ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-pillar-market-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this molly lineup to flush out any Defenders playing that powerful pillar position. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Standard B Site Default Orb From Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-news-market-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong default orb you can throw at the start of the round to pressure any B Site Defender, as you threaten a lurk or shooting B Heaven players from the side. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Market to B Default Post Plant Snakebite",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-defaultplant-market-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple post plant molly lineup you can throw to prevent Defenders from defusing at B Default."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Post Plant A Site Snake Bite Lineup from A Lobby",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-asite-amain-snakebite.mp4",
+            "difficulty": "medium",
+            "description": "Here's a post plant Snake Bite lineup for A Site from A Lobby, that can be used for two different common spike plant spots on Site."
+        }
+    ]
+}

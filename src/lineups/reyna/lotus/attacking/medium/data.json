@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Main Angle Breaking Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-lotus-atk-amain-amain-leer.mp4",
+            "difficulty": "medium",
+            "description": "Use this Leer from B Main to break many of the commonly held angles inside of B Site. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Angle Breaking B Site Leer from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-lotus-atk-bsite-bpillars-leer.mp4",
+            "difficulty": "medium",
+            "description": "Use this Leer from B Main to break many of the commonly held angles inside of B Site. "
+        }
+    ]
+}

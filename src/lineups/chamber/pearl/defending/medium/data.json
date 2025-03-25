@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Art Trip + A Site Off-Angle Rendezvous ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-def-art-art-trip_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Here are two good off-angle setups towards the A Site that catches Attackers off guard. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Main to Site Aggressive Rendezvous and Trip",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-def-amain-amain-rendezvous_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Play heavy A Main side with this setup, allowing you to get a pick towards main and delaying Attackers attempting to execute the site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Mid Doors Trademark + Rendezvous Close Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-def-doors-doors-trip_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "This Trademark gives your team vital information when enemy players attempt to lurk or push through Mid Doors. This gives you the flexibility to play passive or aggressive in and around Mid Doors, and Art."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "B Site Hold Screens Off Angle Rendezvous + Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-pearl-def-blong-blong-trip_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Here's an off angle Rendezvous setup that you can use a couple of times through the Defending half to catch enemy players off guard. "
+        }
+    ]
+}

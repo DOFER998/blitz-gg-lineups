@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "A Site Chokepoint Delay Sky Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-ascent-def-asite-atree-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke + Incendiary setup to delay people from pushing through the A Main chokepoint into A Site.\n\n"
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "brimstone",
+            "title": "B Site Chokepoint Delay Sky Smoke + Incendiary",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-ascent-def-bmain-defenderspawn-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use this Sky Smoke + Incendiary setup to delay people from pushing through the B Main chokepoint into B Site."
+        }
+    ]
+}

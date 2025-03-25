@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "killjoy",
+            "title": "Standard C Site Turret Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-haven-def-csite-garage-turret_1.mp4",
+            "difficulty": "pro",
+            "description": "This combination of Killjoy utility focuses on retaking B, while the goal is to contest for Garage/C Site. This setup allows for more freedom to rotate, as it covers 3 major parts of the map. Alternatively, you can place your Alarmbot in Garage with your Mollies spread out on the map. "
+        }
+    ]
+}

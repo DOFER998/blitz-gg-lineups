@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Top Site Salvo + Drone Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-atk-asite-asite-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Make it extremely difficult for Defenders to play on site at A with this combination of utility."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "A Main Door Salvo Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-atk-door-door-salvo_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up an unpredictable play towards Sands and Door with this Salvo lineup, it is recommended to coordinate with teammates here."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Site Armageddon Clear Tower",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-atk-bsite-bsite-armageddon_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Force Defenders to give up site or take an unfavorable, aggressive fight towards B Site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "tejo",
+            "title": "B Drone + Delivery Combos Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/tejo-fracture-atk-bsite-bsite-drone_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Depending on what your Drone sees, use your Special Deliery to stun Defenders on site."
+        }
+    ]
+}

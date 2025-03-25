@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "B Site Trailblazer From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-atk-bsite-tree-tiger_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates with this simple Trailblazer pathing, clear close angles for your teammates entrying on site."
+        },
+        {
+            "map": "fracture",
+            "side": "attacking",
+            "agent": "skye",
+            "title": "Upper / Lower A Site Trailblazer Pathing From A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-fracture-atk-asite-amain-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This Trailblazer pathing is great for clearing out all of Lower / Upper A Site from A Main."
+        }
+    ]
+}

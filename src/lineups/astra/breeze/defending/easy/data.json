@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Bottom Mid and Elbow One Way",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bottommid-tunnel-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Control visibility in mid and B with these one way stars to allow you to hold off a push."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Default B Defend Stars",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bmain-bsite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these stars to keep a B push under control while forcing attackers into the line of fire."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "Default A Defend Stars",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-amain-asite-nebula_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This lineup allows you to keep control of A Site visibility and force attackers into the line of fire."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "astra",
+            "title": "B Main Anti-Post Plant Gravity Well Nova Pulse Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-def-bmain-bsite-gravitywell.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for stopping players from setting up Post-Plant lineups from behind the cover on the right side of B Main when looking into B Main from B Site."
+        }
+    ]
+}

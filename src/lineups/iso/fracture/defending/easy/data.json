@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Early A Main Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-def-amaina-amain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this easy, yet powerful Undercut to set up an aggressive fight towards A Main early into the round."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Early Dish Undercut Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-def-dish-dish-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, throw your Undercut towards Dish to contest with an advantage. "
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Start Round B Main Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-fracture-def-bmain-bmain-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the start of the round, throw your Undercut towards B Main like so, for an advantageous fight. You can also combo with your teammates utility for an early pick."
+        }
+    ]
+}

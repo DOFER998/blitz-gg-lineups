@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "B Site To A Short Blindside",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-ashort-bsite-blindside.mp4",
+            "difficulty": "pro",
+            "description": "This Blindside lineup can be useful to flash players pushing up A Short, from across the map inside of B Site."
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "yoru",
+            "title": "Attacker Side Cave Gatecrash Lineup From B Teleporter",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-bind-def-attackersidecave-bteleporter-gatecrash.mp4",
+            "difficulty": "pro",
+            "description": "This Gatecrash lineup can help you to get behind the Attackers, and flank them in an unexpected way, if executed properly with enough information from your team, or map awareness. Be careful though, since as of this lineup being posted the sound of Yoru teleporting to this Gatecrash can be heard for up to 45 meters away."
+        }
+    ]
+}

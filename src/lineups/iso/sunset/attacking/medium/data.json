@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "B Site Full Util Contingency",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-sunset-atk-bsite-bsite-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use Contingency to push onto B Site while Undercut helps deal with enemies on the other side of site."
+        }
+    ]
+}

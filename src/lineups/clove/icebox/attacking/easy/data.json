@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Aggressive B Site Ruse Smokes to Contest Mid Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-atk-bsite-bsite-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these set of smokes when looking to contest aggressively towards the B Site. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard B Site Ruse Smokes For Snow + Orange",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-atk-bsite-bsite-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use these set of smokes when you are looking to prioritize planting the spike, however top B Site is open. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Nest A Post Plant Ruse One Way ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-atk-asite-asite-ruse_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, but powerful one way smoke to use during post plant at A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "clove",
+            "title": "Standard Front Site A + Heaven Ruse Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/clove-icebox-atk-asite-asite-ruse_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this standard, but powerful smoke setup when executing the A Site."
+        }
+    ]
+}

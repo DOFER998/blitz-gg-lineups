@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "A Nest To A Site Paintshells",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-atk-asite-anest-paintshells.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for stopping players from defusing the spike to the right of the boxes under the tower on A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "raze",
+            "title": "Mid Blue To Top Of B Tube Blast Pack",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-icebox-def-btubeboost-leftmidblue-blastpack.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for getting vision of much of the map, and can help you to take control of mid especially."
+        }
+    ]
+}

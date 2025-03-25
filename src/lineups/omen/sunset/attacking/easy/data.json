@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Exec Smokes + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-sunset-atk-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Disrupt defender spawn sight lines on B Site, while Paranoia forces defenders off of the right side."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Site Exec Smokes + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-sunset-atk-asite-amain-smokes_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Disrupt defender spawn sight lines on A Site, while Paranoia forces defenders out of position."
+        }
+    ]
+}

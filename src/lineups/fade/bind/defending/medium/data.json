@@ -1,0 +1,14 @@
+{
+    "totals": 1,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Start Round Short Haunt From U-Hall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-bind-def-short-uhall-haunt_2.mp4",
+            "difficulty": "medium",
+            "description": "At the start of the round, throw this Haunt for fast information towards Short. It'll scan players tucking towards Market."
+        }
+    ]
+}

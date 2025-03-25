@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Default Early Mid Info Dart From Pallet",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-def-mid-pallet-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a fast dart lineup you can use to support teammates looking for engagements at Mid, or to mix it up."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Info Dart From A Default to Belt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-def-belt-default-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great default dart you can use to secure information on Attackers at Belt or Lower."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Mid Boiler To B Green / Mid Blue Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-icebox-def-bgreen-midboiler-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for both scanning players near the B Green Spawn Barrier in Attacker Side Spawn, and players in and around Mid Blue."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Hut to B Green Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)sova-icebox-def-bgreen-bhut-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a good recon bolt to spot enemies heading towards B Site from B Hut."
+        }
+    ]
+}

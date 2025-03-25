@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Early Round Ramen Leer for Top Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-split-atk-midbottom-blink-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that can be used to break the angles you are most vulnerable to when peeking Top Mid, creating a short window of time for you and your team to take control of Sight Lines in Mid."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Tower Leer from Mid Mail",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-split-atk-btower-midmail-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that can be used to push through, and / or take control of B Tower from Mid Mail."
+        }
+    ]
+}

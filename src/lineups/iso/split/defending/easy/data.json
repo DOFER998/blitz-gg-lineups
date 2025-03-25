@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "iso",
+            "title": "B Site Undercut Default Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-split-def-bmain-bsite-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Fend off attackers at B Site with this Undercut lineup."
+        },
+        {
+            "map": "split",
+            "side": "defending",
+            "agent": "iso",
+            "title": "Ramp to A Main Undercut",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-split-def-amain-ramp-undercut_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Take control of an A Main push by using Undercut to put attackers on the back foot."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Main Flank + Post Plant Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-atk-asite-amain-turret_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to watch both side of the A Main Flank + set up a post plant setup from Short."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Site Ultimate Ability Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-atk-asite-uhall-lockdown_2.mp4",
+            "difficulty": "medium",
+            "description": "Use your ultimate like this when you need / could benefit enough from making it easier for your team to plant the Spike and take strong post plant positions after your team has pushed out of Short into A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Long Flank + Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-bind-atk-bsite-blong-turret_2.mp4",
+            "difficulty": "medium",
+            "description": "Use this setup to hold the B Flank and play post plant from B Long."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Full Utility A Main Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/bind-killjoy-def-asite-asite-turret.mp4",
+            "difficulty": "medium",
+            "description": "Use this to make it really difficult for Attackers to push through the A Main chokepoint."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Short to U-Hall Razorvine Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-atk-uhall-short-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Defenders playing U-Hall from aggressively taking a fight with this Razorvine lineup. Defenders may still peek you from U-Hall, however. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Site Hookah Arc Rose Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-atk-hookah-hookah-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "When executing the B Site from Hookah, use this flash lineup to clear the common angles."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "B Long to Spawn Razorvine Exec",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-atk-spawn-long-razorvine_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy, yet strong Razorvine lineup you can use to disrupt Defenders playing backsite and rotating from spawn."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "vyse",
+            "title": "Top Truck A Site Arc Rose Exec ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/vyse-bind-atk-asite-short-arcrose_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but powerful Arc Rose lineup to flash Defenders holding from backsite. "
+        }
+    ]
+}

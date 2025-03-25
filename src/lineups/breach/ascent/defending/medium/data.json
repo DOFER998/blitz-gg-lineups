@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Aggressive Aftershock Mid Combo From Cat ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-def-cat-tree-aftershock_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong, but simple way to contest for Mid control from Cat. It is recommended to coordinate this play with your teammates Bottom Mid. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Aggressive B Main Control Stun + Flash From Lane",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-ascent-def-bmain-lane-fautline_1.mp4",
+            "difficulty": "medium",
+            "description": "Enable your teammates successfully with this combination of utility, as it will disrupt any Attacker from contesting B Main control."
+        }
+    ]
+}

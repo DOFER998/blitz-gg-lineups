@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "C Site Execute Dart From C Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-csite-clong-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates with this fast, strong dart when taking the C Site. You can combine your ultimate with the dart, Defenders will have a tough time keeping hold of site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Site Execute Dart from A Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-asite-along-dart_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your teammates taking the A Site with this dart, as you'll be able to clear most of site and the Short cubby on site. "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "C Long To Front C Default Shockbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-backdefaultc-clong-shockbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for stopping players from peeking C Long from the back left side of Default on C Site."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Courtyard To B Site Reconbolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-haven-atk-topbsite-midcourtyard-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for revealing players in B Site including the immediate right and left side of the entrance of B Site, making it easier for you and your team to push in from Mid Courtyard."
+        }
+    ]
+}

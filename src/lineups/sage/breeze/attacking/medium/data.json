@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Start Round Nest Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-nest-bottommid-orb_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Slow defenders in Nest with this early round Slow Orb lineup."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Site Right Wall Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-bsite-bsite-wall_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Block off the right side of B Site with this Wall lineup to funnel defenders."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Mid Nest Slow Orb From Mid Bottom",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-midnest-midbottom-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This is an easy to set up Slow Orb for Mid Nest from Mid Bottom that you can use to limit the movements of a player with an op in Mid Nest. Be careful though, since a Jett could still peek with an op and then dash out after taking a shot."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "Aggressive Right A Pyramids Slow Orb From A Shop",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-def-apyramids-ashop-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "This is an easy to set up aggressive Slow Orb from A Shop that you can use to pressure the limit the movements of players behind the right side of the A Pyramids as you and your team push into A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sage",
+            "title": "B Main To Far Back B Site Slow Orb",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sage-breeze-atk-bback-bmain-sloworb.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Slow Orb lineup that you can do from anywhere under the B Main archway that connects B Site to B Main."
+        }
+    ]
+}

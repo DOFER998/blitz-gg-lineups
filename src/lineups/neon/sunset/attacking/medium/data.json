@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Full Util B Site Exec Slide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-sunset-atk-bsite-bmain-slide_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Use your full kit to quickly push onto B Site, using Relay Bolt to force defenders out of cover on back site."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "A Site Stun + Slide Exec Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-sunset-atk-asite-elbow-stun_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "Push through A Elbow with this Relay Bolt into High Gear slide to aggressively take A Site."
+        }
+    ]
+}

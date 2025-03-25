@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "B Site Execute Fast Lane + Relay Bolts Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-split-atk-bsite-bmain-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Fast Lane + Relay Bolts combo that can be used to execute onto B Site from B Main. Just tell your teammates to be careful of close left and close right as you are pushing into Site for your team."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "neon",
+            "title": "Early Round Relay Bolt to Push up A Ramp",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-split-atk-aramp-amain-relaybolt.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective Relay Bolt that can be used to push up A Ramp at the beginning of the round from A Main. Just be careful of enemy players holding the A Main cross / pushing into A Main as you push up the ramp."
+        }
+    ]
+}

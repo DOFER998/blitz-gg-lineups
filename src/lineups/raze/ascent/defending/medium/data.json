@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "raze",
+            "title": "Safe Mid Market Paintshells To Left B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-def-bmain-midmarket-paintshells.mp4",
+            "difficulty": "medium",
+            "description": "This lineup is useful for when you want to slow the push from the attackers out of B Main into B Site, from behind cover."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "raze",
+            "title": "A Rafters To B Site Double Blast Pack Rotate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/raze-ascent-def-bsite-arafters-blastpack.mp4",
+            "difficulty": "medium",
+            "description": "This double blast pack boost is useful for when you are holding A Rafters, and want to rotate to B quickly to retake the Site."
+        }
+    ]
+}

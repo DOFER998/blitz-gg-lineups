@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Start Round Mid Flash Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-def-mid-tunnel-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Utilize Flashpoint to blind attackers quickly enabling an aggressive push from B Tunnel."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Start Round Stun Elbow Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-def-elbow-bsite-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Stun Elbow with Fault Line to disrupt the attacker's B push."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Early Round A Main Contest",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/breach-breeze-def-amain-asite-stun_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this lineup to quickly disrupt an A Main push with Fault Line before blinding them with Flashpoint."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Mid Wooden Doors to Bottom Mid Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(22)breach-breeze-def-midbottom-doubledoors-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint for Bottom Mid from Mid Wooden Doors to flash enemies and allow you to swing on them."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Site to A Hall Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(18)breach-breeze-def-ahall-asite-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint to flash into A Hall from A Site."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "A Hall Doors to Mid Pillar Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(17)breach-breeze-def-midpillar-ametaldoors-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint for Mid Pillar from A Hall Doors."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "B Tunnel to Mid Pillar Flashpoint",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(15)breach-breeze-both-midpillar-btunnel-flashpoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Flashpoint for Mid Pillar from B Tunnel."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "breach",
+            "title": "Defender Spawn to B Site Aftershock",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(9)breach-breeze-def-bdefault-ctspawn-aftershock.mp4",
+            "difficulty": "easy",
+            "description": "This is a good aftershock to stop someone from planting the bomb. This is also good to kill someone if they don't stop planting the bomb."
+        }
+    ]
+}

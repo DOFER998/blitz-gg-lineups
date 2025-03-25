@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Tiles to Spawn Gatecrash",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-sunset-atk-spawn-tiles-gatecrash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this lineup to give you a Gatecrash all the way into B Defender Spawn."
+        },
+        {
+            "map": "sunset",
+            "side": "attacking",
+            "agent": "yoru",
+            "title": "Simple A Link Flash Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/yoru-sunset-atk-asite-amain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this Blindside lineup to flash A Link and Site to cover your push."
+        }
+    ]
+}

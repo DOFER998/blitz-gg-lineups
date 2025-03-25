@@ -1,0 +1,77 @@
+{
+    "totals": 8,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Back B Site Recon Bolt / Close B Site Owl Drone Combo",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-backbsite-midcannon-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Recon Bolt / Owl Drone combo for B Site. The Recon Bolt scans Back B Site, and the Owl drone is useful for gathering information on the area close outside of B Main on site. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Quick Shock Bolt For A Bridge From A Cave",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-abridge-acave-shockbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Shock Bolt is great for doing damage to players on A Bridge in an unexpected way, especially if they are smoked off on A Bridge and are lurking inside of the smoke. Keep in mind though that this should be used after the Site has already been smoked off and your team has taken enough of Site for you to safely set up the arrow."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Recon Bolt From A Lobby To A Metal Doors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-ametaldoors-alobby-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is a great Recon Bolt to pressure players near the A Metal Doors. Be aware though, that it does not scan players behind the left Metal door, and it does not scan all of A Lever. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Recon Bolt For Mid Top From Mid Cannon",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-leftmidtop-midcannon-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This Recon Bolt is great for quickly scanning the area outside of B Elbow in Mid Top, most of B Tunnel, and some of Mid Nest."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Bottom To Mid Nest / Mid Top Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-midnest-midbottom-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for scanning players in most of Mid Top, but also op players playing from the Defender Side Spawn Mid Nest connector."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Cannon To Defender Side Mid Wood Doors Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-midwooddoors-midcannon-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for revealing players on the Defender Side of Mid Wood Doors, and that area of the Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Mid Cannon Recon Bolt To Scan Close B Site ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-breeze-atk-bsite-midcannon-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for scanning players on the close side of B Site. It does take some time for this arrow to land though, so it's best used to set up for a push into B Site, or to fake taking B Site. This arrow is easy to react to, but it makes it difficult for players to easily play close to the B Main B Site chokepoint without support from their team."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Early Round Mid Top Recon Bolt From Mid Cannon",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-breeze-atk-midtop-midcannon-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for revealing players close to B Elbow in Mid Top immediately after the round starts, or a few seconds after the round starts if you want to catch enemy players slowly moving toward B Elbow, or rotating in and around B Tunnel off guard."
+        }
+    ]
+}

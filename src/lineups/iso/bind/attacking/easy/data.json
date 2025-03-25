@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "A Short to U-Hall Contingency",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-bind-atk-uhall-short-contingency_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Give your team coverage to take U-Hall with this Contingency push."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "iso",
+            "title": "Garden to B Site Contigency",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/iso-bind-atk-bsite-garden-contingency_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "This Contingency push can get you and your team onto B site while blocking defenders' line of sight."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Rafters to A Main Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/7harbor-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to retake onto A Site with."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Defender Spawn to B Site High Tide",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/8harbor-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good High Tide to retake B Site with."
+        }
+    ]
+}

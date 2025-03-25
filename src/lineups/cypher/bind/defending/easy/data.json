@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Short Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-hookah-bshort-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Hidden Spy Cam for B Short. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "Aggressive B Long Fountain Spy Cam + Full Utility Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-blong-bgarden-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Use this Spy Cam to gather information on players in Fountain and B Short. "
+        },
+        {
+            "map": "bind",
+            "side": "defending",
+            "agent": "cypher",
+            "title": "B Long Spycam From B Site Box",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-bind-def-blong-bsite-spycam.mp4",
+            "difficulty": "easy",
+            "description": "Place this Spycam on the far left fin to watch for attacking pushes up B Long."
+        }
+    ]
+}

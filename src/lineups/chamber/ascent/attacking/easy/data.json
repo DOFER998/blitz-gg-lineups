@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "B Main + Hut Default Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-ascent-atk-bmain-bmain-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this simple Trademark lineup when playing weak-side towards B, or if utility is being used to break your trip at the start of the round."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "chamber",
+            "title": "Default A Main Trip to Play Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-ascent-atk-amain-amain-trip_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "If your team is weak-side towards A, use this simple Trademark lineup at the start of the round to catch aggressive Defenders."
+        }
+    ]
+}

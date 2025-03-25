@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Tiles to Mid Courtyard Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(19)reyna-ascent-atk-midcourtyard-btiles-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind anyone peaking B Tiles from Mid or Mid Catwalk. This is perfect to peak an oper peaking you from A Tree."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Main to A Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(13)reyna-ascent-atk-asite-amain-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind A Site from A Main allowing your team to execute and take the site."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Lobby to A Main Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(11)reyna-ascent-atk-amain-alobby-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to blind your enemies peaking A Main allowing you to push and take control and clear angles."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Mid Courtyard to Mid Bottom Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(10)reyna-ascent-atk-midbottom-midcourtyard-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to push Mid and clear close angles along with blinding anyone peaking from B Market."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Main to B Site Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(8)reyna-ascent-atk-bsite-bmain-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to push into B Site and clear angles towards B Switch."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Lobby to B Main Leer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(7)reyna-ascent-atk-bmain-blobby-leer.mp4",
+            "difficulty": "easy",
+            "description": "This is a good leer to help your team push into B Main from B Lobby."
+        }
+    ]
+}

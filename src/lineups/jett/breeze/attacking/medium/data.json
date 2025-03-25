@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "jett",
+            "title": " Aggressive Mid Doors Cloudburst to Aggressively Push through Mid",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-breeze-atk-middoors-midbot-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a cloudburst that you can use to block vision of enemy players holding an angle on bottom mid, allowing you and your team to aggressively push through Mid."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Aggressive A Hall Cloudburst to Push into A Switch",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-breeze-atk-aswitch-ahall-cloudburst.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great way to push into A Switch from A Hall using one, or both of your cloudbursts. "
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "jett",
+            "title": "Mid Cannon To Mid Nest Bladestorm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/jett-breeze-atk-midnest-midcannon-bladestorm.mp4",
+            "difficulty": "medium",
+            "description": "Stand on top of the pile of rubble shown in the clip and activate your Bladestorm ability. You can then double Updraft to get high enough to kill any players in Mid Top and Mid Nest. Using this at the beginning of the round will catch players off guard as they cannot hear your Updraft ability as easily from that far."
+        }
+    ]
+}

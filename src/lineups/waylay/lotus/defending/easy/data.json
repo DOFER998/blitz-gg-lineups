@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Start Round A Main Control Saturate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-lotus-def-amain-amain-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "At the beginning of the round, throw this Saturate to prevent Attackers from quickly taking an angle to contest you and your teammates at A."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Off-Angle C Main Refract",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-lotus-def-cmain-cmain-refract_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, setup your Refract safely to aggressively contest for C Mound control and to gain information."
+        }
+    ]
+}

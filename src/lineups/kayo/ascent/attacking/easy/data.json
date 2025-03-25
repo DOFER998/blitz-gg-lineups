@@ -1,0 +1,86 @@
+{
+    "totals": 9,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Main FRAG/MENT Wine Clear",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-wine-amain-molly_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's one way to successfully flush out any Defender Wine set up, as it'll damage and kill anyone staying within the molly."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Boat + Lane ZERO/POINT Line Up",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-boat-hut-knife_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective default ZERO/POINT line up to gain information on Defenders playing close to B Main. This is great in shutting down any aggressive set up."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Early Round B Main Default ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/kayo-ascent-atk-bmain-bmain-knife_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective ZERO/POINT line up you can use at the start of the round to gather information and contest B Main. "
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "Mid Link to Mid FLASH/DRIVE",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6kayo-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good FLASH/DRIVE to blind enemies peeking mid. Especially useful against enemies peeking mid with an Operator."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lobby to A Main ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5kayo-ascent.mp4",
+            "difficulty": "easy",
+            "description": "A good ZERO/POINT to suppress enemies peeking A Lobby from A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Lobby to B Site FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(20)kayo-ascent-atk-bdefault-blobby-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for B Site from B Lobby to delay a defuse."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lobby to A Tree ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(12)kayo-ascent-atk-atree-alobby-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for A Tree from A Lobby to suppress your opponents."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "B Lobby to B Boat House ZERO/POINT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(5)kayo-ascent-atk-bboathouse-blobby-zeropoint.mp4",
+            "difficulty": "easy",
+            "description": "This is a good ZERO/POINT for B Boat House."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "kayo",
+            "title": "A Lobby to A Default FRAG/MENT",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)kayo-ascent-atk-adefault-alobby-fragment.mp4",
+            "difficulty": "easy",
+            "description": "This is a good FRAG/MENT for the default plant spot on A Site."
+        }
+    ]
+}

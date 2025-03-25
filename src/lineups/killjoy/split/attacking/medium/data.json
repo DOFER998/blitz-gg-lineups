@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Nanoswarm Lineup for B Site Pillar",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-bsite-bmain-nanoswarm_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong molly lineup to flush Defenders out into the open, while executing the B Site. This lineup is much more effective when coordinating a split on the B Site."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Main Lockdown for Attacker",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-asite-amain-lockdown_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a combination of Killjoy's utility that enables Lockdown to clear all of A Site, and a good portion of A Heaven. The turret will spot your flank and attack any Defenders from being aggressive. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Mid Mail To B Tower Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-btower-midmail-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This Nanoswarm lineup is useful for pushing players out from behind the box to the right of the Mid Mail entrance into B Tower."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Lobby To Back A Site Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-adefault-alobby-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This Nanoswarm lineup is useful for stopping players from defusing the spike behind the A Site Box. Make sure to activate the Nanoswarm as soon as possible to ensure it doesn't get destroyed as soon as it hits the ground."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Lobby To Back Left Inner A Site Corner Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-backasite-alobby-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This Nanoswarm lineup is useful for stopping players from defusing the spike on the Back Left corner of inner A Site. Make sure to activate the Nanoswarm as soon as possible to ensure it doesn't get destroyed as soon as it hits the ground."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Lobby to A Site Default Post Plant Nanoswarm",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-asite-amain-nanoswarm.mp4",
+            "difficulty": "medium",
+            "description": "This nanoswarm lineup is useful for stopping players from defusing the spike on the back side of A Site, as well as making it more diffiicult to hold that area of the site, since the nanoswarm covers such a large amount of a commonly played area, which can assist your team in getting picks on players affected by the nanoswarm."
+        }
+    ]
+}

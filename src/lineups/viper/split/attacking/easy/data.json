@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Side Attacker Default Wall to A Heaven",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-aheaven-amain-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a powerful wall you can throw at the start of the round to pressure any Defenders that are playing towards A. Essentially, this enforces Defenders to worry about A Heaven. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "A Site Toxic Screen + Poison Orb Execute Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-split-atk-asite-alobby-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "This Toxic Screen + Poison Orb combo blocks sightlines of Defenders through A Tower and A Screens, which are crucial sightlines to block during most of the common A Site Executes, alongside blocking vision of Defenders into A Main from A Ramps."
+        }
+    ]
+}

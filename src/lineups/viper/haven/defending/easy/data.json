@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "Standard Defender Wall for A Site and B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-bsite-bsite-wall_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, yet effective wall to cover the chokepoints of both A Site and B Site. "
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "A Site Ramp to B Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-asite-bsite-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "A good toxic screen to defend both entrances to A and also defend the entrance to B while only physically being on one site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "C Site to B Site Toxic Screen",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-csite-bsite-toxicscreen.mp4",
+            "difficulty": "easy",
+            "description": "A good toxic screen to defend both C Site and B Site while physically being on one site."
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "viper",
+            "title": "C Site To C Long One Way Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-haven-def-cplat-clong-poisoncloud.mp4",
+            "difficulty": "easy",
+            "description": "This one way smoke is great for holding the C Long angle and makes it impossible for the enemies to contest you."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "A Main Boosted Rendezvous Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-def-amain-amain-rendezvous.mp4",
+            "difficulty": "easy",
+            "description": "Boost yourself on top of the Tall box that sits inside of the the A Main Spawn barrier, and then use your teleport to escape from that angle after taking a shot at a player peeking into A Main. Though, be careful of utility like Raze's Paint Shells, or Breach's Aftershock being used pre-emptively on angle that Defenders commonly play near where your Rendezvous is set up after you get on top of the Tall Box."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "C Main to C Waterfall Teleport Setup to Hold Deep C Main Angle",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-lotus-def-cmain-cwaterfall-rendezvous.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple, but effective Rendezvous to hold a deep angle into C Main, and then either safely escape after taking a shot / gathering information or quickly rotate toward the other Sites once given information from elsewhere on the map."
+        }
+    ]
+}

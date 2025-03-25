@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "omen",
+            "title": "Mid Support / Control Dark Covers",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-def-mid-atree-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use these Dark Covers to support your team in Mid, and make it more difficult for the enemy team to contest Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "omen",
+            "title": "A Site Hold Dark Cover + Paranoia ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-def-asite-atree-darkcoer.mp4",
+            "difficulty": "medium",
+            "description": "Use this Dark Cover to delay enemy players from pushing into A Site when the enemy team is showing indicators that they are about to push into Site to give your teammates time to rotate toward the side of A. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "omen",
+            "title": "B Main Dark Cover + Simple Paranoia to Hold B ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-ascent-def-blane-market-darkcover.mp4",
+            "difficulty": "medium",
+            "description": "Use this simple B Main Dark Cover and Simple Paranoia when the Attackers are executing into B Site through B Main to break up their push."
+        }
+    ]
+}

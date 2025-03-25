@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Safe Early Round Dizzy for Mid from Mid Top",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-mid-midtop-dizzy.mp4",
+            "difficulty": "easy",
+            "description": "Use this to gather information in Mid or open up the opportunity for anyone on your team to peek into Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round A Main Dizzy + A Split Dizzy after Cooldown",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-asite-alobby-dizzy_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective early round Dizzy to contest space in A Main."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "gekko",
+            "title": "Early Round B Main Dizzy",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/gekko-ascent-atk-bmain-blobby-dizzy_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this Dizzy to take space in B Main at the start of the round."
+        }
+    ]
+}

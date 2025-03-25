@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Lockdown for Attacker ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-bsite-blong-lockdown_1.mp4",
+            "difficulty": "easy",
+            "description": "A strong combination of Killjoy's Alarmbot and Lockdown to secure B Site while watching flank simultaneously. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Screens Alarmbot + A Site Post Plant",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/5killjoy-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good Alarmbot to watch enemies pushing through A Screens as-well as a good setup for a post plant for on-top of A Site."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Site Post Plant Setup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/4killjoy-icebox.mp4",
+            "difficulty": "easy",
+            "description": "A good setup to watch your flank and also apply pressure to the Defenders when they are trying to retake."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Attacker Spawn Turret For B Flank",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-attackerspawn-bsideattackerspawn-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a fairly common, but effective Turret for the B Flank."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "A Belt Off Angle Turret For A Flank",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-icebox-atk-abelt-abelt-turret.mp4",
+            "difficulty": "easy",
+            "description": "This is a great Turret to watch the A Flank. It is positioned at an off angle so it might be more likely to catch a player off guard. However, if you are playing the right side of A Belt, the Turret will not alert you to players who use utility to cross to the right entrance into A Site before those players can see into A Belt."
+        }
+    ]
+}

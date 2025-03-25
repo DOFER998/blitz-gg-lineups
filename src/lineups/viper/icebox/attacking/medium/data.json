@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Standard Mid Poison Cloud For Lurking",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-mid-spawn-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Here's a strong, standard lineup you can use to deny information while simultaneously setting up a lurk. This orb is very powerful since you have three different routes to pick from to lurk, and will pull a Defender or their utility to maintain the mid space. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "B Long Post Plant Snake Bite From Garage ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-garage-bplant-snakebite_2.mp4",
+            "difficulty": "medium",
+            "description": "Position yourself like so, aim your crosshair in between the edges, and shoot for a fast post plant molly. "
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "viper",
+            "title": "Poison Cloud For Boiler Lineup",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/viper-icebox-atk-boiler-spawn-orb_2.mp4",
+            "difficulty": "medium",
+            "description": "Position yourself like so, and use this lineup for any aggressive mid purposes. This orb can be used for a B Split, along with your wall at mid."
+        }
+    ]
+}

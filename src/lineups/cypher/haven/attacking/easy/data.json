@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "A Push Flank Trapwire + A Lobby Cyber Cage ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/haven-cypher-atk-aflank-alobby-cybercage.mp4",
+            "difficulty": "easy",
+            "description": "Use this flank Trapwire when your team is aggressively pushing toward A. Then, at the very start of the round use the Cyber Cage to allow your team to cross through A Lobby and set up to exec onto A Site. You can also use the same cage throughout the attacking half to throw the attackers off of their game.  "
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Default Trapwires for C and A Flanks",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-haven-atk-cflankaflank-attackerspawn-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here are effective Default Trapwires for the C and A Flanks."
+        },
+        {
+            "map": "haven",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Default Trapwire + Mid Info Spy Cam",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/haven-cypher-atk-agarden-attackerspawn-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective default Trapwire to make it much more difficult for enemy players to flank through A Lobby, alongside an effective early round info Spy Cam for Mid."
+        }
+    ]
+}

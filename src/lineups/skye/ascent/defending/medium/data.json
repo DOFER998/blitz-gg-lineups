@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Guiding Light Cat Peek From Tree",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-cat-cat-flash_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a universally strong flash lineup you can use for info on Attackers at Mid, or to set up a play. You can set for a solo play, or coordinate one with your teammates at Bottom Mid."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Guiding Light To Retake A Site From A Rafters",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-asite-arafters-guidinglight.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for both flashing players on A Site, and getting information on players on A Site. This can be useful whether you flash someone or not, because you are either forcing enemy players to not peek, or you are getting information on players and potentially creating an opening to get a pick on Site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Trailblazer To Retake B Site From Defender Side Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-ascent-def-bsite-defendersidespawn-trailblazer.mp4",
+            "difficulty": "medium",
+            "description": "This is useful for scouting out the location of players in both outer and inner B Site when retaking the Site, and if you manage to stun someone that could be very beneficial to your and your team as you push into site."
+        }
+    ]
+}

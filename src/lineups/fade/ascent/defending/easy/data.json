@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "B Site Retake Haunt Tree From Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-bsite-ctspawn-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Enable your team with this retake Haunt line up, as it'll clear most of the site and Lane. It will not scan Attackers tucked into the back site."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Lane to B Lobby + Tiles Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-blobby-lane-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Haunt line up you can throw at any point in the game to gain information on Attackers towards the B side of the map. "
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Tree to A Site Spam Haunt ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-asite-tree-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Spam Attackers executing the A Site with this Haunt line up, as both you and your teammates on site/Heaven can kill them on the run out."
+        },
+        {
+            "map": "ascent",
+            "side": "defending",
+            "agent": "fade",
+            "title": "Early Round A Main Haunt From Barrier",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/fade-ascent-def-amain-amain-haunt_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this Haunt line up to enable teammates making a play, or simply just to get information towards A Main. "
+        }
+    ]
+}

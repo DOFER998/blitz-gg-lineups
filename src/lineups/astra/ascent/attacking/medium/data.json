@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Simple B Site Post Plant Corner Gravity Well",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-atk-bsite-blane-gravitywell.mp4",
+            "difficulty": "medium",
+            "description": "Here's a simple, but effective B Site Post Plant Gravity Well."
+        },
+        {
+            "map": "ascent",
+            "side": "attacking",
+            "agent": "astra",
+            "title": "Aggressive Catwalk Push Nebula",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/astra-ascent-atk-mid-mid-nebula_1(easy).mp4",
+            "difficulty": "medium",
+            "description": "Use these Nebula to take space in mid, push up Catwalk, and either pressure or push into A Site through Tree with your team."
+        }
+    ]
+}

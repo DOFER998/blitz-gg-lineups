@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Link Dart to Mid ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-def-mid-link-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this lineup to contest for Mid, this dart will scan into Market and prevent Window players from taking control immediately. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Retake B Site Dart From Heaven Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-def-bsite-spawn-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this dart to retake the B Site from Spawn, as it scans most of site and a bit into B Long."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Site Retake Dart From Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-def-bsite-link-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great retake dart to use for the B Site, it scans most of the site and a bit into B Long."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sova",
+            "title": "How to Support Teammates From Link - Contesting B Long ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-def-blong-link-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "At the start of the round, position yourself like so, and shoot your dart as shown in the video. This dart will be able to provide support for your teammates at B Long, while you remain Mid. "
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "sova",
+            "title": "Start Round Info Dart From A Main Barrier to A Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-pearl-def-amain-amain-dart_1.mp4",
+            "difficulty": "medium",
+            "description": "For fast control/info towards A Main, use this dart lineup to scan any Attackers there."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Front U-Hall Default Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-atk-uhall-short-smoke_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to successfully pressure Defenders at Short. This smoke provides lurk pressure, and will usually require them to put more resources to counteract the smoke. Some rounds, you won't need to do anything but just throw the smoke and let Defenders worry about it naturally."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Default Front Hookah Smoke",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-bind-atk-hookah-mid-smoke_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this smoke when defaulting towards the B side of the map, as you will be able to assist your teammates taking Long control if there are Defenders playing there. Essentially, you will have an easier time taking Hookah control, and have some utility to flash the site or Garden."
+        }
+    ]
+}

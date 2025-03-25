@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "neon",
+            "title": "B Site Fast Lane + Relay Bolt Delay Setup ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-breeze-def-bsite-btunnel-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great Fast Lane + Relay Bolt delay setup from B Tunnel."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "neon",
+            "title": "Mid Doors Retake Fast Lane for A Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/neon-breeze-def-apyramids-middoors-fastlane.mp4",
+            "difficulty": "medium",
+            "description": "Here's a great retake Fast Lane from Mid Doors, that can create a lot of space on Site for you and your team to retake control of Pyramids, and start to retake enough space in the front of A Site to defuse the spike.\n"
+        }
+    ]
+}

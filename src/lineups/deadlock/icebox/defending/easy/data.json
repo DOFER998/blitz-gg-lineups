@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Early Mid Round Barrier Mesh",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-def-mid-mid-barrier_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Deny Attackers from taking Mid space easily with this Barrier Mesh lineup. However, they may run up Tube."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Yellow + B Plant Sonic Sensors",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-def-yellow-yellow-sensor_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Make it extremely difficult for Attackers to take space and look for an early spike plant with these Sonic Sensors."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Aggressive Early Round A Main Grav Net",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-def-amain-amain-gravnet_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, throw this Gravnet to set up an aggressive play towards A Main. You can also use this to combo utility for a potential pick."
+        },
+        {
+            "map": "icebox",
+            "side": "defending",
+            "agent": "deadlock",
+            "title": "Double A Site Sonic Sensor Hold",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/deadlock-icebox-def-asite-asite-sensors_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Prevent Attackers from taking the A Site easily with these placement of Sonic Sensors."
+        }
+    ]
+}

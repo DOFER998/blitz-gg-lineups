@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Standard A Refract Dash Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-lotus-atk-asite-asite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the A Site, use this Light Speed and Refract setup to ensure a better chance of successfully doing so."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Standard B Refract Dash Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-lotus-atk-bsite-bsite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the B Site, use this Light Speed and Refract setup to ensure a better chance of successfully doing so."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "waylay",
+            "title": "Standard C Refract Dash Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-lotus-atk-csite-csite-dash_1(medium).mp4",
+            "difficulty": "medium",
+            "description": "When executing the C Site, use this Light Speed and Refract setup to ensure a better chance of successfully doing so."
+        }
+    ]
+}

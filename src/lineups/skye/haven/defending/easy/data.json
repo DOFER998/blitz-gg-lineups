@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "skye",
+            "title": "A Link To Front B Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-def-bsite-alink-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is primarily useful for breaking up the Attacker's push into B Site, gathering information on the front side of B Site, and supporting your teammates as they retake control of the Site.\n"
+        },
+        {
+            "map": "haven",
+            "side": "defending",
+            "agent": "skye",
+            "title": "C Link To Front B Site Guiding Light",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-haven-both-asite-clink-guidinglight.mp4",
+            "difficulty": "easy",
+            "description": "This is primarily useful for breaking up the Attacker's push into B Site, gathering information on the front side of B Site, and supporting your teammates as they retake control of the Site."
+        }
+    ]
+}

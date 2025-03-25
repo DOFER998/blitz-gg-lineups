@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Mid Doors to Mid Top Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/8harbor-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Cascade to push and take control of Mid, blocking off Mid Top."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "B Site Post Plant Cascade + Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/7harbor-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good combo of utility to retake the B Site."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "A Site Post Plant Cove",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/6harbor-pearl.mp4",
+            "difficulty": "easy",
+            "description": "A good Cove to throw in a post plant scenario when the enemy has retreated to A Main."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "Early Round A Main Aggression Cascade",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-pearl-def-amain-aart-cascade.mp4",
+            "difficulty": "easy",
+            "description": "Here's a great way to help your teammates take space in A Main early, and make it more difficult for enemy players to push into A Main."
+        },
+        {
+            "map": "pearl",
+            "side": "defending",
+            "agent": "harbor",
+            "title": "B Main Retake High Tide from B Link",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/harbor-pearl-def-bsite-blink-hightide.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective way to use your High Tide in one of two ways to help your team retake B Site from B link."
+        }
+    ]
+}

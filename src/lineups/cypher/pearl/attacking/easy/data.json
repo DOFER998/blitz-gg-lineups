@@ -1,0 +1,32 @@
+{
+    "totals": 3,
+    "data": [
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "B Flank Traps to Set Up Mid Lurk",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-atk-abflank-attackerspawn-trapwire_1.mp4",
+            "difficulty": "easy",
+            "description": "Use these Trapwires and Cyber Cages when your team is leaning more toward B, and you are lurking Mid."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": "Default B Site Push Flank Traps",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-atk-bsite-attackerspawn-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here are two simple, and effective traps to use to make it difficult for enemy players to flank your team as they push B Site without alerting you and your team to their position."
+        },
+        {
+            "map": "pearl",
+            "side": "attacking",
+            "agent": "cypher",
+            "title": " Default A Site Push Flank Traps ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/cypher-pearl-atk-asite-attackerspawn-trapwire.mp4",
+            "difficulty": "easy",
+            "description": "Here are two simple, and effective to use to make it difficult for enemy players to flank your team as they push A Site without alerting you and your team to their position."
+        }
+    ]
+}

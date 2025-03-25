@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Start Round Fountain Dart to Garden",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-garden-fountain-dart_2.mp4",
+            "difficulty": "easy",
+            "description": "Here's a fast dart you can use early into the round to gain information at Garden, it will scan anyone playing there. This lineup isn't specific, there's a lot of room for error but you should be able to land it successfully."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Hookah Recon Bolt to B Site Execute",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-bsite-hookah-dart_2.mp4",
+            "difficulty": "easy",
+            "description": "Use this dart to scan all of the B Site when executing, as it scans everything there. This dart requires no specific lineup, or specific position to be, so you won't have to spend much time setting up this dart."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Quick A Short To Back A Site Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-backasite-ashort-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a quick and easy Recon Bolt for back A Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "B Link To Hookah Early Round Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-hookah-blink-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This is a simple early round recon bolt for Hookah, that clears out many of the commonly held angles inside of Hookah. It doesn't clear every angle inside of Hookah though - so make sure to keep that in mind if you push inside."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "A Lobby to A Site Shock Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(6)sova-bind-atk-adefault-alobby-shockdart.mp4",
+            "difficulty": "easy",
+            "description": "This is a good shock dart to kill anyone defusing the bomb at APC."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "sova",
+            "title": "Attacker Side Spawn To A Bath Recon Bolt",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-bind-atk-ashowers-tspawn-reconbolt.mp4",
+            "difficulty": "easy",
+            "description": "This Recon Bolt lineup is useful for revealing players in all of A Bath, unless it's blocked by enemy utility (which would be very easy to do with a Jett smoke, for example)."
+        }
+    ]
+}

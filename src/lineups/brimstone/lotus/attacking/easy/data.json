@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "B Site Post Plant from B Main",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-atk-bsite-bmain-incendiary.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, and effective post plant molly from B Main for B site."
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "C Site Execute Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-atk-csite-cmain-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto C Site with your team. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard A Site Execute Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-atk-asite-amain-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto A Site with your team. "
+        },
+        {
+            "map": "lotus",
+            "side": "attacking",
+            "agent": "brimstone",
+            "title": "Standard B Site Exec Sky Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/brimstone-lotus-atk-bsite-bmain-skysmoke.mp4",
+            "difficulty": "easy",
+            "description": "Use these standard smokes when pushing onto B Site with your team. "
+        }
+    ]
+}

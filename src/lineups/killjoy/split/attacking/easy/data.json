@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Early Round Mid Turret from Market",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-mid-market-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Here's an easy combination of Killjoy's utility that allows for easier mid control."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "B Main Turret Control",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-bmain-market-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "Use this simple turret to allow for easier control of B Main."
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Start Round A Main Turret ",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-amain-amain-turret_1.mp4",
+            "difficulty": "easy",
+            "description": "A simple turret that punishes Defenders for overextending. "
+        },
+        {
+            "map": "split",
+            "side": "attacking",
+            "agent": "killjoy",
+            "title": "Lower A Sewers Alarmbot",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/killjoy-split-atk-asewers-asewers-alarmbot.mp4",
+            "difficulty": "easy",
+            "description": "This Alarmbot setup is useful for alerting you of players lurking in, or flanking through through A Sewers."
+        }
+    ]
+}

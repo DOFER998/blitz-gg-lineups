@@ -1,0 +1,59 @@
+{
+    "totals": 6,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site Smoke Exec + Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-breeze-atk-bsite-bsite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Smoke off defenders' entrances to B Site while using Paranoia to deal with defenders set up in B Back."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Simple A Site Exec Smokes",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-breeze-atk-asite-asite-smoke_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Cover the left side of A Site to allow your team to quickly push onto site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Shop to A Site Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(18)omen-breeze-atk-asite-ashop-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good Paranoia for the left box on A Site from A Shop."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Main to B Site Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(4)omen-breeze-atk-bsite-bmain-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good set of dark covers to block both the defender side entrance points onto B Site."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Site to Back B Site Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(3)omen-breeze-atk-bback-bsite-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good paranoia for back B Site. This is especially helpful during a B execute."
+        },
+        {
+            "map": "breeze",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Pyramid to A Bridge Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/(1)omen-breeze-atk-abridge-apyramids-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a dark cover for A Site to create a one-way against defenders rotating to the site."
+        }
+    ]
+}

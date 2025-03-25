@@ -1,0 +1,50 @@
+{
+    "totals": 5,
+    "data": [
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Leer from B Garden for B Site",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-atk-bgarden-bsite-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer from B Garden for B Site."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Leer from Fountain for B Long",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-atk-blong-bfountain-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer from Fountain for B Long."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "Leer from A Lobby to Peek A Bath",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-atk-abath-alobby-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer from A Lobby that allows you to peek into A Bath. "
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "A Site Leer from A Short",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-atk-asite-ashort-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that you can use to push into A Site from A Short."
+        },
+        {
+            "map": "bind",
+            "side": "attacking",
+            "agent": "reyna",
+            "title": "B Site Leer from Hookah",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/reyna-bind-atk-bsite-hookah-leer.mp4",
+            "difficulty": "easy",
+            "description": "Here's a simple, but effective Leer that you can use to push into B Site."
+        }
+    ]
+}

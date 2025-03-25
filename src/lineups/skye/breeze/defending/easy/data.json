@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "B Site Pop Flash Through Wall",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-halfwall-halfwall-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Pop flash through a Viper wall to allow you to quickly get into the fight."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "A Main Support Flash to Peek",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-amain-amain-flash_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Quickly flash A Main to disrupt an attacker's push."
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round B Tunnel To B Elbow Trailblazer",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-belbow-btunnel-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for checking for players in and around B Elbow immediately after the round begins. Be careful though since you may be in a vulnerable position if players were to push into B Site, and then push up Mid or B Elbow at the same time. \n"
+        },
+        {
+            "map": "breeze",
+            "side": "defending",
+            "agent": "skye",
+            "title": "Early Round A Switch Trailblazer For A Hall / A Rope",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/skye-breeze-def-ahall-aswitch-trailblazer.mp4",
+            "difficulty": "easy",
+            "description": "This is useful for quickly checking for players in A Hall and A Rope immediately after the round begins.\n"
+        }
+    ]
+}

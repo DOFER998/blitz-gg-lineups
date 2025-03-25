@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Aggressive Arcade Rendezvous to Spawn",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-arcade-arcade-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Seek an early engagement towards Arcade with this easy, but powerful Rendezvous lineup towards the B Site."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "B Main Rendezvous + Dish Trademark",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-amain-amain-tp_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Place this setup at the start of the round to seek an early engagement towards B Main while making sure Attackers towards Dish cannot rush up quickly."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Arcade Trademark Peek Play",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-arcade-arcade-trademark_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Have you or a teammate peek off your Trademark placed towards Arcade, for an easy pick. Becareful as Attackers have an angle to shoot when rotating between the B Site and spawn."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "chamber",
+            "title": "Arcade Trip + B Main Top TP",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/chamber-fracture-def-bmain-bmain-tp_2(easy).mp4",
+            "difficulty": "easy",
+            "description": "Use this combination of utility to keep Attackers guessing when taking B control. You can place your TP on the floor instead, to get to cover quicker if needed."
+        }
+    ]
+}

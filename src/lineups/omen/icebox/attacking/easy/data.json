@@ -1,0 +1,41 @@
+{
+    "totals": 4,
+    "data": [
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "B Tube to Mid Boiler Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-atk-btube-midboiler-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good smoke to block mid boiler and allow your team to cross without being killed by an oper. This smoke is also nice because it allows you to see your opponent if they push forward and drop."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Pipes to A Site Box Paranoia",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-atk-apipes-asitebox-paranoia.mp4",
+            "difficulty": "easy",
+            "description": "This is a good paranoia to blind the entire right side of A Site during an A execute."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "A Pipes to A Heaven Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-atk-apipes-aheaven-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good one way smoke to block the back side of site and allow your team to get into site during an execute."
+        },
+        {
+            "map": "icebox",
+            "side": "attacking",
+            "agent": "omen",
+            "title": "Mid Blue to B Orange Dark Cover",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/omen-icebox-atk-midblue-borange-darkcover.mp4",
+            "difficulty": "easy",
+            "description": "This is a good dark cover to allow safe passage to B Orange and not let the opponent see you cross."
+        }
+    ]
+}

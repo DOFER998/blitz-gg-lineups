@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "sova",
+            "title": "A Top Owl Drone Retake",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-def-adrop-atop-owldrone_1.mp4",
+            "difficulty": "medium",
+            "description": "Use this Owl Drone to clear out A Drop and create windows of opportunity for your team in other commonly held angles on Site."
+        },
+        {
+            "map": "lotus",
+            "side": "defending",
+            "agent": "sova",
+            "title": "B Site Retake Recon Bolt from C Waterfall on Rotate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/sova-lotus-def-bsite-cwaterfall-reconbolt.mp4",
+            "difficulty": "medium",
+            "description": "Use this Recon Bolt to support your team's efforts to retake B Site, while rotating from C toward B."
+        }
+    ]
+}

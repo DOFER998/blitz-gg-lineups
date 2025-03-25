@@ -1,0 +1,23 @@
+{
+    "totals": 2,
+    "data": [
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Early Arcade Saturate Fight",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-fracture-def-arcade-arcade-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Early into the round, throw this effective Saturate lineup to contest Attackers."
+        },
+        {
+            "map": "fracture",
+            "side": "defending",
+            "agent": "waylay",
+            "title": "Early Round A Main Saturate",
+            "video": "https://blitz-cdn-videos.blitz.gg/valorant/guides/waylay-fracture-def-amain-amain-saturate_1(easy).mp4",
+            "difficulty": "easy",
+            "description": "Set up a favorable fight towards A Main early into the round with this easy Saturate lineup."
+        }
+    ]
+}
