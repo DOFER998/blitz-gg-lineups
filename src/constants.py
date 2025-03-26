@@ -6,8 +6,10 @@ AGENTS: List[str] = [
     'raze', 'reyna', 'sage', 'skye', 'sova', 'tejo', 'viper', 'vyse', 'waylay', 'yoru'
 ]
 
-MAPS: List[str] = ['abyss', 'ascent', 'bind', 'breeze', 'fracture', 'haven', 'icebox', 'lotus', 'pearl', 'split',
-                   'sunset']
+MAPS: List[str] = [
+    'abyss', 'ascent', 'bind', 'breeze', 'fracture',
+    'haven', 'icebox', 'lotus', 'pearl', 'split', 'sunset'
+]
 
 SIDES: List[str] = ['attacking', 'defending']
 

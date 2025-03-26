@@ -1,4 +1,5 @@
 import asyncio
+import itertools
 import json
 import logging
 import sys
@@ -51,11 +52,8 @@ async def fetch_and_save_data(client: AsyncClient, agent: str, map_name: str, si
 async def main() -> None:
     client = AsyncClient()
 
-    for agent in AGENTS:
-        for map_name in MAPS:
-            for side in SIDES:
-                for difficulty in DIFFICULTIES:
-                    await fetch_and_save_data(client, agent, map_name, side, difficulty)
+    for agent, map_name, side, difficulty in itertools.product(AGENTS, MAPS, SIDES, DIFFICULTIES):
+        await fetch_and_save_data(client, agent, map_name, side, difficulty)
 
 
 if __name__ == '__main__':
